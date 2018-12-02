@@ -1,6 +1,5 @@
 import os
 import re
-import string
 
 mypath = os.getcwd() + "/data/training/"
 directory = os.fsencode(mypath)
