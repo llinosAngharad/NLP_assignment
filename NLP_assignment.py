@@ -1,5 +1,6 @@
 import os
 import re
+import string
 
 mypath = os.getcwd() + "/data/training/"
 directory = os.fsencode(mypath)
@@ -24,13 +25,13 @@ for file in os.listdir(directory):
         print("No files found here!")
 
 speaker_set = set()
-pattern = r"<speaker>(.*?)</speaker>"
+speaker_pattern = r"<speaker>(.*?)</speaker>"
+
 for text in training_texts:
     for line in text:
-        speaker = re.findall(pattern, line, flags=re.DOTALL)
+        speaker = re.findall(speaker_pattern, line, flags=re.DOTALL)
         for person in speaker:
             if speaker:
-                person = re.
                 speaker_set.add(person)
 
 print(speaker_set)
