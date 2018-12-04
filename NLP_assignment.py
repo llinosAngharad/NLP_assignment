@@ -73,13 +73,6 @@ def split_text(text_list):
         new_text = new_header + new_body
         print(new_text)
 
-        # header_pattern = r"(.*?)abstract:"
-        # header = re.findall(header_pattern, text, flags=re.DOTALL)
-        # if header:
-        #     header = header[0]
-        #     new_header = "~~~~~~~~~~~~~~~~~~~~~~\nHEADER\n"
-        #     new_header+= header
-
 def main():
     read_training_data(training_path, training_directory)
     # print(find_known_speakers())
