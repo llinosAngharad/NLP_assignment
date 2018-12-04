@@ -2,8 +2,378 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c943be2f-0505-4765-9b38-969b6ef44de6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Email-tagging-plan.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Email-tagging-plan.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NLP_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLP_assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/301.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/302.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/303.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/304.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/305.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/306.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/307.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/308.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/309.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/310.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/311.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/312.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/313.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/314.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/315.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/316.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/317.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/318.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/319.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/320.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/321.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/322.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/323.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/324.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/325.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/326.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/327.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/328.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/329.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/330.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/331.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/332.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/333.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/334.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/335.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/336.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/337.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/338.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/339.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/340.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/341.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/342.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/343.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/344.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/345.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/346.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/347.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/348.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/349.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/350.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/351.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/352.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/353.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/354.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/355.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/356.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/357.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/358.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/359.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/360.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/361.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/362.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/363.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/364.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/365.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/366.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/367.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/368.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/369.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/370.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/371.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/372.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/373.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/374.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/375.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/376.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/377.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/378.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/379.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/380.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/381.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/382.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/383.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/384.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/385.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/386.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/387.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/388.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/389.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/390.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/391.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/392.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/393.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/394.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/395.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/396.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/397.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/398.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/399.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/400.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/401.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/402.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/403.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/404.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/405.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/406.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/407.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/408.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/409.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/410.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/411.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/412.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/413.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/414.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/415.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/416.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/417.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/418.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/419.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/420.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/421.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/422.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/423.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/424.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/425.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/426.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/427.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/428.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/429.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/430.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/431.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/432.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/433.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/434.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/435.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/436.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/437.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/438.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/439.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/440.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/441.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/442.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/443.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/444.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/445.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/446.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/447.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/448.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/449.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/450.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/451.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/452.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/453.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/454.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/455.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/456.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/457.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/458.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/459.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/460.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/461.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/462.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/463.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/464.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/465.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/466.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/467.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/468.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/469.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/470.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/471.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/472.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/473.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/474.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/475.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/476.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/477.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/478.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/479.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/480.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/481.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/482.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/483.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/484.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_tagged/485.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/301.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/302.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/303.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/304.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/305.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/306.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/307.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/308.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/309.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/310.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/311.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/312.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/313.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/314.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/315.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/316.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/317.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/318.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/319.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/320.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/321.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/322.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/323.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/324.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/325.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/326.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/327.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/328.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/329.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/330.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/331.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/332.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/333.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/334.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/335.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/336.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/337.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/338.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/339.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/340.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/341.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/342.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/343.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/344.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/345.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/346.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/347.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/348.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/349.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/350.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/351.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/352.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/353.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/354.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/355.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/356.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/357.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/358.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/359.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/360.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/361.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/362.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/363.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/364.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/365.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/366.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/367.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/368.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/369.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/370.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/371.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/372.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/373.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/374.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/375.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/376.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/377.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/378.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/379.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/380.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/381.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/382.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/383.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/384.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/385.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/386.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/387.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/388.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/389.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/390.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/391.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/392.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/393.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/394.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/395.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/396.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/397.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/398.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/399.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/400.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/401.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/402.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/403.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/404.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/405.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/406.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/407.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/408.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/409.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/410.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/411.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/412.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/413.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/414.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/415.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/416.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/417.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/418.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/419.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/420.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/421.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/422.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/423.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/424.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/425.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/426.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/427.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/428.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/429.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/430.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/431.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/432.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/433.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/434.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/435.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/436.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/437.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/438.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/439.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/440.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/441.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/442.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/443.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/444.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/445.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/446.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/447.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/448.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/449.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/450.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/451.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/452.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/453.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/454.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/455.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/456.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/457.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/458.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/459.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/460.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/461.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/462.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/463.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/464.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/465.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/466.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/467.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/468.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/469.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/470.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/471.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/472.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/473.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/474.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/475.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/476.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/477.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/478.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/479.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/480.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/481.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/482.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/483.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/484.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/seminar_testdata/test_untagged/485.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +382,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/NLP_assignment$NLP.coverage" NAME="NLP Coverage Results" MODIFIED="1543760811118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP_assignment$NLP.coverage" NAME="NLP Coverage Results" MODIFIED="1543919264539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NLP_assignment$Python.coverage" NAME="Python Coverage Results" MODIFIED="1543745926084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
   </component>
   <component name="FileEditorManager">
@@ -20,8 +390,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NLP_assignment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="374">
+              <caret line="52" column="74" lean-forward="true" selection-start-line="52" selection-start-column="74" selection-end-line="52" selection-end-column="74" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -41,9 +411,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-298" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -117,22 +489,23 @@
       <updated>1543744791727</updated>
       <workItem from="1543744797798" duration="107000" />
       <workItem from="1543744937902" duration="9383000" />
+      <workItem from="1543913539395" duration="4985000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9490000" />
+    <option name="totallyTimeSpent" value="14475000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="-298" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09728183" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07348243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4759036" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42772278" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -156,8 +529,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/NLP_assignment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="374">
+          <caret line="52" column="74" lean-forward="true" selection-start-line="52" selection-start-column="74" selection-end-line="52" selection-end-column="74" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
