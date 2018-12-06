@@ -1,6 +1,9 @@
 import os
 import re
 
+speaker_set = set()
+location_set = set()
+
 # Reads training data and creates a list of each .txt file's contents
 def read_data(path, file):
     filename = os.fsdecode(file)
@@ -11,15 +14,16 @@ def read_data(path, file):
 
 
 # Creates a set of 'known' speakers that appear in the tagged emails
-def find_known_speakers(text, speaker_set):
+def find_known_speakers(text):
     speaker_pattern = r"<speaker>(?:Dr|Mr|Ms|Mrs|Prof|Sir|Professor)?\.?\s?([a-zA-Z ]+),?\s?(?:PhD)?<\/speaker>"
     speaker = re.findall(speaker_pattern, text, flags=re.DOTALL)
     for person in speaker:
-        if speaker: speaker_set.add(person)
+        if speaker and len(person.split())>1:
+            speaker_set.add(person)
     return speaker_set
 
 # Creates a set of 'known' locations that appear in the tagged emails
-def find_known_locations(text, location_set):
+def find_known_locations(text):
     location_pattern = r"<location>([a-zA-Z0-9 ]+)</location>"
     location = re.findall(location_pattern, text, flags=re.DOTALL)
     for place in location:
@@ -45,27 +49,63 @@ def extract_time(header):
         return start_time, end_time
     else: return None, None
 
-def extract_location(header_array, body_array):
+def extract_location(header_array, body):
     location = None
+    body_array = body.splitlines()
+    loc_pattern = r"(?:place:|location:|where:)\s*(.*)"
     # check if a location was found in the header, if it was return it
     for line in header_array:
-        loc_pattern = r"(?:place:)\s*(.*)"
         loc = re.search(loc_pattern, line, flags=re.DOTALL)
         if loc:
             location = loc.group(1)
-            return location
+    # if location was not found in header, search body using regex
     if location is None:
         for line in body_array:
-            loc_pattern = r"(?:place:|)\s*(.*)"
             loc = re.search(loc_pattern, line, flags=re.DOTALL)
             if loc:
                 location = loc.group(1)
-                return location
+    # if location is still not found, check for known locations in body
+    if location is None:
+        for loc in location_set:
+            if loc in body:
+                location = loc
+    return location
 
+def extract_speaker(header_array, body):
+    speaker = None
+    body_array = body.splitlines()
+    speaker_pattern = r"(?:who:|speaker:)\s*(.*)"
 
+    # check if a speaker was found in the header, if it was return it
+    for line in header_array:
+        sp = re.search(speaker_pattern, line, flags=re.DOTALL)
+        if sp:
+            speaker = sp.group(1)
+            speaker = clean_speaker(speaker)
+    # if speaker was not found in header, search body using regex
+    if speaker is None:
+        for line in body_array:
+            sp = re.search(speaker_pattern, line, flags=re.DOTALL)
+            if sp:
+                speaker = sp.group(1)
+                speaker = clean_speaker(speaker)
+    # if speaker is still not found, check for known speakers in body
+    if speaker is None:
+        for sp in speaker_set:
+            sp_pattern = r"(" + sp + ")"
+            for line in body_array:
+                sp = re.search(sp_pattern, line, flags=re.DOTALL)
+                if sp:
+                    speaker = sp.group(1)
+                    speaker = clean_speaker(speaker)
+    return speaker
 
-
-
+def clean_speaker(speaker):
+    speaker = re.sub(", .*", "", speaker)
+    speaker = re.sub(" / .*", "", speaker)
+    speaker = re.sub("-.*", "", speaker)
+    speaker = re.sub(r"\([^()]*\)", "", speaker)
+    return speaker
 
 def out(txt_files):
     for file in txt_files:
@@ -79,18 +119,15 @@ def out(txt_files):
 def process_training():
     training_path = os.getcwd() + "/data/training/"
     training_directory = os.fsencode(training_path)
-    speaker_set = set()
-    location_set = set()
-
     for file in os.listdir(training_directory):
         filename = os.fsdecode(file)
         try:
             if filename.endswith(".txt"):
                 text = read_data(training_path, file)
                 text = text.lower()
-                speaker_set = find_known_speakers(text, speaker_set)
-                location_set = find_known_locations(text, location_set)
-                header,body = split_text(text)
+                find_known_speakers(text)
+                find_known_locations(text)
+
         except Exception as e:
             raise e
             return "No files found here!"
@@ -114,16 +151,16 @@ def process_test_untagged():
                 text = text.lower()
                 header,body = split_text(text)
                 header_array = header.splitlines()
-                body_array = body.splitlines()
 
                 start_time, end_time = extract_time(header)
+                location = extract_location(header_array, body)
+                speaker = extract_speaker(header_array, body)
 
-                location = extract_location(header_array, body_array)
-                print(header_array)
-                print(location)
+                print(filename, speaker)
 
         except Exception as e:
             raise e
             return "No files found here!"
 
+process_training()
 process_test_untagged()
