@@ -1,0 +1,2 @@
+Hello testing!
+/Users/AppleUser/Documents/GitHub/NLP_assignment/out/88.txt
