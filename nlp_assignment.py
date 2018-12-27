@@ -158,7 +158,7 @@ def process_test_untagged():
                 location = extract_location(header_array, body)
                 speaker = extract_speaker(header_array, body)
 
-                text = tagger.tag_all(filename, text, start_time, end_time, location, speaker)
+                print(tagger.tag_all(filename, text, start_time, end_time, location, speaker))
 
         except Exception as e:
             raise e
