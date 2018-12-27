@@ -12,7 +12,6 @@ def read_data(path, file):
     text_file.close()
     return text
 
-
 # Creates a set of 'known' speakers that appear in the tagged emails
 def find_known_speakers(text):
     speaker_pattern = r"<speaker>(?:Dr|Mr|Ms|Mrs|Prof|Sir|Professor)?\.?\s?([a-zA-Z ]+),?\s?(?:PhD)?<\/speaker>"
@@ -156,8 +155,9 @@ def process_test_untagged():
                 location = extract_location(header_array, body)
                 speaker = extract_speaker(header_array, body)
 
-                print(filename, speaker)
+                print(filename, start_time, end_time, location, speaker)
 
+                tag_header()
         except Exception as e:
             raise e
             return "No files found here!"
