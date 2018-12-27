@@ -1,5 +1,6 @@
 import os
 import re
+import tagger
 
 speaker_set = set()
 location_set = set()
@@ -37,7 +38,9 @@ def split_text(text):
         body = text[i:]
         return header, body
     else:
-        return "abstract not in text", text
+        header = text
+        body = text
+        return header, body
 
 def extract_time(header):
     time_pattern = r"(?:time:)\s*((?:\d{1,2}:\d{2})\s?(?:am|pm|AM|PM|a\.m\.|p\.m\.)?)\s?-?\s?((?:\d{1,2}:\d{2})\s?(?:am|pm|AM|PM|a\.m\.|p\.m\.)?)?"
@@ -155,9 +158,8 @@ def process_test_untagged():
                 location = extract_location(header_array, body)
                 speaker = extract_speaker(header_array, body)
 
-                print(filename, start_time, end_time, location, speaker)
+                print(tagger.tag_all(filename, text, start_time, end_time, location, speaker))
 
-                tag_header()
         except Exception as e:
             raise e
             return "No files found here!"
