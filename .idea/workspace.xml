@@ -21,8 +21,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nlp_assignment.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="642">
               <caret line="160" column="23" selection-start-line="160" selection-start-column="23" selection-end-line="160" selection-end-column="23" />
+=======
+            <state relative-caret-position="564">
+              <caret line="156" column="59" lean-forward="true" selection-start-line="156" selection-start-column="59" selection-end-line="156" selection-end-column="59" />
+>>>>>>> parent of d57c1a1... tagging update
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -33,8 +38,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tagger.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="102">
               <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+=======
+            <state relative-caret-position="340">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+>>>>>>> parent of d57c1a1... tagging update
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -158,12 +168,20 @@
       <workItem from="1543744937902" duration="9383000" />
       <workItem from="1543913539395" duration="28595000" />
       <workItem from="1544969227957" duration="324000" />
+<<<<<<< HEAD
       <workItem from="1545901157644" duration="13622000" />
+=======
+      <workItem from="1545901157644" duration="12438000" />
+>>>>>>> parent of d57c1a1... tagging update
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="52031000" />
+=======
+    <option name="totallyTimeSpent" value="50847000" />
+>>>>>>> parent of d57c1a1... tagging update
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -173,7 +191,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.1879518" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -221,8 +239,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/nlp_assignment.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="642">
           <caret line="160" column="23" selection-start-line="160" selection-start-column="23" selection-end-line="160" selection-end-column="23" />
+=======
+        <state relative-caret-position="564">
+          <caret line="156" column="59" lean-forward="true" selection-start-line="156" selection-start-column="59" selection-end-line="156" selection-end-column="59" />
+>>>>>>> parent of d57c1a1... tagging update
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -231,8 +254,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tagger.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="102">
           <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+=======
+        <state relative-caret-position="340">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+>>>>>>> parent of d57c1a1... tagging update
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
