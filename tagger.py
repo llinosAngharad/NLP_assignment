@@ -10,34 +10,24 @@ def tag_all(filename, text, start_time, end_time, location, speaker):
     return text
 
 def tag_start_time(text, start_time):
+    time_pattern = r"((?:\d{1,2}:\d{2})\s?(?:am|pm|AM|PM|a\.m\.|p\.m\.)?)\s?-?\s?((?:\d{1,2}:\d{2})\s?(?:am|pm|AM|PM|a\.m\.|p\.m\.)?)?"
+    times = re.findall(time_pattern, text)
+    time_set = set()
+    for x in times:
+        if x[0] != "":
+            time_set.add(x[0])
+        if x[1] != "":
+            time_set.add(x[1])
+            
     if start_time is not None:
         start_time = time_parser.parse(start_time).time()
 
-        time_pattern = r"((?:\d{1,2}:\d{2})\s?(?:am|pm|AM|PM|a\.m\.|p\.m\.)?)\s?-?\s?((?:\d{1,2}:\d{2})\s?(?:am|pm|AM|PM|a\.m\.|p\.m\.)?)?"
-        times = re.findall(time_pattern, text)
-        time_set = set()
-        for x in times:
-            if x[0] != "":
-                time_set.add(x[0])
-            if x[1] != "":
-                time_set.add(x[1])
-        print(time_set)
-
-        datetime_set = set()
         for x in time_set:
-            datetime = time_parser.parse(x).time()
-            datetime_set.add(datetime)
-        print(datetime_set)
+            time = x.lower().replace(" ", "")
+            datetime = time_parser.parse(time).time()
 
-        for x in datetime_set:
-            if x == start_time:
-                index = datetime_.index(x)
-                text = re.sub(time_set.index(index), "<stime>" + time_set.index(index) + "</stime>", text)
-
-
-        # text = re.sub(re.escape(start_time), "<stime>"+start_time+"</stime>", text)
-        # start_time = start_time.replace(" ", "")
-        # text = re.sub(re.escape(start_time), "<stime>" + start_time + "</stime>", text)
+            if datetime == start_time:
+                text = re.sub(x, "<stime>" + x + "</stime>", text)
     return text
 
 def tag_end_time(text, end_time):
