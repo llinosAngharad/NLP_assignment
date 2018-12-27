@@ -2,7 +2,6 @@ import re
 from dateutil import parser as time_parser
 
 def tag_all(filename, text, start_time, end_time, location, speaker):
-    print(filename, start_time, end_time, location, speaker)
     text = tag_time(text, start_time, end_time)
     text = tag_location(text, location)
     text = tag_speaker(text, speaker)
@@ -24,7 +23,6 @@ def tag_time(text, start_time, end_time):
     if start_time is not None:
         start_time = time_parser.parse(start_time).time()   # Convert start time to universal datetime
         # For every time found in the text
-        print(time_set)
         for x in time_set:
             datetime = time_parser.parse(x).time()   # Convert time found in text to universal datetime
             if datetime == start_time:
@@ -37,7 +35,7 @@ def tag_time(text, start_time, end_time):
             datetime = time_parser.parse(x).time()   # Convert time found in text to universal datetime
             if datetime == end_time:
                 text = re.sub(x, "<etime>" + x + "</etime>", text)  # Search and replace end time with tags
-
+    print(text)
     return text
 
 def tag_location(text, location):
