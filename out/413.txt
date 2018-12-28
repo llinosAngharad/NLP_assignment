@@ -1,0 +1,45 @@
+<0.5.10.93.07.55.59.stankus+@stankus.adm.cs.cmu.edu (terri stankus).0>
+type:     cmu.cs.scs
+topic:    scs distinguished lecture oct. 7
+dates:    7-oct-93
+time:     <stime>4:00 pm</stime>
+postedby: stankus+ on 5-oct-93 at 07:55 from stankus.adm.cs.cmu.edu (terri stankus)
+abstract: 
+
+                                dr. mark weiser
+
+                                     xerox
+                           palo alto research center
+
+                           thursday, october 7, 1993
+                                    <stime>4:00 pm</stime>
+                                <location>wean hall 7500</location>
+			      ubiquitous computing
+
+inspired  by  the social scientists, philosophers, and anthropologists at parc,
+we have been trying to take a radical look at what computing ought to be  like.
+two  key  points  are:  people  live in an environmental surround, using space,
+muscle memory, 3-d body surround; and that people live through their  practices
+and  tacit  knowledge  so  that  the  most  powerful  things are those that are
+effectively invisible in use.  how  can  we  make  everyday  computing  conform
+better  to these principles of human effectiveness, while avoiding the traps of
+virtual reality ?  our approach:
+
+activate the world.  provide hundreds of wireless computing devices per  person
+per  office, of all scales (from 1" displays to wall sized). we are doing o.s.,
+wireless  lan,  u.i.,  packaging,  display,  pen,  handwriting,  protocol,  and
+interoperability  research  to  help bring this about.  we call it: "ubiquitous
+computing".
+
+we are completely off the workstation, pc, and pda track.  these things in  the
+office,  every place you are, are not personal.  you just grab anything that is
+nearby, and use it.  your information and state follows you,  the  hundreds  of
+devices in your office or meeting room adjust to support you.
+
+we  are not all that far along, this is a ten to twenty year quest.  we do have
+some prototype devices working.  in this talk  i'll  describe  the  origins  of
+ubiquitous  computing,  the  research  approach, and some specific scenarios of
+future computing that we  consider  important.    i'll  distinguish  ubiquitous
+computing  from  notebook, palmtop, multimedia, personal digital assistant, gui
+and virtual reality computing.  and i'll describe some of the current state  of
+our hardware and software.

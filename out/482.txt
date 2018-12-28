@@ -1,0 +1,32 @@
+<0.02.6.92.12.52.25.copetas+@gandalf.cs.cmu.edu (catherine copetas).0>
+type:     cmu.cs.scs
+topic:    sony talk: dr. seiichi watanabe
+dates:    5-jun-92
+time:     <stime>2:30 pm</stime>
+postedby: copetas+ on 02-jun-92 at 12:52 from gandalf.cs.cmu.edu (catherine copetas)
+abstract: 
+
+special cit seminar:	friday, june 5
+			scaife hall 124
+			<stime>2:30 pm</stime>
+	  	      dr. seiichi watanabe
+	         sony corporation research center
+
+  	   "an overview of recent research developments
+	         at sony's research center in japan"
+
+among the developments that he will be discussing are:
+
+	*seminconductor laser diodes
+	*magnetic recording materials for high density storage
+	*lithium ion rechargesable batteries
+	*a novel laser annealing process for functional polysilicon
+	 devices
+
+dr. watanabe is a member of sony corporation's board of directors and
+is the director of the sony research center in tokyo.  he has been with
+sony since 1967.  dr. watanabe received his bachelors, masters, and
+doctoral degrees in engineering from the university of tokyo.  his 
+primary area of interest is high frequency semiconductor devices.  he
+recently published a book entitled "seminconductor devices for electronic
+tuners."

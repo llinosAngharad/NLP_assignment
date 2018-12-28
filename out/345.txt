@@ -1,0 +1,39 @@
+<0.04.3.92.13.43.50.tmeadows@frc.ri.cmu.edu (tim meadows).0>
+type:     cmu.cs.robotics
+who:      <speaker>richard w. longman</speaker>, 
+          professor of mechanical engineering, columbia university
+topic:    learning control for improved performance in 
+          repetitive robot operations
+dates:    6-mar-92
+time:     <stime>3:30 pm</stime>
+place:    <location>baker hall, adamson wing</location>
+host:     hagen schempf, x6884
+postedby: tmeadows on 04-mar-92 at 13:43 from frc.ri.cmu.edu (tim meadows)
+abstract: 
+
+**************************************************
+ri seminar
+
+ when:	friday, march 6, 1992, <stime>3:30 pm</stime>
+
+ where:	<location>baker hall, adamson wing</location>
+	refreshments to be served by 3:15 pm
+
+ speaker:	<speaker>richard w. longman</speaker>, 
+ 	professor of mechanical engineering, columbia university
+
+ title:	learning control for improved performance in 
+ 	repetitive robot operations
+
+learning control refers to control systems that can learn from previous 
+experience performing a specific task, in order to improve their performance 
+in future executions of the task. although there are some precursors, the filed 
+started in 1984 with several researchers on different continents (including 
+professor longman, then australia) addressing the problem of improving control 
+system performance for robots performing repetitive tasks on assembly lines. 
+the talk will give an overview of learning control strategies that make use of 
+control theory concepts to accomplish their learning.
+
+ host: hagen schempf, x6884
+***************************************************************************
+

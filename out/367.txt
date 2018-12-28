@@ -1,0 +1,34 @@
+<0.10.1.95.16.54.14.mz01+@andrew.cmu.edu.1>
+type:     cmu.cs.robotics.students
+topic:    s95 graduate seminar schedule
+dates:    1-feb-95
+time:     <stime>4:15 </stime>- <etime>6:15 pm</etime>
+postedby: marcella zaragoza on 10-jan-95 at 16:54 from andrew.cmu.edu
+abstract: 
+university teaching center support for graduate students
+spring 1995
+
+included below are descriptions of:
+- spring seminars on teaching
+- ongoing reading/discussion group
+- documentation of teaching development program 
+
+the combination of activities below is designed to assist both current
+tas and those preparing for future academic positions involving
+teaching.  pre-registration is required; please see the reverse side for
+registration instructions.  additional copies of this schedule are
+available on org.utc.teaching, assocs.gso, many department bboards, and
+also by calling x8-2896.
+
+seminars on teaching
+
+planning effective lectures 
+  wednesday, february 1, <stime>4:15 </stime>- <etime>6:15 pm</etime>, carnegie conference room, warner hall
+even though all of us have observed hundreds of lectures as students,
+the process of preparing an effective lecture is anything but
+transparent.  how much material should be presented?  how can an
+instructor keep students' attention?  how can instructors tell if
+students understand the material?  by examining brief videotape excerpts
+of successful cmu faculty, participants in this seminar will examine the
+numerous factors bearing on how lectures can be most effective.  this
+seminar counts toward the documentation of teaching development program.

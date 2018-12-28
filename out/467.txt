@@ -1,0 +1,57 @@
+<1.10.1.92.09.00.27.lydia+@proof.ergo.cs.cmu.edu (lydia defilippo).0>
+type:     cmu.cs.scs
+who:      <speaker>steven skiena</speaker>
+          department of computer science
+          state university of new york, stony brook
+topic:    algorithms for square roots of graphs
+dates:    14-jan-92
+time:     <stime>1:30 pm</stime>
+place:    <location>wean hall 4634</location>
+host:     dana scott
+postedby: lydia+ on 10-jan-92 at 09:00 from proof.ergo.cs.cmu.edu (lydia defilippo)
+abstract: 
+
+
+please note that <speaker>steven skiena</speaker> will now speak
+at 1:30 instead of 3:30 due to a conflict in seminars.
+
+ speaker:   <speaker>steven skiena</speaker>
+            department of computer science
+            state university of new york, stony brook
+
+ date:	   tuesday, january 14
+ time:      <stime>1:30 pm</stime>
+ place:     <location>wean hall 4634</location>
+
+ topic:     algorithms for square roots of graphs
+
+the {\em kth power} of a graph  g = (v, e), written g^k,
+is defined to be the graph having v as its vertex set with
+vertices u, v adjacent in g^k if and only if
+there exists a path of length at most k between them.
+similarly, graph h has a {\em kth root} g if g^k = h.
+powers of graphs have several interesting properties.
+for example, the square of any biconnected graph and the
+cube of any connected graph is hamiltonian.
+
+in this talk, we present algorithms to find a square
+root g of a graph g^2 for the following special classes of graphs:
+
+	find g given g^2, where g is a tree, in o(m) time.
+
+	find g given g^2, where g^2 is planar, in o(n) time.
+
+	find g given g^2, where g is a subdivided graph, in o(m n) time.
+
+finding square roots of subdivided graphs is equivalent to inverting
+total graphs.
+in addition, we present several results on the complexity
+of finding maximum cliques and hamiltonian cycles in powers of graphs.
+
+this is joint work with yaw-ling lin.
+
+ host: dana scott
+
+appointments can be made through lydia defilippo, x3063, lydia@cs.cmu.edu.
+
+steve skiena will be at cmu monday, january 13, and tuesday, february 14.

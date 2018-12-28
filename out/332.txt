@@ -1,0 +1,11 @@
+<0.09.10.91.10.02.38.jean+@a.gp.cs.cmu.edu (jean harpley).0>
+type:     cmu.cs.robotics
+topic:    donath talk moved
+dates:    10-oct-91
+time:     <stime>1:30 </stime>- <etime>3:00 pm</etime>
+postedby: jean+ on 09-oct-91 at 10:02 from a.gp.cs.cmu.edu (jean harpley)
+abstract: 
+
+the time and place for the max donath talk, "scarecrow: behavioral control of
+mobile robots based on reflexive models", has been moved to <stime>1:30 </stime>to <etime>3:00 pm</etime>
+in <location>wean 4623</location>.  the date is unchanged, tomorrow, 10/10/91.

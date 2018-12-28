@@ -1,0 +1,47 @@
+<0.22.11.91.01.03.58.me@h.gp.cs.cmu.edu (<speaker>michael erdmann</speaker>).0>
+type:     cmu.cs.robotics
+topic:    robotics seminar, jeff kerr, friday nov 22, <stime>3:30</stime>, <location>adamson wing, baker hall</location>
+dates:    22-nov-91
+time:     <stime>3:30</stime>
+place:    <location>adamson wing, baker hall</location>
+host:     <speaker>michael erdmann</speaker>, x7883
+postedby: me on 22-nov-91 at 01:03 from h.gp.cs.cmu.edu (<speaker>michael erdmann</speaker>)
+abstract: 
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	     friendly reminder:  robotics seminar today!
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+jeff kerr will be in the manipulation lab in the late morning,
+chatting about research.   if you don't have a scheduled appointment
+and would like to chat with jeff feel free to drop by.  --- mike
+
+------------------------------------------------------------------------------
+
+	  technology transfer in robotics: a worm's eye view
+
+			      jeff kerr
+			 zebra robotics, inc.
+			palo alto, california
+
+ten years ago, while robotics was viewed as the next industry to follow the
+huge advances and successes of the electronics and computer industry, there
+were only a handful of robotics research labs around the world.  now, with
+robotics making its way into the mainstream engineering curriculum of many
+universities and with hundreds of research groups emerging around the world,
+the robotics industry itself is proving itself to be one of the great
+commercial disappointments of the last decade, with growth at a snails pace
+and with innovative technological advances extremely rare.  zebra robotics,
+for the past five years, has been attempting to commercialize force control
+capabilities for robots. i will be discussing some of my experiences in
+trying to effect technology transfer and what i see might be some of the
+reasons and some of the solutions to the great disparity between what is
+done in research labs and what is available commercially.
+
+-----------------------------------------
+refreshments at 3:15
+talk at <stime>3:30</stime>
+ location:  <location>adamson wing, baker hall</location>
+-----------------------------------------
+ host: <speaker>michael erdmann</speaker>, x7883

@@ -1,0 +1,20 @@
+<0.07.5.92.11.30.02.cary+@cary.adm.cs.cmu.edu (cary lund).0>
+type:     cmu.cs.scs
+topic:    special seminar, monday may 11
+dates:    11-may-92
+time:     <stime>10:30 am</stime> - <etime>11:00 am</etime>
+postedby: cary+ on 07-may-92 at 11:30 from cary.adm.cs.cmu.edu (cary lund)
+abstract: 
+
+           recent progress in the friend 21 project
+                     dr. hajime nonogaki
+                       fujitsu limited
+                 monday may 11, <<stime>10:30 am</stime> - <etime>11:00 am</etime>>
+                          <<location>wean hall 8220</location>>
+       the friend21 project is a miti sponsored effort to
+       develop a comfortable personal information system
+       for the 21st century.  a major concern is the user
+       interface, and one approach under current study is
+       the development of rich interface agents.  this talk
+       will discuss the user interface for friend21 and
+       present recent progress toward the project's goals.

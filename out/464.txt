@@ -1,0 +1,44 @@
+<0.05.12.91.12.29.42.lydia+@proof.ergo.cs.cmu.edu (lydia defilippo).0>
+type:     cmu.cs.scs
+who:      <speaker>gerard allwein</speaker>
+topic:    kripke models for linear logic
+dates:    13-dec-91
+time:     <stime>3:00 pm</stime>
+place:    <location>817 cathedral of learning</location>
+postedby: lydia+ on 05-dec-91 at 12:29 from proof.ergo.cs.cmu.edu (lydia defilippo)
+abstract: 
+
+
+			university of pittsburgh colloquium
+
+ date:    friday, december 13
+ time:    <stime>3:00 pm</stime>
+ place:   <location>817 cathedral of learning</location>
+ speaker: <speaker>gerard allwein</speaker>
+ topic:   kripke models for linear logic
+
+i will present a kripke model for girard's linear logic (without
+exponentials) in a conservative fashion where the logical functors
+beyond the basic lattice operations may be added one by one without
+recourse to such things as negation.  you can either have some logical
+functors or not as you choose.  commutativity and associativity are
+isolated in such a way that the base kripke model is a model for
+non-commutative, non-associative linear logic. the logic is also
+extended with a coimplication operator (see curry [1963], subtraction)
+which is residuated with linear logic's cotensor product. and we can
+add contraction to get nondistributive relevance logic. the model
+rests heavily on urquhart's representation of non-distributive
+lattices and also on dunn's gaggle theory. the valuations on the
+kripke model are three valued: true, false, and indifferent. the
+lattice representation theorem of urquhart has the nice feature of
+yielding priestley's representation theorem for distributive lattices
+if the original lattice happens to be distributive. hence the
+representation is consistent with stone's representation of
+distributive and boolean lattices and the semantics is consistent with
+halmos' representation of modal algebras and the routley-meyer
+semantics for relevance logic. linear logic has recently been
+implicated in the logical analysis of petri nets and there is research
+on-going into applying it for the theory of programming languages and
+communication architectures. incidently, linear logic with
+exponentials has been shown to be undecidable by john mitchell, andre
+scedrov, et. al., however without the exponentials it is decidable.

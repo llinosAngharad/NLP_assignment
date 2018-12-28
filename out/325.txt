@@ -1,0 +1,59 @@
+<0.5.4.91.09.34.24.l.r.adkins-shellie@b.gp.cs.cmu.edu.0>
+type:     cmu.cs.robotics
+who:      <speaker>professor hirofumi miura,</speaker>
+          mechanical engineering department & information  engineering course,
+          the university of tokyo
+topic:    dexterity and intelligence in robotic systems
+dates:    5-apr-91
+time:     <stime>3:30 pm</stime>
+place:    <location>baker hall, adamson wing</location>
+host:     michael erdmann, x7883
+postedby: l.r.adkins-shellie on 5-apr-91 at 09:34 from b.gp.cs.cmu.edu
+abstract: 
+
+
+ speaker:  <speaker>professor hirofumi miura,</speaker>
+           mechanical engineering department & information  engineering course,
+           the university of tokyo
+ title:    dexterity and intelligence in robotic systems
+ date:     april 5, 1991
+ time:     3:30 p.m. until 4:30 p.m.
+ location: <location>baker hall, adamson wing</location>
+ host:     michael erdmann, x7883
+
+there are many kinds of dexterous tasks which can be done easily by skilled
+persons, but which cannot be clearly expressed by algorithms.  when
+attempting to apply robots to these kinds of tasks, one finds that it is
+very difficult to write control programs for robots.
+
+i will discuss the dynamics and control of intelligent robots, for such
+dexterous tasks, which have been developed in our laboratory. these robots
+ include: 
+
+ 	a cup and ball game playing robot(kendama robot),
+ 	a top-spinning robot(komamawashi robot),
+ 	a stilts-type biped robot(takeuma robot),
+ 	a quadruped robot,
+ 	and learning control of inverted pendulum.
+
+through these systems, we try to demonstrate how one can write control
+programs for intelligent robots.
+
+an example of intelligent control for dexterous robots is our top-spinning
+robot system.  i am able to spin a top, yet i can not explain "how" i can
+spin a top. my brother showed me how to spin a top, and i learned the ropes
+(kotsu in japanese) of top-spinning by myself.  [my brother simply told me
+"wind a string on a top, hold one end of a string, throw a top and draw back 
+a string at a good timing".]  our robot system learns the ropes of 
+top-spinning by obvserving a human performing the action through video camera 
+and creates the control program to spin the top based on the observation.  
+our robot is able to spin a top successfully. 
+
+in the talk, video demonstrations of several of our robot systems will be
+presented.
+
+----------
+refreshments will be served from 3:15-3:30.  
+discussion and questions:  4:30-5:00.
+everyone in the cmu community is invited to attend.
+----------

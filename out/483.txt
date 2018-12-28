@@ -1,0 +1,40 @@
+<0.11.2.94.17.53.04.avatar@cs.cmu.edu (eric gardner).0>
+type:     cmu.edrc.ndim
+topic:    interesting hci seminar...
+dates:    16-feb-94
+time:     <stime>3:30</stime> - <etime>5:00</etime>
+postedby: avatar on 11-feb-94 at 17:53 from cs.cmu.edu (eric gardner)
+abstract: 
+
+hci seminar
+feb 16
+<stime>3:30</stime>-<etime>5:00</etime>
+<location>weh 5409</location>
+how to fix computers
+usefulness, usability and productivity.
+
+tom landauer
+director, cognitive science research
+bellcore
+
+in the last five years or so, many economists and associated pundits
+have born much bad news about the effect of computers on productivity.
+i'll show you the data, and conclude that things probably are just as
+bad as they seem.
+
+then we'll look for root causes and possible cures. the main problem is that
+computer applications are of little help for improving the efficiency of the
+routine mental work of the information economy, and have been improving too
+slowly. the good news is that simple, cheap, empirical usability
+evaluation and redesign can turn the situation around. fairly compelling
+evidence will be displayed. 
+
+further details:
+
+please see /afs/cs/user/dandb/hciseminar.txt for a list of upcoming hci
+seminar speakers.
+-- 
+eric gardner				email: avatar@cmu.edu
+engineering design research center	voice: (412) 268-5222
+carnegie mellon university		fax:   (412) 268-5229	
+5000 forbes avenue

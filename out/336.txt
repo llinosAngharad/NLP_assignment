@@ -1,0 +1,40 @@
+<0.21.10.91.10.53.06.jean+@a.gp.cs.cmu.edu (jean harpley).0>
+type:     cmu.cs.robotics
+topic:    reminder - li talk today
+dates:    21-oct-91
+time:     <stime>1:30 </stime>- <etime>3:00 pm</etime>
+host:     matt mason              appointments: jean harpley, jean@cs, x3802
+postedby: jean+ on 21-oct-91 at 10:53 from a.gp.cs.cmu.edu (jean harpley)
+abstract: 
+                                                             special seminar
+
+                                  zexiang li
+                         robotics research laboratory
+                  courant institute of mathematical sciences
+                              new york university
+
+                  foundations of nonholonomic motion planning
+
+                            monday, 21 october 1991
+                           <stime>1:30 </stime>- <etime>3:00 pm</etime>,  <location>8220</location> weh
+    in this talk, i will first summarize applications of nonholonomic
+    motion planning (nmp) to dextrous manipulation or assembly with a
+    robotic hand, parking a vehicle with/without trailers, attitude
+    control of a satellite using rotors or solar panel positioners,
+    reconfiguration of a space structure (e.g., a space-station or a
+    space platform/manipulator system) using internal motion and
+    maneuvering in mid-air by a spring-board diver, a gymnast and a
+    falling cat.  then, i will describe the nature of nonholonomic
+    constraints or nonintegrable conservation laws associated with
+    each of the above systems and the formulation of nonholonomic
+    motion planning problems.  i will show that a nmp problem is
+    equivalent to the constructive nonlinear controllability problem
+    of a nonlinear control system without drift.  i will also look at
+    the existence of a motion problem for a nmp problem and highlight
+    several new results we have obtained.  finally, i will present a
+    simple but effective algorithm, called the basis algorithm, for
+    computing near optimal solutions of a nmp problem, togther with
+    simulation results. a simulation package implementing the basis
+    algorithm will be discussed if time permits.
+
+     host: matt mason              appointments: jean harpley, jean@cs, x3802

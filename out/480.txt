@@ -1,0 +1,33 @@
+<0.29.4.92.00.39.29.mjs+@g.gp.cs.cmu.edu (mark stehlik).1>
+type:     cmu.cs.scs
+topic:    undergrad research presentations
+dates:    4-may-92
+time:     <stime>3:30 </stime>- <etime>5:00</etime>
+postedby: mjs+ on 29-apr-92 at 00:39 from g.gp.cs.cmu.edu (mark stehlik)
+abstract: 
+
+the other independent study projects to be presented from <stime>3:30 </stime>to 5 on monday,
+may 4 in wean 5403 are as follows:
+bill adams       genie error interface design
+gerard decatrel  virtual reality: object reconstruction
+andrew dent      implementing biological imaging algorithms
+melissa goldman  ezmail + dectalk = eztalk
+vivek gupta      data visualization in garnet
+chris kirby      applying object-oriented design to realtime system development
+greg landrum     using graphics in computer-aided instruction of science & math
+david pierce     replication-based incremental garbage collection for sml
+jeon rezvani     applying object-oriented design to realtime system development
+mike stein       high quality animation and science education
+marcus alzona    mobiltiy and control issues in the tile robot project
+scott boehmke    the design of robotic systems in the erebus project
+richard chung    simulation of robotic systems in the erebus project
+alex douglas     intelligent shared control for space robots
+carolyn dunmire  the study of intelligent human-computer interfaces
+mike mantarro    a parallel, object-oriented bioprocessor
+nanci miller     a parallel, object-oriented bioprocessor
+constantine papageorgiou  intelligent singularity avoidance in telerobotics
+-- 
+mark stehlik				assistant dean for undergrad education
+school of computer science		(412) 268-3609 [office]
+carnegie-mellon university		(412) 681-5739 [fax]
+pittsburgh, pa  15213			internet: mjs@cs.cmu.edu

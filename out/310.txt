@@ -1,0 +1,63 @@
+<0.30.1.95.17.53.06.baraff@turnover.graphics.cs.cmu.edu.0>
+type:     cmu.cs.robotics
+who:      <speaker>mel siegel</speaker>
+          senior research scientist
+          robotics institute
+topic:    3d-tv (and workstations)
+dates:    3-feb-95
+time:     <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+place:    <location>adamson wing auditorium in baker hall</location>
+postedby: baraff on 30-jan-95 at 17:53 from turnover.graphics.cs.cmu.edu
+abstract: 
+
+                       ri seminar
+
+ when:     friday, february 3, 1995; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+          refreshments will be served starting at 3:15 pm.
+
+ where:    <location>adamson wing auditorium in baker hall</location>
+
+ speaker:  <speaker>mel siegel</speaker>
+ 	  senior research scientist
+           robotics institute
+
+ title:	  3d-tv (and workstations)
+
+high definition, high speed displays integrated with fast digitization,
+image storage, and image processing now permit us to implement several
+concepts for 3d-sterescopic television (and computer workstations), many
+of which have been around, unimplementable, for a long time.  in this
+talk i will:
+
+  -- review the fundamentals of binocular 3d-stereoscopic vision
+
+  -- review historical approaches to 3d-image and 3d-stream pair display
+
+  -- narrow the discussion to approaches that use a single more-or-less flat
+     screen (like a tv or workstation monitor)
+
+  -- describe my group's research in several areas:
+
+     ** the physics of re-creating naked-eye and augmented-eye reality
+
+     ** the state-of-the-art in video: delivering the full spatial and
+        temporal resolution of an ntsc stream per eye
+
+     ** three increasingly sophisticated approaches to presenting video
+        and/or computer graphics on a workstation
+
+        ~~ a well known special purpose hardware based full-screen,
+           half spatial resolution approach
+
+        ~~ our adaptation of this approach to an x-windows environment,
+           still full screen
+
+        ~~ our new "stereo-in-windows" approach, which allows arbitrary
+           mixes of stereo and flat xwindows on one screen at one time
+           at full resolution
+
+     ** progress in the (i will show you: related) areas of image compression,
+        intermediate view interpolation, and user-adjustable stereopsis
+
+  -- demonstrate as much of this as it is practical to set up in the adamson
+     wing auditorium [tbd].

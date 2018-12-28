@@ -1,0 +1,52 @@
+<0.25.10.91.00.33.09.me@h.gp.cs.cmu.edu (michael erdmann).0>
+type:     cmu.cs.robotics
+topic:    robotics seminar, prof. jean-claude latombe, friday oct 25, 3:45, <location>doherty hall 1112</location>
+dates:    25-oct-91
+time:     3:45
+place:    <location>doherty hall 1112</location>
+postedby: me on 25-oct-91 at 00:33 from h.gp.cs.cmu.edu (michael erdmann)
+abstract: 
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	     friendly reminder:  robotics seminar today!
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  ***** please note unusual time and place *****
+
+   date:    25-oct-91
+   time:    <stime>3:45 </stime>(refreshments at 3:30)
+   place:   <location>doherty hall 1112</location>
+
+		some recent progress in motion planning
+
+			  jean-claude latombe
+	      robotics laboratory, computer science dept.
+			  stanford university
+
+   motion planning is an important problem with application in robotics,
+   process planning, design, graphic animation, and medicine. for example,
+   it may be used to automatically generate robot paths from cad models,
+   or assembly sequences for manufacturing electro-mechanical products, or
+   pipe routes for designing chemical plants, or spatial layout designs
+   optimizing future material handling and/or transportation tasks, or
+   video tapes to facilitate the transfer of instructions between groups
+   of people, or optimized irradiation procedures for treating brain
+   tumors.  motion planning is also a provably hard problem.  its
+   theoretical complexity led us to conduct research along several
+   directions, including: (1) considering simpler, but still useful
+   versions of the general problem; (2) dropping the requirement of full
+   completeness for the planners for a weaker requirement (e.g.,
+   probabilistic completeness); and (3) building opportunistic planners by
+   intimately interweaving geometry and search.  in my presentation i will
+   illustrate these directions with several results obtained over the past
+   three years: fast path planning for robots with few degrees of freedom,
+   path planning for robots with many degrees of freedom, path planning
+   for multiple robots, path planning for nonholonomic mobile robots,
+   manipulation planning with ungrasp/regrasp operations, assembly
+   planning, and motion planning/execution with incomplete and uncertain
+   knowledge. some of these results are sufficiently encouraging to
+   envision that fast path planning algorithms will soon be used on-line
+   in robots and in computer systems requiring intensive man-machine
+   interaction (e.g., robot programming, cad, graphic simulation, and
+   concurrent engineering systems).

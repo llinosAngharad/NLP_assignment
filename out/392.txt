@@ -1,0 +1,48 @@
+<0.11.1.93.08.51.56.mp3r+@j.gp.cs.cmu.edu (margaret profeta).0>
+type:     cmu.cs.scs
+topic:    pop seminar
+dates:    15-dec-92
+time:     <stime>3:00 </stime>- <etime>4:00 pm</etime>
+postedby: mp3r+ on 11-jan-93 at 08:51 from j.gp.cs.cmu.edu (margaret profeta)
+abstract: 
+
+        *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -       
+
+                                   pop seminar
+                              friday, dec 15, 1992
+                                <stime>3:00 </stime>- <etime>4:00 p.m.</etime>
+                                    weh <location>8220</location>
+              similix --- a partial evaluator for a scheme subset:
+                            overview and applications
+
+                                 anders bondorf
+                                diku, copenhagen
+
+        in   this   talk  we  present  similix,  a  publically  available
+        self-applicable partial evaluator for a subset of  scheme.  after
+        giving   a   short   review   of   partial   evaluation  (program
+        specialization), we discuss one of the core problems  in  partial
+         evaluation:  finding  a good unfolding strategy. on the one hand,
+         unfolding improves the programs resulting by partial  evaluation;
+         on the other hand, unfolding gives a risk of non-termination. the
+         strategy currently used in similix is described.
+
+        the talk proceeds with an overview of the similix system. partial
+        evaluation   is   done   as   a   multi-phase   process:   before
+        specialization,  several  analyses  are  applied  to  the  source
+        program  to  collect different kinds of information.  notably, in
+        addition to the binding time analysis, a flow analysis is used to
+        trace flow of structured and functional values.
+
+        finally,  we  discuss  applications  of  similix.  we use partial
+        evaluation to compile a small lazy functional language "lazy".  a
+        major   application   of   similix   has   been   based   on  the
+        "lazy"-experiment: automatic generation of an efficient  compiler
+        from  a denotational semantics for a rather large lazy functional
+        language "bawl" (similar to "orwell").
+
+        professor bondorf will be here thursday and friday.  if you would
+        like an appointment to speak with him, please call marge at x5025
+        or email profeta@cs.
+
+        *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -       

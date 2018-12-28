@@ -1,0 +1,35 @@
+<0.13.11.92.09.00.29.tmeadows@resumix.portal.com (tim meadows).0>
+type:     cmu.cs.robotics
+who:      <speaker>charles r. price </speaker>- nasa, johnson space center
+topic:    space robotics activities at the johnson space center
+dates:    13-nov-92
+time:     <stime>3:30 pm</stime>
+place:    <location>baker hall adamson wing</location>
+host:     hagen schempf, x6884
+postedby: tmeadows on 13-nov-92 at 09:00 from resumix.portal.com (tim meadows)
+abstract: 
+
+ri seminar
+
+ when:		friday, november 13, 1992, <stime>3:30 pm</stime>
+		refreshments to be served by 3:15 pm
+
+ where:		<location>baker hall adamson wing</location>
+
+ speaker:		<speaker>charles r. price </speaker>- nasa, johnson space center
+
+ title:		space robotics activities at the johnson space center
+
+ abstract:		previously posted
+
+ host:		hagen schempf, x6884
+
+---
+****************|**************************|**************************
+*               |                          |                         *
+*tim meadows    |  field robotics center   | carnegie mellon univ.   *
+*               |                          |                         *
+*412-268-7085   |  fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
+*               |                          |                         *
+**********************************************************************
+

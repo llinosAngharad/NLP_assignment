@@ -1,0 +1,26 @@
+<0.10.11.92.13.28.51.dmm+@maps.cs.cmu.edu (dave mckeown).0>
+type:     cmu.cs.robotics
+who:      <speaker>professor franz leberl</speaker>
+          department of photogrammetry and computer graphics
+          technical university graz
+          austria
+topic:    radargrammetric processing of magellan images of the planet venus
+dates:    10-nov-92
+time:     <stime>3:30 </stime>- <etime>5:00 pm</etime>
+place:    <location>wean hall 4625</location>
+postedby: dmm+ on 10-nov-92 at 13:28 from maps.cs.cmu.edu (dave mckeown)
+abstract: 
+
+special seminar in digital mapping and computer vision
+
+ speaker: <speaker>professor franz leberl</speaker>
+ 	 department of photogrammetry and computer graphics
+ 	 technical university graz
+ 	 austria
+
+ date:    tuesday, november 10
+ time:    <stime>3:30 </stime>- <etime>5:00 pm</etime>
+ place:   <location>wean hall 4625</location>
+ title:   radargrammetric processing of magellan images of the planet venus
+
+see previous post for full abstract.

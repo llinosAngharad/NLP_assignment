@@ -1,0 +1,25 @@
+<0.28.4.92.08.22.00.lydia+@proof.ergo.cs.cmu.edu (lydia defilippo).0>
+type:     cmu.cs.scs
+who:      <speaker>leslie lamport</speaker>
+          digital equipment corporation
+          systems research center
+topic:    the temporal logic of actions
+dates:    28-apr-92
+time:     <stime>3:30 pm</stime>
+place:    <location>wean hall 4623</location>
+postedby: lydia+ on 28-apr-92 at 08:22 from proof.ergo.cs.cmu.edu (lydia defilippo)
+abstract: 
+
+
+ reminder:
+
+ 				special seminar
+
+ speaker:  <speaker>leslie lamport</speaker>
+           digital equipment corporation
+           systems research center
+
+ date:     tuesday, april 28
+ time:     <stime>3:30 pm</stime>
+ place:    <location>wean hall 4623</location>
+ topic:    the temporal logic of actions

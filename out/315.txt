@@ -1,0 +1,65 @@
+<0.28.3.95.13.20.38.baraff@turnover.graphics.cs.cmu.edu.0>
+type:     cmu.cs.robotics
+who:      <speaker>simon penny</speaker>
+          associate professor of art and robotics
+          carnegie mellon university
+topic:    autonomous interactive artwork  
+dates:    31-mar-95
+time:     <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+place:    <location>adamson wing auditorium in baker hall</location>
+postedby: baraff on 28-mar-95 at 13:20 from turnover.graphics.cs.cmu.edu
+abstract: 
+
+                       ri seminar
+
+ when:     friday, march 31, 1995; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+          refreshments will be served starting at 3:15 pm.
+
+ where:    <location>adamson wing auditorium in baker hall</location>
+
+ speaker:  <speaker>simon penny</speaker>
+ 	  associate professor of art and robotics
+ 	  carnegie mellon university
+
+ title:	  autonomous interactive artwork  
+
+in my first formal opportunity to introduce myself and my enterprise to
+faculty and students in robotics, i will outline my interests and goals
+as associate professor of art and robotics, a joint position between the
+department of art and the robotics institute.  i'll discuss the
+problematics and potentials of this radically interdisciplinary project:
+attempting to make art with robotic technologies and techniques.  i'll
+briefly discuss my teaching practice in this area,  my class robotic art
+studio, as a way of elucidating some of these problematics. 
+
+the majority of the seminar will be spent in discussing my current
+autonomous robotic artwork petit mal, both technically and
+theoretically. petit mal, like most of my work, is a piece of
+self-reflexive technology. it is made _of_ the technology which it seeks
+to speak about,that is, robotics in general. 
+
+through the process of building robotic artworks i accrue a deeper
+understanding, not just  of  robotic  technologies and techniques, but
+of  the nature, function and aspirations of robotics as a discipline.
+such projects also (implicitly and explicitly) question the nature of
+artistic practice.  
+
+it must be emphasized that complex interaction between people and
+(digital) machines is an historically novel phenomenon. the motivations
+for producing such a technology, and its potential cultural functions,
+are a relatively unexplored subject, philosophically and aesthtically.
+we have no ``aesthetics of interactivity.''  through my art/research
+practice i realize models of possible modes of interaction which have
+cultural content.
+
+in my presentation i will engage the issue of interactivity and the
+technological interface in terms of ``representation,'' in terms of the
+(generally implicit) body of knowledge which the user brings to an
+interface in order to be able to understand and use it. in particular
+i'm interested in petit mal as an experimental realization of an
+autonomous agent inhabiting real space, the way in which its ``meaning''
+is formulated by the user/viewer in the process of interpreting its
+behavior. 
+
+i look forward to the  exchange of ideas that might arise in discussion
+of these issues.

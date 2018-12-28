@@ -1,4 +1,5 @@
 import re
+import os.path
 from dateutil import parser as time_parser
 
 def tag_all(filename, text, start_time, end_time, location, speaker):
@@ -6,6 +7,7 @@ def tag_all(filename, text, start_time, end_time, location, speaker):
     text = tag_time(text, start_time, end_time)
     text = tag_location(text, location)
     text = tag_speaker(text, speaker)
+    write_file(filename, text)
     return text
 
 # Function to tag both the start and end time
@@ -21,16 +23,13 @@ def tag_time(text, start_time, end_time):
         if x[1] != "":
             time_set.add(x[1].strip("\n"))
 
-    print(time_set)
     # Tag start_time
     if start_time is not None:
         start_time = time_parser.parse(start_time).time()   # Convert start time to universal datetime
-        print("start time: " + str(start_time))
         # For every time found in the text
         for item in time_set:
             datetime = time_parser.parse(item).time()   # Convert time found in text to universal datetime
             if datetime == start_time:
-                print("item: " + str(item))
                 new_text = re.sub(item, "<stime>" + item + "</stime>", text)  # Search and replace start time with tags
 
     # Tag end_time, if it exists
@@ -39,7 +38,7 @@ def tag_time(text, start_time, end_time):
         for x in time_set:
             datetime = time_parser.parse(x).time()   # Convert time found in text to universal datetime
             if datetime == end_time:
-                new_text = re.sub(x, "<etime>" + x + "</etime>", text)  # Search and replace end time with tags
+                new_text = re.sub(x, "<etime>" + x + "</etime>", new_text)  # Search and replace end time with tags
     return new_text
 
 def tag_location(text, location):
@@ -53,4 +52,13 @@ def tag_speaker(text, speaker):
     if speaker is not None:
         new_text = re.sub(re.escape(speaker), "<speaker>" + speaker + "</speaker>", text)
     return new_text
+
+def write_file(filename, text):
+    save_path = "/Users/AppleUser/Documents/gitHub/NLP_assignment/out/"
+    complete_filename = os.path.join(save_path, filename)
+
+    file = open(complete_filename, "w")
+    file.write(text)
+
+    file.close()
 

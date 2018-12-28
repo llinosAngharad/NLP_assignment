@@ -1,0 +1,56 @@
+<0.20.4.94.15.46.20.bag+@barbara.adm.cs.cmu.edu (barbara grandillo).0>
+type:     cmu.cs.scs
+who:      <speaker>karsten m. decker</speaker>, 
+          director of research and development
+          swiss scientific computing center
+topic:    parallel computing at the swiss scientific
+          computing center (cscs)
+dates:    21-apr-94
+time:     <stime>2:30 pm</stime>
+place:    <location>wean hall 4623 (note special place)</location>
+host:     thomas gross
+postedby: bag+ on 20-apr-94 at 15:46 from barbara.adm.cs.cmu.edu (barbara grandillo)
+abstract: 
+
+
+              special computer systems seminar
+
+         speaker:  <speaker>karsten m. decker</speaker>, 
+                   director of research and development
+                   swiss scientific computing center
+
+         topic:    parallel computing at the swiss scientific
+                   computing center (cscs)
+
+         date:     thursday, april 21, 1994 (note special date)
+
+         time:     <stime>2:30 pm</stime> (note special time)
+
+         place:    <location>wean hall 4623 (note special place)</location>
+
+we report about projects and activities in parallel computing at cscs'
+section of research and development (serd). the {\em joint cscs-eth/nec
+high performance computing software development center} is a
+collaboration with nec corporation comprising ten full-time scientists
+working in a user- and application-driven way on tools for
+parallelization support, performance monitoring, and debugging, as well
+as applications and algorithms for distributed memory parallel
+processor systems (dmpps). another project, {\em a tool environment
+for parallel programming of distributed systems} is funded by the swiss
+national science foundation in the framework of the swiss priority
+program informatics (sppif).  it's long-term research goal is to build
+a problem solving environment for convenient programming of dmpps. the
+environment is founded on a specification-level formalism tailored to
+the needs of computational scientists and successfully addresses the
+issues of performance, portability, extensibility and software reuse.
+cscs' {\em summer student internship program} (ssip), for the first
+time carried through in the summer of 1993, transforms the research and
+development results into the educational sector.  cscs' parallel
+computer systems and education laboratory (paredlab) provides a
+framework for education and training on novel computer architectures
+and software systems, knowledge acquisition in the field of
+high-performance computing, and consultation of academic institutions
+and industrial and commercial companies.
+
+ host:  thomas gross
+

@@ -1,0 +1,47 @@
+<0.02.12.91.13.54.29.marian+@marian.adm.cs.cmu.edu (marian d'amico).0>
+type:     cmu.cs.scs
+who:      <speaker>tim griffin</speaker>, at&t bell laboratories
+topic:    logical interpretations and computational simulations
+dates:    5-dec-91
+time:     <stime>3:30 pm</stime>
+place:    <location>weh 5409</location>
+postedby: marian+ on 02-dec-91 at 13:54 from marian.adm.cs.cmu.edu (marian d'amico)
+abstract: 
+
+ speaker:  <speaker>tim griffin</speaker>, at&t bell laboratories
+ topic:    logical interpretations and computational simulations
+ date:     thursday, december 5, 1991
+ time:     <stime>3:30 pm</stime>
+ place:    <location>weh 5409</location>
+
+************************************************************************
+			logic colloquium
+			thursday 5 december
+			3:30 wean 5409
+************************************************************************
+
+	logical interpretations and computational simulations
+			   <speaker>tim griffin</speaker>
+      		      at&t bell laboratories
+
+	there are many examples in the literature of mathematical 
+	logic concerning the interpretation of one logical system 
+	in another. from a perspective informed by the 
+	formulae-as-types correspondence, it is natural to 
+	investigate logical interpretations from a computational 
+	point of view.     of particular interest are logical 
+	interpretations that can be associated with simulations 
+	of one computational system in another. 
+
+	the talk surveys several results of this kind, including 
+	interpretations of classical logic in constructive logic 
+	that can be associated with ``continuation passing style'' 
+	transformations. these transformations simulate a functional 
+	language extended with control operators in a purely 
+	functional language. 	
+
+ note: <speaker>tim griffin</speaker> will be here thursday afternoon and all day friday 6 dec.
+
+ appointments:  please contact marian d'amico (marian@cs).
+
+furtherdetails:    please contact marian d'amico (marian@cs). 

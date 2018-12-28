@@ -1,0 +1,53 @@
+<0.19.10.92.13.54.54.tmeadows@resumix.portal.com (tim meadows).0>
+type:     cmu.cs.scs
+who:      <speaker>asst. professor harold l. alexander</speaker>
+topic:    research in teleoperated and cooperative control 
+          of free-flying space robots
+dates:    23-oct-92
+time:     <stime>3:30 </stime>- <etime>5:00 pm</etime>
+place:    <location>baker hall adamson wing</location>
+host:     hagen schempf, x6884
+postedby: tmeadows on 19-oct-92 at 13:54 from resumix.portal.com (tim meadows)
+abstract: 
+
+  ri seminar
+
+ when:	friday, 23 october 1992; <stime>3:30 </stime>- <etime>5:00 pm</etime>
+	refreshments to be served by 3:15 pm
+
+ where:	<location>baker hall adamson wing</location>
+
+ speaker:	<speaker>asst. professor harold l. alexander</speaker>
+
+ title:	research in teleoperated and cooperative control 
+ 	of free-flying space robots
+
+the mit laboratory for space teleoperation and robotics (lstar) is involved in the study of free-flying space robotic vehicles for performing extravehicular assembly, servicing, and repair.  lstar's experimental activities include both neutral-buoyancy and virtual-environment experiments that target the human-robot teleoperator interface, as well as cooperative, automatic control systems that work to aid the human operator.
+
+lstar's neutral-buoyancy robot, star, was designed to be serviceable, reliable, and flexible.  in order to support experiments combining human and automatic control, star is equipped with a real-time vision-based control system that has been used to demonstrate high-quality real-time control of star's position and orientation at a simulated worksite.  star has also been equipped recently with a three-degree-of-freedom manipulator arm to support 
+experiments in teleoperator positioning dexterity as well as simple, autonomous fetch-and-return experiments.
+
+lstar's virtual-environment system is designed to focus on the remote-vision systems used by a remote-vehicle operator to sense and control the vehicle's position and orientation in its environment.  it is able to simulate teleoperation of vehicles functioning in two or three dimensions, with a variety of vehicle dynamics and visual environments.  it supports both fixed-monitor and helmet-mounted displays, with or without simulated head-tracking of the remote cameras.  its primary current function is to 
+study the use of sophisticated head-tracking stereoscopic camera 
+systems and helmet-mounted displays, and to find ways to improve operator perception and control of vehicle motion using such systems.
+
+ host:	hagen schempf, x6884
+
+---
+****************|**************************|**************************
+*               |                          |                         *
+*tim meadows    |  field robotics center   | carnegie mellon univ.   *
+*               |                          |                         *
+*412-268-7085   |  fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
+*               |                          |                         *
+**********************************************************************
+
+---
+****************|**************************|**************************
+*               |                          |                         *
+*tim meadows    |  field robotics center   | carnegie mellon univ.   *
+*               |                          |                         *
+*412-268-7085   |  fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
+*               |                          |                         *
+**********************************************************************
+

@@ -1,0 +1,23 @@
+<0.1.5.95.19.19.55.koedinger@cmu.edu (ken koedinger).0>
+type:     cmu.cs.scs
+topic:    hci seminar, raj reddy, <stime>3:30 </stime>friday 5-5, wean 5409
+dates:    5-may-95
+time:     3:30
+postedby: koedinger on 1-may-95 at 19:19 from cmu.edu (ken koedinger)
+abstract: 
+
+
+ note:  different day and time!!
+
+raj reddy
+<stime>3:30 </stime>friday, may 5
+<location>wean hall 5409</location>
+
+"some necessary conditions for a good user interface"
+
+for our final human-computer interaction seminar of the semester, raj reddy
+will be presenting his thoughts on what makes a good interface good.  he
+hopes the discussion of "necessary conditions" can serve as a source for
+new hci research ideas.  should be a thought-provoking way to transition to
+the summer!
+

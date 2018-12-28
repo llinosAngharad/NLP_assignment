@@ -1,0 +1,38 @@
+<0.11.3.92.16.32.16.patty+@ius5.ius.cs.cmu.edu (patricia mackiewicz).0>
+type:     cmu.cs.robotics
+who:      <speaker>josef skrzypek</speaker>
+          machine perception laboratory
+          university of california at los angeles
+          los angeles ca, usa
+topic:    neural net models of lightness and color constancy.
+dates:    16-mar-92
+time:     <stime>3:30</stime> - <etime>5:00 pm</etime>
+place:    <location>wean hall 7220</location>
+postedby: patty+ on 11-mar-92 at 16:32 from ius5.ius.cs.cmu.edu (patricia mackiewicz)
+abstract: 
+
+
+			vasc seminar
+
+ time:		monday, march 16, 1992, <stime>3:30</stime>-<etime>5:00 pm</etime>
+ place:		<location>wean hall 7220</location>
+ speaker: 	<speaker>josef skrzypek</speaker>
+ 		machine perception laboratory
+ 		university of california at los angeles
+ 		los angeles ca, usa
+
+ comment:	if you are interested in meeting with josef skrzyek 
+ 		please contact patty mackiewicz via email at patty@ius5.  
+
+ title:		neural net models of lightness and color constancy.
+
+	one of the key problems in vision is segmentation of images into 
+	labeled patches that represent features, surfaces and objects in the
+	scene.  analytical models for delineating and labeling surfaces as
+	white, black, grey or color regardless of variation in intensity or
+	hue of the illuminant remain a matter of controversy.  computational
+	neuroscience allows test of the compatibility between physiological
+	data and computational theories of lightness and color constancy.  we
+	present here a quantitative investigation of luminance and color 
+	contrast processing using computer based models of neural networks 
+	derived from the anatomy and physiology of these visual functions.

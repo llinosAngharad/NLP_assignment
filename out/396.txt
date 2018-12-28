@@ -1,0 +1,50 @@
+<1.9.2.93.14.31.50.garth+@niagara.nectar.cs.cmu.edu (garth gibson).0>
+type:     cmu.cs.scs
+topic:    change!!: wed wwc picturetel seminar
+dates:    10-feb-93
+time:     <stime>7:15 </stime>- <etime>8:15 pm</etime>
+postedby: garth+ on 9-feb-93 at 14:31 from niagara.nectar.cs.cmu.edu (garth gibson)
+abstract: 
+
+prof patterson has demonstrated classical "absent-minded
+professor" symptoms.  the abstract posted a few days ago
+is not the talk that he plans to give.  instead, he appears
+to be giving the talk we saw last spring in our distinguished
+lecture series.  it was good then, so if you missed it or
+would like a reprise, come tomorrow evening.    ----  garth
+
+	         west coast computer science colloquium
+
+		      terabytes >> teraflops
+	or why work on processors when i/o is where the action is?
+
+			david a. patterson
+	   professor and chair, computer science division,
+	  eecs department, university of california, berkeley
+
+                        <stime>7:15 </stime>- <etime>8:15 pm</etime>
+                        <location>4623 wean hall</location>
+                (via picturetel from berkeley)
+                moderated locally by garth gibson
+[[[[[[  this is likely to be similar to the distinguished lecture given by
+	patterson here at cmu last spring.    ---  garth  ]]]]]]]
+
+amdahl's law tells us with faster processors we
+need faster and larger i/o. unfortunately disks are getting smaller rather
+than faster.  this talk describes the results of the raid project
+(redundant arrays of inexpensive disks), which offers much
+greater performance, capacity, and reliablity from i/o systems.
+
+i will also talk about a new project getting underway called sequoia 2000,
+which looks at utilizing small helical scan tapes, such as
+digital-audio tapes or video tapes, to offer terabytes of
+storage for the price of a fileserver. (sequoia 2000 is the digital
+equipment corporation funded successor to mit's project athena;
+it promises terabytes of economical and low latency storage
+for global change scientists at the university of california.)
+
+my thesis is that a factor of 1000 increase in storage capacity available
+on most ethernets will have a much greater impact than a factor of
+1000 increase in processing speed for a gaggle of scientists.
+
+----------------------------------------------------------------------------

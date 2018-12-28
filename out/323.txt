@@ -1,0 +1,42 @@
+<0.14.3.91.08.48.14.jeffrey.schlimmer@a.gp.cs.cmu.edu.0>
+type:     cmu.cs.robotics
+topic:    ai seminar next tuesday
+dates:    19-mar-91
+time:     <stime>3:30 </stime>- <etime>5:00</etime>
+host:     dave touretzky                      appointments: cary.lund@cs, x3853
+postedby: jeffrey.schlimmer on 14-mar-91 at 08:48 from a.gp.cs.cmu.edu
+abstract: 
+carnegie mellon                                              scs ai seminar
+
+---------------------------------------------------------------------------
+
+			       robert french
+			    indiana university
+
+   tabletop: a computer model of high-level perception and analogy-making
+
+			  tuesday, 19 march 1991
+			    3:30-<etime>5:00</etime> <location>weh 5409</location>
+    tabletop applies a probabilistic, emergent architecture to a relatively
+simple domain that nonetheless has a "real world" feel to it.  the tabletop
+domain consists of a table on which there are a number of ordinary table
+objects.  two people are seated across from one another at this table, and
+one of them touches some object on the table and says to the other, "do
+this!"  the latter person must then do the "same thing."  the tabletop
+program models the responses of this person.
+
+    i will discuss the various competing pressures that influence the
+choice of the "same" object.  the main feature of this architecture is that
+representations for candidate objects develop dynamically as the program
+runs and various plausible candidates emerge and compete for selection as
+the winner of the "do this!"  challenge.  this architecture will be
+compared to some of the rival analogy-making programs and the importance of
+its non-deterministic design will be discussed.
+
+    the central theme of this talk is how high-level behavior in general
+emerges from a continual and necessary interaction between a network of
+permanent concepts and a multitude of low-level perceptual agents.
+
+---------------------------------------------------------------------------
+
+ host: dave touretzky                      appointments: cary.lund@cs, x3853

@@ -1,0 +1,38 @@
+<0.1.12.93.00.02.30.marcos@gs100.sp.cs.cmu.edu (marco j schumacher).0>
+type:     cmu.cs.scs
+topic:    mse end-of-semester presentation
+dates:    3-dec-93
+time:     <stime>11:00 am</stime> - <etime>12:00 </etime>pm
+postedby: marcos on 1-dec-93 at 00:02 from gs100.sp.cs.cmu.edu (marco j schumacher)
+abstract: 
+
+		 master of software engineering (mse)                 
+     final end-of-semester presentation of the studio 92-93 team
+
+                    ------------------------------        
+		    "hasta la vista, tessellator!"
+                    ------------------------------        
+
+			    sei auditorium
+		december 3 from <stime>11:00 am</stime> to <etime>12:00 </etime>noon
+the mse 92-93 studio team will present a final review of its t2 project,
+the development of software for the tessellator robot. the tessellator 
+is designed by the field robotics center to service the tiles of nasa's
+space shuttles. the t2 team contributes the positioning system for the
+robot's manipulator and part of the high-level controller. 
+
+the presentation will cover two topics:
+
+1. project summary
+
+   this part will describe the tessellator project and highlight the 
+   t2 team's contributions.
+
+2. requirements engineering
+
+   this part will focus on an area the t2 team considers to be crucial
+   in software development: requirements engineering. the presentation
+   will discuss the challenges faced by the team and the methods (such
+   as formal specification and peer reviews) used to tackle the problems. 
+
+-----

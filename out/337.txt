@@ -1,0 +1,46 @@
+<0.21.10.91.13.38.52.maa+@isl1.ri.cmu.edu (michelle agie).0>
+type:     cmu.cs.robotics
+who:      <speaker>fritz prinz </speaker>(edrc)
+topic:    the programmable automated welding system
+dates:    25-oct-91
+time:     <stime>12:00</stime> pm - <etime>1:00 pm</etime>
+place:    <location>3313 doherty hall (large conf. room)</location>
+postedby: maa+ on 21-oct-91 at 13:38 from isl1.ri.cmu.edu (michelle agie)
+abstract: 
+
+
+ speaker: <speaker>fritz prinz </speaker>(edrc)
+
+ date: friday oct 25, 1991
+
+ time: <stime>12:00</stime>noon - <etime>1:00pm</etime>
+
+ place:<location>3313 doherty hall (large conf. room)</location>
+
+ title: the programmable automated welding system
+
+the trend toward manufacturing in small lot sizes continues, imposing
+ever new demands on the responsiveness of companies to consumer demands.
+ to be cost competitive, this requires the designer to perform part of
+the manufacturing planning early in the design phase.  towards this end
+a number of decision support tools have been developed, providing
+designers with vital information regarding the manufacturability of a
+part or a product.  part of any manufacturability study includes the
+simulations of the processes involved.  it is important that the
+designer can investigate different manufacturing scenerios and
+succesfully choose one within the constraints of his organization or the
+ones he can easily access.  dr. prinz will describe the requirements of
+an environment in which a part can be designed incorparating both the
+geometric and non-geometric information required for a complete
+product/manufacturing process description.  
+
+his presentation will describe the non-procedural programable automated
+welding-system (paws) package.  this system has three major components,
+namely, a non-manifold solid modeler for part, equipment, and
+environment definition, an sql (standard query language) compatible
+database for process definition, and a robotic motion planning module
+capable of motion optimization, interference detection and graphic
+simulation.  although this system focuses on the welding process, the
+key components of the system are equally relevant to other manufacturing
+strategies such as grinding, spraying, deburring, and cutting.
+

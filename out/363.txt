@@ -1,0 +1,65 @@
+<0.12.4.93.09.29.22.maa+@isl1.ri.cmu.edu (michelle agie).0>
+type:     cmu.cs.robotics
+who:      <speaker>ed nicolson</speaker>
+          from uc at berkeley
+topic:    ri seminars
+dates:    16-apr-93
+time:     3:30 pm - <etime>5:00 pm</etime>
+place:    <location>adamson wing auditorium</location>
+          in baker hall
+postedby: maa+ on 12-apr-93 at 09:29 from isl1.ri.cmu.edu (michelle agie)
+abstract: 
+
+
+                                 ri seminar
+                                 **********
+ where: <location>adamson wing auditorium</location>
+        in baker hall
+
+ when:  friday april 16, 1993
+
+ time:  <stime>3:30pm</stime> - <etime>5:00pm</etime>
+
+ speaker: <speaker>ed nicolson</speaker>
+          from uc at berkeley
+
+********************************************************
+       dynamic simulation of and experiments in 
+   compliant control of threaded fastener insertion
+********************************************************
+
+according to a study by nevins and whitney [1] the insertion and tightening
+of threaded fasteners is one of the most common assembly tasks, yet little
+published work has considered the type of control best suited for the
+assembly of threaded parts.  this talk will discuss a dynamic simulation and
+confirmatory experiments conducted to investigate compliant control
+techniques that guarantee proper insertion under positioning uncertainty.
+
+armed with an explicit function description of the parts, euler's equations,
+and assumptions about impulsive forces we have created a fully dynamic
+simulation of the insertion of threaded fasteners under stiffness, damping,
+and accomodation control.  points of contact between the parts are
+determined and tracked during the simulation.  reaction forces are computed
+based on the contact locations and velocity constraints.
+
+to validate the simulation a high precision robot equipped with a force and
+torque sensor carried out insertions under force-feedback control.  the
+experimental results are compared to the simulation.  based on the
+experiments and simulation, control solutions are presented for various
+regions of uncertainty in positioning.
+
+[1] j.l. nevins and d.e. whitney. assembly research. factory
+    automation, 2, 1980.
+
+===============================================================================
+ bio:
+
+ <speaker>ed nicolson</speaker> received his bachelor's degree in electrical engineering and
+ computer science from princeton university in 1987.  after spending a year
+ marketing data acquisition software at lotus development corp., he moved on
+ to greener pastures at u.c. berkeley where he received his master's degree
+ in electrical engineering in 1990 and expects his ph.d. in december 1993.
+
+his research interests are in dynamic simulation of part mating problems,
+tactile sensing, and real-time systems development.
+

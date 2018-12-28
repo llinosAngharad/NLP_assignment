@@ -1,0 +1,43 @@
+<0.14.2.95.11.08.25.mp3r+@j.gp.cs.cmu.edu (margaret profeta).0>
+type:     cmu.cs.scs
+topic:    pop seminar
+dates:    17-feb-95
+time:     <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+postedby: mp3r+ on 14-feb-95 at 11:08 from j.gp.cs.cmu.edu (margaret profeta)
+abstract: 
+                      context dependent optimizations
+
+                              morten welinder
+                             diku, copenhagen
+
+                         friday, february 17, 1995
+
+                    weh <location>8220</location>      3:30 p.m. - <etime>5:00 p.m.</etime>
+     one  price  paid  for  using  a  typed  language  for  writing an
+     interpreter is that it will typically have to encode  the  values
+     of  the  interpreted  program explicitly into one universal type,
+     val.
+
+     since val will be visible from the type of the interpreter (e.g.,
+     prg  x  val  ->  val  for a simple one) programs derived from the
+     interpreter by using, i.e., partial evaluation will  inherit  the
+     universal  type  and perform repeated projections and injections.
+     that is certainly not what we want.
+
+     however, a study of a typical derived program shows  that  it  is
+     not  possible  to improve much without further information.  this
+     is where the context of the program comes in.  a  "context"  here
+     is  a  description  of  the  input  --  in  the form of a grammer
+     defining a subset of all possible val values  --  and  a  similar
+     description of the output.
+
+     in  words,  the  context makes certain promises about the form of
+     the input and the output.  in the case of residual programs  from
+     partial evaluation it is trivial to create good contexts.
+
+     from  the  context it is possible to identify operations that are
+     not needed.  this can result in drastic  improvements,  at  least
+     with pen-and-paper examples.
+
+      note:   we welcome morten to our department.  he will be visiting
+      with peter lee for six months.

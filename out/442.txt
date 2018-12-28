@@ -1,0 +1,39 @@
+<0.13.9.94.10.54.00.prs+@n2.sp.cs.cmu.edu (peter steenkiste).0>
+type:     cmu.cs.scs
+topic:    computer systems seminar 9/16
+dates:    16-sep-94
+time:     <stime>4:00 pm</stime>
+place:    <location>mellon institute building</location>
+          4400 fifth ave.
+          3rd floor conference room
+postedby: prs+ on 13-sep-94 at 10:54 from n2.sp.cs.cmu.edu (peter steenkiste)
+abstract: 
+
+
+                                  seminar
+
+    the pittsburgh supercomputing center (psc) is hosting a seminar titled:
+
+        ***computational materials science:  the dawn of a new age***
+
+                                presented by
+                             arthur j.  freeman
+                     department of physics and astronomy
+                           northwestern university
+
+advances in computational electronic structure methods combined with those in
+computer hardware (and software) have led to the development of a new branch
+of materials science- computational materials science.  in the dawn of this 
+new age, impressive starts have already been made to understand the complexity 
+of real materials with their intriguing interplay between the underlying
+chemical, physical and structural properties.  this talk illustrates several 
+areas addressed recently, particularly at psc.
+
+                         date:   friday, september 16, 1994
+
+                         time:   4 p.m.
+
+                         place:  <location>mellon institute building</location>
+                                 4400 fifth ave.
+                                 3rd floor conference room
+

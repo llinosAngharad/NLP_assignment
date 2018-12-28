@@ -1,0 +1,22 @@
+<0.16.10.92.13.51.17.copetas+@gandalf.cs.cmu.edu (catherine copetas).0>
+type:     cmu.cs.scs
+topic:    1st annual scs homecoming lecture
+dates:    16-oct-92
+time:     <stime>3:00 pm</stime>
+postedby: copetas+ on 16-oct-92 at 13:51 from gandalf.cs.cmu.edu (catherine copetas)
+abstract: 
+
+homecoming celebrations begin today! welcome back alumni!
+
+what better way to spend a slightly rainy afternoon than with a 
+stimulating lecture. as part of the weekend programming, scs is hosting
+a homecoming lecture today (friday) for alumni and other interested
+individuals. the featured speaker is:
+
+			doug tygar
+		     associate professor
+	"the rise and fall of the data encryption standard"
+		   friday, 16 october 1992
+ 			  <stime>3:00 pm</stime>
+			<location>wean 7500</location>
+enjoy....

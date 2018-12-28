@@ -1,0 +1,39 @@
+<0.18.9.91.12.16.48.maa+@isl1.ri.cmu.edu (michelle agie).0>
+type:     cmu.cs.robotics
+who:      <speaker>d. navinchandra</speaker>
+          center for integrated manufacturing descision systems
+topic:    product design for environmental compatibility
+dates:    20-sep-91
+time:     <stime>2:00 pm</stime> - <etime>3:00 pm</etime>
+place:    <location>3313 doherty hall</location>
+postedby: maa+ on 18-sep-91 at 12:16 from isl1.ri.cmu.edu (michelle agie)
+abstract: 
+
+
+ speaker:  <speaker>d. navinchandra</speaker>
+           center for integrated manufacturing descision systems
+
+ date:  friday september 20, 1991
+
+ time:  2:00pm - <etime>3:00pm</etime>
+
+ place: <location>3313 doherty hall</location>
+
+ title:  product design for environmental compatibility
+
+there is a growing interest in making products environmentally more
+compatible.  while there is a need to make products and processes less toxic,
+to increase recyclability, and to reduce waste; we have to try to achieve
+environmental friendliness without compromising product quality.  this
+approach to design has come to be called @i(green engineering design).  the
+aim is to identify, develop, and exploit new technologies that can bolster
+productivity without costing the environment.  the idea is to inject concerns
+about environmental friendliness into the design process, where the assessment
+of environmental friendliness is based on a life-cycle view of the product.
+this includes the product's manufacturing process, distribution, use, and
+final disposal.
+
+we will examine a two part approach to green engineering: (1) the development
+of special @i(green indicators) - measures of environmental
+compatibility, and (2) tools that use the green indicators to help designers
+assess, compare, and make design decisions.

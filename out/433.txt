@@ -1,0 +1,21 @@
+<0.11.2.94.10.11.32.bag+@barbara.adm.cs.cmu.edu (barbara grandillo).4>
+type:     cmu.cs.scs
+topic:    cs/psc seminars/spring 94
+dates:    25-mar-94
+time:     <stime>4:00 pm</stime>
+postedby: bag+ on 11-feb-94 at 10:11 from barbara.adm.cs.cmu.edu (barbara grandillo)
+abstract: 
+
+           computer systems/pgh supercomputing center seminars
+                            spring '94 list
+
+these seminars will be posted separately as the date approaches.
+
+march 25
+
+james mcwilliams
+national center for atmospheric research
+"geophysical turbulance"
+4 pm, 3rd floor conference room
+mellon institute building
+-----------------

@@ -1,0 +1,39 @@
+<0.20.11.92.08.56.55.tmeadows@frc.ri.cmu.edu (tim meadows).0>
+type:     cmu.cs.scs
+who:      <speaker>eric krotkov and reid simmons</speaker>
+          carnegie mellon university
+topic:    autonomous walking for the ambler planetary
+          exploration robot
+dates:    20-nov-92
+time:     <stime>3:30 </stime>- <etime>5:00 pm</etime>
+place:    <location>baker hall - adamson wing</location>
+host:     hagen schempf, x6884
+postedby: tmeadows on 20-nov-92 at 08:56 from frc.ri.cmu.edu (tim meadows)
+abstract: 
+
+ri seminar
+
+ when:		friday, 20 november 1992, <stime>3:30 </stime>- <etime>5:00 pm</etime>
+		refreshments to be served by 3:15 pm
+
+ where:		<location>baker hall - adamson wing</location>
+
+ speakers: 	 	<speaker>eric krotkov and reid simmons</speaker>
+ 		carnegie mellon university
+
+ title:		autonomous walking for the ambler planetary
+ 		exploration robot
+
+ abstract:		previously posted
+
+ host:		hagen schempf, x6884
+
+---
+****************|**************************|**************************
+*               |                          |                         *
+*tim meadows    |  field robotics center   | carnegie mellon univ.   *
+*               |                          |                         *
+*412-268-7085   |  fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
+*               |                          |                         *
+**********************************************************************
+

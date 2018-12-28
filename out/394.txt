@@ -1,0 +1,51 @@
+<0.28.1.93.13.09.45.marian+@marian.adm.cs.cmu.edu (marian d'amico).0>
+type:     logic colloquium
+who:      <speaker>gian aldo antonelli</speaker>, univ. of pittsburgh
+topic:    a revision-theoretic analysis of the arithmetical hierarchy
+dates:    4-feb-93
+time:     <stime>3:30 pm</stime>
+place:    <location>weh 5409</location>
+host:     stephen d. brookes
+          please contact marian d'amico (marian@cs) for appointments.
+postedby: marian+ on 28-jan-93 at 13:09 from marian.adm.cs.cmu.edu (marian d'amico)
+abstract: 
+
+ type:     logic colloquium
+ who:      <speaker>gian aldo antonelli</speaker>, univ. of pittsburgh
+ topic:    a revision-theoretic analysis of the arithmetical hierarchy
+ dates:    4-feb-93
+ time:     <stime>3:30 pm</stime>
+ place:    <location>weh 5409</location>
+ host:     stephen d. brookes
+ 	  please contact marian d'amico (marian@cs) for appointments.
+
+in this paper i apply the idea of revision rules, originally
+developed within the framework of the theory of truth and later
+extended to a general mode of definition, to the analysis of
+the arithmetical hierarchy.  this is also intended as an example of
+how ideas and tools from philosophical logic can provide a different
+perspective on mathematically more "respectable" entities.
+
+revision rules were first introduced by a. gupta (1982) and n. belnap
+(1982) as tools in the theory of truth, and have found their most
+detailed exposition to date in gupta & belnap (1993), where they
+provide the foundations for a general theory of (possibly circular)
+definitions.  revision rules are non-monotonic inductive operators
+that are iterated into the transfinite beginning with some given
+"bootstrapper" or "initial guess." since their iteration need not
+give rise to an increasing sequence, revision rules require a
+particular kind of operation of "passage to the limit:" rather
+than, as is usual in the monotone case, taking the cumulative result
+or union of what is obtained at previous stages, in revision theory
+we take the "inferior limit" of the sequence, i.e., the set of
+items that do not oscillate cofinally in the sequence, but eventually
+stabilize. 
+
+this idea is applied in recursion theory to obtain a recursive
+operator g(x,phi) whose iteration over omega2 beginning with
+any total function satisfying certain relatively simple conditions
+gives rise to sets of increasing arithmetical complexity.
+
+the tex version of the abstract, posted on physical bboards, gives 
+more details.
+

@@ -1,0 +1,35 @@
+<0.9.10.92.09.10.59.tmeadows@resumix.portal.com (tim meadows).0>
+type:     cmu.cs.robotics
+topic:    antarctic exploration robotics
+dates:    9-oct-92
+time:     <stime>3:30 </stime>- <etime>5:00 pm</etime>
+place:    <location>baker hall adamson wing</location>
+postedby: tmeadows on 9-oct-92 at 09:10 from resumix.portal.com (tim meadows)
+abstract: 
+
+ri seminar
+
+ when:		friday, october 9, 1992, <stime>3:30 </stime>- <etime>5:00 pm</etime>
+		refreshments to be served by 3:15 pm
+
+ where:		<location>baker hall adamson wing</location>
+
+ spreaker:		dr. william "red" l. whittaker-
+ 		principal scientist and director, 
+ 		the field robotics center- cmu
+
+ title:		antarctic exploration robotics
+
+ abstract:		posted earlier
+
+hosted by:		hagen schempf, x6884
+
+---
+****************|**************************|**************************
+*               |                          |                         *
+*tim meadows    |  field robotics center   | carnegie mellon univ.   *
+*               |                          |                         *
+*412-268-7085   |  fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
+*               |                          |                         *
+**********************************************************************
+

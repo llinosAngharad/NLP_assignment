@@ -1,0 +1,21 @@
+<0.14.1.92.08.24.22.lydia+@proof.ergo.cs.cmu.edu (lydia defilippo).0>
+type:     cmu.cs.scs
+topic:    algorithms for square roots of graphs
+dates:    14-jan-92
+time:     <stime>1:30 pm</stime>
+place:    <location>wean hall 4634</location>
+postedby: lydia+ on 14-jan-92 at 08:24 from proof.ergo.cs.cmu.edu (lydia defilippo)
+abstract: 
+
+
+ reminder:
+
+ speaker:   <speaker>steven skiena</speaker>
+            department of computer science
+            state university of new york, stony brook
+
+ date:	   tuesday, january 14
+ time:      <stime>1:30 pm</stime>
+ place:     <location>wean hall 4634</location>
+
+ topic:     algorithms for square roots of graphs

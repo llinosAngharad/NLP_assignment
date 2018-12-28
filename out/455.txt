@@ -1,0 +1,36 @@
+<0.30.11.94.11.41.13.prs+@n2.sp.cs.cmu.edu (peter steenkiste).0>
+type:     cs seminar
+who:      <speaker>rick stevens</speaker>, argonne national laboratory
+topic:    cs seminar 12/2: <speaker>rick stevens</speaker>
+dates:    2-dec-94
+time:     <stime>4:00 pm</stime>
+place:    <location>5409 wean hall</location>
+duration: 1.5 hours
+host:     peter steenkiste
+postedby: prs+ on 30-nov-94 at 11:41 from n2.sp.cs.cmu.edu (peter steenkiste)
+abstract: 
+
+
+ type:     cs seminar
+ who:      <speaker>rick stevens</speaker>, argonne national laboratory
+ dates:    2-dec-94
+ time:     <stime>4:00 pm</stime>
+ place:    <location>5409 wean hall</location>
+ duration: 1.5 hours
+ host:     peter steenkiste
+
+ labspace:  developing the national electronic laboratory infrastructure
+
+the labspace project integrates emerging multiuser virtual
+environment technology with state of the art multimedia interfaces in
+order to support scientific collaboration.  the resulting networked
+environment, composed of a persistent collection of objects and a
+flexible history mechanism, allows the creation of electronic virtual
+laboratories.  these virtual laboratories will be networked locations
+where scientists will interact with analytical electron microscopes,
+high energy physics experiments and data, and, most importantly, each
+other.  the labspace project will develop the tools to create these
+virtual laboratories and the scientists' interfaces, and will
+validate these integrated tools in two end-user testbeds.
+
+for appointments, please contact (sandling@cs).

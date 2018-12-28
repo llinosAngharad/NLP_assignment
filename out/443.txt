@@ -1,0 +1,24 @@
+<0.16.9.94.14.14.59.prs+@n2.sp.cs.cmu.edu (peter steenkiste).11>
+type:     cmu.cs.scs
+topic:    calendar joint cs-psc seminar series
+dates:    9-dec-94
+time:     <stime>4:00 pm</stime>
+postedby: prs+ on 16-sep-94 at 14:14 from n2.sp.cs.cmu.edu (peter steenkiste)
+abstract: 
+
+appended is the calendar for fall joint cs-psc seminar series.  
+i will post weekly reminders with an abstract.
+
+all seminars are on friday at 4, unless otherwise noted.  most 
+speakers spend some time in pittsburgh to find out about ongoing 
+research.  please contact barbara sandling if you want to talk to 
+the speaker,
+
+peter
+-----------------
+
+dec 9
+
+"cosmology grand challenge"
+edmund bertschinger, massachusetts institute of technology
+mellon institute, 3rd floor conference room, 4:00 p.m.

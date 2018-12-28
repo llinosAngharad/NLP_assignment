@@ -1,0 +1,40 @@
+<0.20.10.93.15.35.02.plp+@phyllis.adm.cs.cmu.edu (phyllis pomerantz).0>
+type:     ai seminar
+who:      <speaker>rich korf </speaker>(ucla)
+topic:    best-first minimax search
+dates:    21-oct-93
+time:     <stime>3:30 pm</stime>
+place:    <location>4623 wean hall</location>
+host:     dave mckeown
+postedby: plp+ on 20-oct-93 at 15:35 from phyllis.adm.cs.cmu.edu (phyllis pomerantz)
+abstract: 
+
+ type:     ai seminar
+ who:      <speaker>rich korf </speaker>(ucla)
+ topic:    best-first minimax search
+ dates:    21-oct-93
+ time:     3:30 p.m.(note unusual day and room: thursday - 4623 weh)
+ place:    <location>4623 wean hall</location>
+ host:     dave mckeown
+
+best-first minimax: a selective search algorithm for two-player games
+by
+richard e. korf
+computer science department
+university of california, los angeles
+
+we present a very simple selective minimax search algorithm for two-player
+games. it always expands next the frontier node at the end of the principal
+variation, or current best line of play, which is the node that determines the
+minimax value of the root. the algorithm requires no information other than a
+static evaluation function, and its time overhead per node is similar to that
+of alpha-beta minimax.  on random game trees, our algorithm outperforms an
+efficient implementation of alpha-beta, giving both the same amount of
+computation.  in the game of othello, using the evaluation function from bill,
+the world's best program, best-first minimax also outplays alpha-beta.  we
+present an implementation of the algorithm that reduces its space complexity
+from exponential to linear in the search depth, at the cost of increased time
+complexity.  finally, we present a hybrid best-first extension algorithm that
+combines alpha-beta and best-first minimax, and performs significantly better
+than either pure algorithm in both domains.
+

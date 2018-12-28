@@ -1,0 +1,32 @@
+<0.6.4.95.20.03.41.os22+@andrew.cmu.edu (oliver schulte).0>
+type:     cmu.cs.robotics.students
+topic:    financial aid seminar this thursday
+dates:    6-apr-95
+time:     <stime>4:30 </stime>- <etime>6:30 pm</etime>
+place:    <location>adamson wing, baker hall</location>
+postedby: os22+ on 6-apr-95 at 20:03 from andrew.cmu.edu (oliver schulte)
+abstract: 
+
+
+student aid: what there is and how to get it
+
+as part of national graduate awareness week, gso presents an information
+seminar on graduate student loans.
+
+dave gould from the financial aid office will give an overview of
+federal loan programs, explain eligibility criteria and application
+procedures, and answer any questions you may have.
+
+ time: thursday, april 6, 4:30-<etime>6:30 p.m.</etime>
+
+ place: <location>adamson wing, baker hall</location>
+
+gso reps: please distribute this announcement in your department.
+
+oliver
+
+-----------------------------------------------------------------------------
+oliver schulte  os22@andrew.cmu.edu          gso liasion officer
+logic and computation program		     "a is better off if b is better 
+carnegie mellon university, pittsburgh, pa   off" - v. foerster
+

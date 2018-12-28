@@ -1,0 +1,61 @@
+<0.20.9.94.15.29.08.prs+@n2.sp.cs.cmu.edu (peter steenkiste).0>
+type:     cmu.cs.scs
+topic:    9/23 cs/psc seminar
+dates:    23-sep-94
+time:     <stime>4:00 pm</stime>
+place:    <location>wean hall 5409</location>
+          cmu
+postedby: prs+ on 20-sep-94 at 15:29 from n2.sp.cs.cmu.edu (peter steenkiste)
+abstract: 
+
+
+ 		  tempest: user-level shared memory
+
+			     david wood
+		     computer sciences department
+		       university of wisconsin
+		       1210 west dayton street
+			  madison, wi 53706
+
+future parallel computers must execute efficiently both hand-coded
+applications and also programs written in high-level programming
+languages.  today's machines limit programs to a single communication
+paradigm---message-passing or shared-memory---which results in uneven
+performance.  to address this problem, we have developed the tempest
+interface, which supports shared-memory, message-passing, and hybrid
+applications.  tempest enhances portability of parallel programs by
+allowing low-cost networks of workstations to provide the same
+abstractions (e.g., shared memory) as high-performance parallel
+machines.
+
+the tempest interface consists of low-level communication and
+memory-system mechanisms.  policies, such as shared memory, are
+implemented in user-level software, which allows programmers and
+compilers to customize policies to an application's semantics and
+sharing patterns.  experiments show that custom cache coherency
+policies can produce upto an order-of-magnitude performance
+improvement.
+
+we have completed two implementations of the tempest interface.
+typhoon illustrates the performance of first-class hardware support
+for tempest.  this proposed hardware system implements tempest using a
+fully-programmable, user-level processor in the network interface.
+blizzard demonstrates tempest's portability by implementing the
+interface in software running on stock hardware (a thinking machines
+cm-5).  we are currently developing a third tempest implementation by
+porting blizzard to the wisconsin cow (cluster of workstations).
+
+this work is part of the wisconsin wind tunnel project, co-led by
+mark hill, james larus, and david wood.
+
+                         date:   friday, september 23, 1994
+
+                         time:   4 p.m.
+
+                         place:  <location>wean hall 5409</location>
+ 				cmu
+
+refreshments served at 3:45
+
+the speaker will be here all day friday.  please contact 
+barbara sandling (sandling@cs) if you want to talk to him.

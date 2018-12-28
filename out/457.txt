@@ -1,0 +1,36 @@
+<0.7.2.95.09.55.31.daz+@amm.adm.cs.cmu.edu (dorothy a zaborowski).0>
+type:     cmu.cs.scs
+topic:    theory seminar
+dates:    10-feb-95
+time:     <stime>3:30</stime> - <etime>5:00</etime>
+host:     avrim blum
+postedby: daz+ on 7-feb-95 at 09:55 from amm.adm.cs.cmu.edu (dorothy a zaborowski)
+abstract: 
+
+		  friday, february 10, 1995
+	            wean hall - <stime>3:30</stime>-<etime>5:00</etime>
+         size-estimation framework with applications 
+           to transitive closure and reachability
+
+                         edith cohen 
+                  at\&t bell laboratories
+
+computing transitive closure and reachability information in directed
+graphs is a fundamental graph problem with many applications.  the
+fastest known algorithms run in $o(min(mn,n^{2.38})$ time, where $n$
+is the number of nodes and $m$ the number of edges in the graph.  it
+is often the case that the aim is to compute the size of the
+transitive closure and the number of nodes reachable from certain
+nodes rather than computing them explicitly.  examples of potential
+applications are database query optimization or optimizing
+multiplications of large real-valued matrices.  we present an $o(m)$
+time randomized algorithm that estimates the number of nodes reachable
+from every node and the size of the transitive closure.  another
+ramification of our estimation scheme is a $\tilde{o}(m)$ time
+algorithm for estimating sizes of neighborhoods in directed graphs
+with nonnegative weights.  our size-estimation algorithms are much
+faster than performing the respective explicit computations and
+improve significantly over previous estimation methods.
+
+ host: avrim blum
+ appts: daz@cs

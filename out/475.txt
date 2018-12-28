@@ -1,0 +1,53 @@
+<0.08.4.92.07.27.05.stankus+@stankus.adm.cs.cmu.edu (terri stankus).0>
+type:     cmu.cs.scs
+topic:    distinguished lecture--today
+dates:    8-apr-92
+time:     3:30 pm
+postedby: stankus+ on 08-apr-92 at 07:27 from stankus.adm.cs.cmu.edu (terri stankus)
+abstract: 
+
+                       gaschnig/oakley memorial lecture
+
+                            war stories from andrew
+
+                                james h. morris
+                         professor of computer science
+
+                           wednesday, april 8, 1992
+                                  time <stime>3:30pm</stime>
+                                <location>wean hall 7500</location>
+   it  has been five years since i stopped working on andrew, so the freedom
+   of information act -- along with the passing from power of several people
+   --  allows  me  to  tell  some  candid stories about it. in 1983, the itc
+   started and grew to about 30 people. eight were ibmers, ten  or  so  were
+   newly  minted  ph.d.s  from  our  very  own  department. we built andrew,
+   partially in the model of spice and the alto  system.  it  achieved  some
+   real  successes  but  didn't accomplish all that we'd hoped.  much of the
+   problem was intrinsic to the way the world is, compared to how we thought
+   it   was.   i   often  meet  people  who  still  have  some  of  my  1982
+   misperceptions.
+
+   i will reconsider some of the early,  crucial  decisions  of  the  andrew
+   project  related  to  wiring,  protocols, workstations, file systems, and
+   software. i'll assess the impact of andrew on education and discuss  what
+   ibm  and  cmu  ultimately  got  out  of  it.  i will argue that unix, the
+   macintosh, and electronic mail will not survive to the next century.
+
+   finally, i'll offer eight opinions that computer scientists  who  venture
+   into the real world should consider:
+
+      1. slowness kills.
+
+      2. big, integrated systems lose.
+
+      3. virtual << real.
+
+      4. programmer productivity is not so important.
+
+      5. technology transfer rarely works.
+
+      6. engineers don't buy; they log roll.
+
+      7. industrial funding is difficult.
+
+      8. 2nd system < 1st system < 3rd system.

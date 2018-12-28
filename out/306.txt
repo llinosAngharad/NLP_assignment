@@ -1,0 +1,43 @@
+<0.6.12.94.16.19.21.plp+@hostess.graphics.cs.cmu.edu (phyllis pomerantz).0>
+type:     special cs seminar
+who:      <speaker>jerome feldman</speaker>, icsi and uc berkeley
+topic:    psather 1.0 - a simpler second system
+dates:    7-dec-94
+time:     <stime>1:00 pm</stime>
+place:    <location>4615a wean hall</location>
+duration: 1 1/2 hours
+host:     jon a webb 
+postedby: plp+ on 6-dec-94 at 16:19 from hostess.graphics.cs.cmu.edu (phyllis pomerantz)
+abstract: 
+
+ type:     special cs seminar
+ who:      <speaker>jerome feldman</speaker>, icsi and uc berkeley
+ topic:    psather 1.0 - a simpler second system
+ dates:    7-dec-94
+ time:     1 p.m.
+ place:    <location>4615a wean hall</location>
+ duration: 1 1/2 hours
+ host:     jon a webb 
+
+               psather 1.0 - a simpler second system
+
+                        <speaker>jerome feldman</speaker>
+         international computer science institute and uc berkeley
+
+psather is a set of parallel and distributed extensions to the
+object-oriented serial language sather. after some years of internal
+experience with implementations and applications, the psather 1.0 system is
+being developed for portability and general distribution.  psather addresses
+numa architectures such as networks of workstations, but provides a relaxed
+consistency shared-memory model to the programmer. a goal of the language is
+to suport the construction of efficient reusable classes in which the
+parallelism is implicit to the user.  explicit language support is provided
+for objects spread over nodes at the same local address and for parallel and
+distributed control regimes.  a distinguished class gate generalizes
+previous low-level synchronization mechanisms such as locks, futures and
+conditions.  the object-orientation of psather allows users to define other
+synchronization classes which are easy to use, safe, fair, and difficult to
+deadlock.  object-orientation also facilitates the construction of efficient
+scalable data structures by allowing reuse of serial code distributed over
+the system without an implicit synchronization penalty.
+

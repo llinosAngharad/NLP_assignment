@@ -1,0 +1,33 @@
+<1.7.2.91.11.04.33.jeffrey.schlimmer@a.gp.cs.cmu.edu.0>
+type:     cmu.cs.robotics
+topic:    scs ai seminar next tuesday
+dates:    12-feb-91
+time:     <stime>3:30 </stime>- <etime>5:00</etime>
+postedby: jeffrey.schlimmer on 7-feb-91 at 11:04 from a.gp.cs.cmu.edu
+abstract: 
+carnegie mellon                                              scs ai seminar
+
+---------------------------------------------------------------------------
+
+			     jill fain lehman
+		school of computer science, carnegie mellon
+
+	  integrating knowledge sources in language comprehension
+
+			 tuesday, 12 february 1991
+			    3:30-<etime>5:00</etime> <location>weh 5409</location>
+    multiple types   of  knowledge (syntax,  semantics,   pragmatics, etc.)
+contribute to establishing the meaning of  an  utterance.  delaying the use
+of   a knowledge   source    during   language   comprehension   introduces
+computational inefficiency in the  form  of overgeneration.   on the  other
+hand, ensuring that all relevant knowledge is brought  to bear as each word
+in the sentence is understood is a difficult design problem.  as a solution
+to this problem, we present  nl-soar, a language comprehension system  that
+integrates  disparate knowledge sources automatically.  through experience,
+the nature of the understanding process changes from deliberate, sequential
+problem   solving to  recognitional  comprehension   that  applies all  the
+relevant knowledge sources    simultaneously to  each word.     the dynamic
+character of the system results directly from its implementation within the
+soar architecture.
+
+---------------------------------------------------------------------------

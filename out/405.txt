@@ -1,0 +1,44 @@
+<0.3.3.93.18.12.14.dbj+@cs.cmu.edu (dave johnson).0>
+type:     ps seminar
+who:      <speaker>amy zwarico</speaker>, johns hopkins university
+topic:    "testing preorders for reactive real-time processes"
+dates:    8-mar-93
+time:     <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+place:    <location>wean hall 5409</location>
+duration: 90 minutes
+host:     ed clarke
+postedby: dbj+ on 3-mar-93 at 18:12 from cs.cmu.edu (dave johnson)
+abstract: 
+
+ type:     ps seminar
+ who:      <speaker>amy zwarico</speaker>, johns hopkins university
+ topic:    "testing preorders for reactive real-time processes"
+ dates:    8-mar-93
+ time:     <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+ place:    <location>wean hall 5409</location>
+ duration: 90 minutes
+ host:     ed clarke
+
+  recent years have witnessed increasing interest in the theoretical
+  aspects of real-time programming.  this has been fueled by the high
+  costs associated with the failure of real-time systems.  this talk
+  presents an extension of the testing paradigm of de nicola and
+  hennessy for concurrent processes to reasoning about reactive
+  real-time processes.  we generate testing preorders that relate
+  processes on the basis of their timing behavior as well as their
+  degree of relative nondeterminism.  the framework is then applied
+  to two different scenarios.  in the first, relations are constructed
+  that relate processes on the basis of all timing considerations.  in
+  the second, relations are constructed that relate processes on the
+  basis of their relative speeds.  we then isolate a realistic class
+  of reactive systems that can be compared on the basis of their
+  relative speeds.  an algebra is then developed for such processes,
+  and examples are given to illustrate the utility of the approach.
+
+ furtherdetails: 
+
+   if you would like to meet with <speaker>amy zwarico</speaker> while she is here, please
+   send your request for appointments to dana wixson (dwzz@cs.cmu.edu).
+
+furtherdetails: if you would like to meet with <speaker>amy zwarico</speaker> while she is here, please
+          send your request for appointments to dana wixson (dwzz@cs.cmu.edu).    

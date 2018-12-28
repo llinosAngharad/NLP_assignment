@@ -1,0 +1,75 @@
+<0.21.1.94.18.58.29.dandb+@andrew.cmu.edu.0>
+type:     cmu.cs.scs
+topic:    hci seminar 1/26
+dates:    26-jan-94
+time:     <stime>3:30</stime> - <etime>5:00</etime>
+postedby: dean rubine on 21-jan-94 at 18:58 from andrew.cmu.edu
+abstract: 
+
+wednesday, january 26
+<stime>3:30</stime>-5
+<location>weh 5409</location>
+          the role of visual fidelity in instructional simulations
+
+                               <speaker>michael christel</speaker>
+                               mac@sei.cmu.edu
+
+the software engineering institute made use of digital video in developing an
+interactive course teaching code inspections, a formalized group process for
+finding defects in software code.  this course, titled "a cure for the common
+code", is interactive in that the student not only learns about but also
+participates in code inspections.
+
+digital video systems offer a wide spectrum of interface capabilities,
+allowing the fidelity of "a cure for the common code" to vary from that of a
+home arcade game with simple graphics and slide show presentations to a
+visually rich display complete with full motion video.  photographic
+images of an office setting and professional video of actors playing the
+roles of fellow workers can make the learning environment both engaging
+and realistic to the student.  however, is there any instructional
+benefit to increasing the visual fidelity of the environment?  "a cure
+for the common code" was used in a formal experiment to address this
+question, and more specifically to address the following:
+
+  - what role does the frame rate of visual material play in the students'
+    perception of and ability to recall presented information?
+
+  - does the use of surrogate travel, rather than a single image, 
+    point-and-click navigation interface, have any effect on student 
+    recall and perception of presented material?
+
+this talk will briefly overview the code inspection course, and then discuss
+the results of the formal experiment concerning visual fidelity in interfaces.
+
+this work is among the first to explore the unique interface opportunities
+which digital video offers, and a set of guidelines will be proposed based
+upon this research.
+
+                          <speaker>michael christel</speaker>
+
+                         member of the technical staff
+                         software engineering institute
+                           carnegie mellon university
+                             pittsburgh, pa  15213
+                                 412-268-7799
+                                fax: 412-268-5758
+                                 mac@sei.cmu.edu
+
+<speaker>michael christel</speaker> has been a member of the technical staff at the software
+engineering institute for the past six years.  from 1987 to 1990 he worked on
+the advanced learning technologies (alt) project at the sei, creating a
+digital video code inspection course.  he has since worked on projects
+exploring the use of multimedia for requirements elicitation, and improving
+the utility of large multimedia databases for both software engineering tools
+and training.  christel has authored numerous papers on the alt project,
+multimedia, and software engineering, including articles on the use of digital
+
+video and rule bases for training simulations, and the implementation of
+virtual reality systems on personal computers.  he has given a number of
+invited talks on digital video, multimedia for software engineering
+instruction, and multimedia interface issues.  christel received his ph.d.
+from the georgia institute of technology in the area of human computer
+interaction, focusing on practical implications for the development of
+multimedia interfaces for educational applications.
+
+----------------

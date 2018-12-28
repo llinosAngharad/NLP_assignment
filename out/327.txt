@@ -1,0 +1,51 @@
+<0.24.4.91.09.12.02.jeffrey.schlimmer@a.gp.cs.cmu.edu.0>
+type:     cmu.cs.robotics
+topic:    ai seminar this friday
+dates:    26-apr-91
+time:     <stime>2:00 </stime>- <etime>3:30</etime>
+postedby: jeffrey.schlimmer on 24-apr-91 at 09:12 from a.gp.cs.cmu.edu
+abstract: 
+carnegie mellon                                              scs ai seminar
+
+---------------------------------------------------------------------------
+
+			       didier dubois
+			  university of toulouse
+
+		    fuzzy sets in approximate reasoning
+
+			  friday, 26 april 1991
+			    2:00-<etime>3:30</etime> <location>weh 5409</location>
+    this  talk will present  the basic principles  of approximate reasoning
+based on fuzzy sets   and relate  them  to   similar principles that  guide
+probabilistic reasoning.  knowledge representation issues will be addressed
+concerning the modelling and semantics of fuzzy rules.  some limitations of
+the  fuzzy logic control algorithm will   be pointed out   in  the scope of
+knowledge-based   systems.    in a   second    part,  an   introduction  to
+possibilistic logic will  be provided.  possibilistic logic  is a  logic of
+incomplete evidence that tries to reconcile fuzzy sets and classical logic.
+it  also  belongs to  the  current   stream  of   research pertaining    to
+non-monotonic reasoning and belief revision.
+
+    didier dubois receives   his phd degree   in 1977.  he was a   visiting
+scholar at the  school of electrical  engineering at  purdue  university in
+1978.  from 1980 until 1983, he worked as a research engineer at center for
+studies and research in  toulouse, in the production research  area.  he is
+presently a cnrs researcher at the university of toulouse.  his main topics
+of   interest   are the  modeling   of  imprecision  and  uncertainty,  the
+representation  of knowledge  and  approximate reasoning for expert system,
+operations research, and decision analysis.  he  is the  author or coauthor
+of numerous publications, especially in  the field of  fuzzy sets and their
+applications  to operations  research   and  artificial  intelligence.   he
+coauthored (with h. prade) two  books  on fuzzy sets and possibility theory
+and has coedited a volume on nonstandard logics  and several special issues
+of scientific journals.  since  1979 he has also  been coediting busefal, a
+bulletin on fuzzy sets and related topics.  he is on the editorial board of
+the journals: fuzzy sets  and systems, international journal of approximate
+reasoning, revue   d'intelligence  artificielle;  and  more recently:   the
+international journal of general systems and the orsa journal on computing.
+dubois is   a  member of  the  council of the  international  fuzzy systems
+association.
+
+---------------------------------------------------------------------------
+ hosts: <speaker>mark fox</speaker>/jeanluc koning       appointments: jeanluc.koning@ri, x7598

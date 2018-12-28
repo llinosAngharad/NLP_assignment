@@ -1,0 +1,40 @@
+<0.29.10.92.20.16.56.copetas+@gandalf.cs.cmu.edu (catherine copetas).0>
+type:     cmu.cs.scs
+topic:    the future of computing-lecture
+dates:    2-nov-92
+time:     <stime>3:30 pm</stime>
+postedby: copetas+ on 29-oct-92 at 20:16 from gandalf.cs.cmu.edu (catherine copetas)
+abstract: 
+
+intel distinguished lecture in technology:
+
+the future of computing
+monday, november 2, 1992
+<location>adamson wing</location>, baker hall -- <stime>3:30 pm</stime>
+reception will follow immediately after the talk.
+************************************************************************
+
+david l. house is senior vice president of corporate strategy.  as
+a member of intel's executive staff, he is responsible for intel's
+product strategy. he joined intel in 1974 as manager of applications for memory
+components, moving a year later to the post of manager of product marketing
+and applications.  in 1977 he became marketing manager for the microcomputer
+components division.  he was named general manager of the microprocessor
+and peripheral operation in 1979, and general manager of the development
+system operation in 1981. in 1983 he was appointed to intel vice president
+and general manager of the microcomputer components group and was promoted
+to senior vice president in 1987.  from 1979 to 1991, mr. house held profit
+and loss responsibility for intel x86 microprocessors and related products.
+in 1991 he headed up the architecture, marketing & applications group, prior
+to assuming his current position this year.
+
+mr. house began his professional career in 1965, joining ratheon where
+he worked on the design of computers and data acquisition systems.
+he moved to honeywell's computer cotnrol division in 1969 where he managed
+minicomputer and development and received the h.w. sweatt engineer
+scientist award for his definition and development of a new computer
+family.  in 1972 he joined microdata as director of computer development,
+leaving to join intel in 1974. he graduated from michigan technological
+university with a b.s. in electrical engineering in 1964.  he received his
+m.s. in electrical engineering from northeastern university in 1969.  he is
+a member of the institute of electrical and electronic engineers.

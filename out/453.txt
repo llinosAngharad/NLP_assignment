@@ -1,0 +1,28 @@
+<0.21.11.91.08.55.27.lydia+@proof.ergo.cs.cmu.edu (lydia defilippo).0>
+type:     cmu.cs.scs
+who:      <speaker>professor n.g. de bruijn </speaker>
+          eindhoven university of technology,
+          eindhoven, the netherlands
+topic:    "mathematical theory of quasicrystals"
+dates:    21-nov-9
+time:     <stime>10:30 am</stime>
+place:    <location>5409 wean hall</location>
+postedby: lydia+ on 21-nov-91 at 08:55 from proof.ergo.cs.cmu.edu (lydia defilippo)
+abstract: 
+
+
+ reminder:
+
+ 			mathematics colloquium
+
+ speaker:  <speaker>professor n.g. de bruijn </speaker>
+ 	  eindhoven university of technology,
+           eindhoven, the netherlands
+
+ date:     thursday, november 21
+
+ time:     <stime>10:30 am</stime>
+
+ place:	  <location>5409 wean hall</location>
+
+ topic:   "mathematical theory of quasicrystals"

@@ -1,0 +1,13 @@
+<0.16.2.93.10.56.10.burks+@sharon.adm.cs.cmu.edu (sharon burks).1>
+type:     cmu.cs.scs
+topic:    tax seminar for non-residents
+dates:    16-mar-93
+time:     <stime>12:00 </stime>- <etime>1:30</etime>
+postedby: burks+ on 16-feb-93 at 10:56 from sharon.adm.cs.cmu.edu (sharon burks)
+abstract: 
+
+on march 16 from 12 to <etime>1:30</etime> in the wherret room of skibo a representative of
+the irs will be available to answer your questions regarding federal income
+taxes.  light refreshments will be available.
+sponsored by the office of student activities and the office of international
+education.

@@ -1,0 +1,37 @@
+<0.12.9.91.21.02.16.xu+@ius4.ius.cs.cmu.edu (yangsheng xu).0>
+type:     cmu.cs.scs
+topic:    space robotics seminar
+dates:    17-oct-91
+time:     <stime>1:30 </stime>- <etime>2:30 pm</etime>
+place:    <location>wean hall  5205</location>
+host:     yangsheng xu, x3737
+postedby: xu+ on 12-sep-91 at 21:02 from ius4.ius.cs.cmu.edu (yangsheng xu)
+abstract: 
+
+
+            	a special robotics seminar
+
+	control system challenges associated with
+ the mobile servicing system for space station freedom
+
+		patrick t. k. fung
+	advanced technology systems group
+           spar aerospace ltd., canada
+
+ date:        oct 17, (thursday)
+ time:        1:30-<etime>2:30pm</etime>
+ place:       <location>wean hall  5205</location>
+ host:        yangsheng xu, x3737
+
+canada is participating in the international space station
+freedom program through the development and operation of
+the mobile servicing system (mss) which will play a critical 
+role in the assembly, maintenance and servicing of the 
+station. the mss is a robotic system featuring a large
+manipulator for large payloads and two smaller manipulators
+for dextrous tasks. the mss manipulators can be operated
+either manually by astronauts or in automatic modes. 
+advanced control system features and stringent requirements
+on performance and safety present technical challenges
+for the design and development of the mss control system.
+

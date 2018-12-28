@@ -1,0 +1,42 @@
+<0.4.11.93.11.29.13.plp+@phyllis.adm.cs.cmu.edu (phyllis pomerantz).0>
+type:     ai seminar
+who:      <speaker>clark glymour </speaker>(cmu philosophy)
+topic:    automated casual inference: recent work and open problems
+dates:    9-nov-93
+time:     <stime>3:30 pm</stime>
+place:    <location>5409 wean hall</location>
+host:     raul valdes-perez
+postedby: plp+ on 4-nov-93 at 11:29 from phyllis.adm.cs.cmu.edu (phyllis pomerantz)
+abstract: 
+
+ type:     ai seminar
+ who:      <speaker>clark glymour </speaker>(cmu philosophy)
+ topic:    automated casual inference: recent work and open problems
+ dates:    9-nov-93
+ time:     3:30 p.m.
+ place:    <location>5409 wean hall</location>
+ host:     raul valdes-perez
+
+causation, feedback, conditional independence in neural nets, 
+		and the structure of the unobserved
+
+i will describe some recent work on automated causal inference done in
+the last year  by peter spirtes, thomas richardson and richard scheines,
+extending the results in spirtes, glymour and scheines, causation
+prediction and search, springer, 1993.
+
+in particular, i'll discuss as much of the following as i have time for:
+
+1. how causal relations among linearly related unobserved variables may
+be determined from statistical patterns among their observed effects,
+with limited prior knowledge.(spirtes and scheines)
+
+2. statistical patterns characteristic of (convergent) linear feedback
+systems (spirtes)
+
+3. statistical patterns characteristic of many (convergent) non-linear
+feedback systems (spirtes, scheines, richardson, glymour)
+
+4. progress in characterizing statistically equivalent linear feedback
+systems. (richardson and spirtes)
+

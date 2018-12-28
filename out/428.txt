@@ -1,0 +1,40 @@
+<0.28.10.91.23.00.10.trg+@ius3.ius.cs.cmu.edu (thomas gross).0>
+type:     cmu.cs.scs
+topic:    psc/cs seminar 11/1 <stime>4:00 </stime><location>weh 5403</location>: j. smith of cray research
+dates:    1-nov-91
+time:     4:00
+postedby: trg+ on 28-oct-91 at 23:00 from ius3.ius.cs.cmu.edu (thomas gross)
+abstract: 
+
+
+		    psc/computer systems seminar  
+		friday nov 1, 1991  <stime>4:00 </stime>p.m.  <location>weh 5403</location>
+
+               supercomputer  interconnection networks
+
+                          j. e. smith
+                       cray research, inc.
+                     chippewa falls, wi 54729
+
+     multistage interconnection networks (mins) form the backbone
+     of  traditional vector supercomputers.  first, an historical
+     perspective of mins in vector supercomputers is given.  this
+     is  followed  by  the  description  of  an on-going study of
+     large-scale vector-oriented  mins.  an  accurate  simulation
+     model is described.  performance results are then presented;
+     these results are focused on determining the relative impor-
+     tance of several min characteristics.
+
+-----
+jim smith was formerly with the university of wisconsin where he developed
+the concept of the "decoupled access/execute architectures".  he then went
+on to build such a machine, the zs-1, for the astronautics corp. of america.
+after seymour cray left to form cray computer, he joined cray research as
+computer architect.  the abstract may sound a little dry, but i think the
+talk will not disappoint you, especially if you wonder what is happening in
+this part of the supercomputer world [i don't want to say more; cray
+research after all is the company that developed the cray x-mp and the 
+cray y-mp.]  --trg
+
+9
+

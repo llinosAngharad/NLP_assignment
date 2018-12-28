@@ -1,0 +1,43 @@
+<0.11.10.91.11.58.40.trg+@ius3.ius.cs.cmu.edu (thomas gross).0>
+type:     cmu.cs.scs
+topic:    psc seminar today @ <stime>4:00</stime>: tera comp.
+dates:    11-oct-91
+time:     <stime>4:00</stime>
+postedby: trg+ on 11-oct-91 at 11:58 from ius3.ius.cs.cmu.edu (thomas gross)
+abstract: 
+
+
+			the tera computer system
+		             burton j. smith
+
+ 		       pittsburgh supercomputing center
+                          mellon institute bldg.
+			third floor conference room             
+				oct 11, <stime>4:00</stime> p.m.
+
+(if you don't know where this room is, meet at 3:45 p.m. at the 5th floor 
+entrance and we can walk over together.)
+
+          the tera computer system is a scalable shared memory mimd computer.
+	  although it has no vector instructions, the 256 processor version
+	  will have peak performance of about 300 gflops.  the arithmetic
+	  will conform to ieee standard 754.  the system's i/o cache, used 
+	  with disk arrays, will enable file system bandwidths of 70
+	  gigabytes per second or more.  the languages available will be
+	  fortran 77, c and c++, and the programming environment will support
+	  a mixture of explicit programmer-generated and aggressive compiler-
+	  generated parallelism.  tools will be provided to help users 
+	  re-engineer programs for parallel execution and to debug optimized,
+	  parallelized code.  a 16-processor system will be available for
+	  customer benchmarking in first quarter 1991.  first system 
+	  deliveries are scheduled for fourth quarter 1993.
+
+	  the talk will describe the overall architecture of the system and
+	  its hardware implementation; the programming environment and
+	  associated tools; the operating system, including the file system;
+	  and the company's status and long-range plans.
+
+-----
+burton smith is the president of tera inc.   previously, he was the chief
+architect of the hep computer, a "barrel processor" introduced in the mid
+80's.

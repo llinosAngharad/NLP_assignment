@@ -1,0 +1,20 @@
+<0.13.11.90.14.57.36.terri.stankus@b.gp.cs.cmu.edu.0>
+type:     cmu.cs.scs
+who:      <speaker>ronald rivest</speaker>, mi questions or comments for ron.
+topic:    ron rivest-distingished lecture series-wed
+dates:    14-nov-90
+time:     <stime>3:30 pm</stime>
+place:    <location>7500 weh</location>
+postedby: terri.stankus on 13-nov-90 at 14:57 from b.gp.cs.cmu.edu
+abstract: 
+
+just a reminder:
+
+ date:	this wednesday, november 14th
+ time:	3:30 p.m.
+ place:	<location>7500 weh</location>
+
+ event:		distinguished lecture series
+
+ speaker:	<speaker>ronald rivest</speaker>, mi questions or comments for ron.
+

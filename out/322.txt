@@ -1,0 +1,52 @@
+<0.8.3.91.13.57.20.l.r.adkins-shellie@b.gp.cs.cmu.edu.0>
+type:     cmu.cs.robotics
+who:      <speaker>dinesh k. pai</speaker>, department of computer science, cornell university
+topic:    programming complex mechanical systems with applications 
+          to dynamic walking
+dates:    8-mar-91
+time:     <stime>3:30 pm</stime>
+place:    <location>baker hall, adamson wing</location>
+host:     michael erdmann, x7883
+postedby: l.r.adkins-shellie on 8-mar-91 at 13:57 from b.gp.cs.cmu.edu
+abstract: 
+
+
+ speaker:  <speaker>dinesh k. pai</speaker>, department of computer science, cornell university
+ title:    programming complex mechanical systems with applications 
+ 	  to dynamic walking
+ date:	  friday, march 8, 1991
+ time:     3:30 p.m. until 4:30 p.m.
+ location: <location>baker hall, adamson wing</location>
+ host:     michael erdmann, x7883
+
+we consider the problem of developing control programs for complex
+mechanical systems with multiple, simultaneous tasks.  such systems are
+difficult to program using traditional robot programming methods.  as a
+concrete example, we consider the problem of controlling a human-like
+machine to walk dynamically in three dimensions.  this problem has several
+applications, including the design and construction of walking machines
+capable of rough terrain mobility, computer graphic animation of complex
+figures, and more distantly, understanding human walking.
+
+we describe a new framework called ``least constraint'' for programming
+such a machine.  in this framework, we do not specify the desired motion in
+terms of trajectories but rather more weakly as a collection of assertions
+to hold.  these assertions are expressed as time varying inequality
+constraints in various domains.  we thus attempt to capture the essential
+requirements of a task without imposing unnecessary structure.  the
+constraints are solved at run time to produce control torques.  constraint
+satisfaction is performed using a fast iterative technique which takes
+advantage of functional decomposition and automatic differentiation.
+
+the approach has been successful in generating stable dynamic walking with
+various gaits.  we have implemented an object-oriented programming
+environment for this purpose in common lisp using clos, and tested the
+approach using a full rigid-body mechanics simulation.  we shall describe
+the results of our simulation experiments with the aid of computer
+animation.
+
+----------
+refreshments will be served from 3:15-3:30.  
+discussion and questions:  4:30-5:00.
+everyone in the cmu community is invited to attend.
+----------

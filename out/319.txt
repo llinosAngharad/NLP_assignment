@@ -1,0 +1,41 @@
+<0.26.2.91.15.41.45.l.r.adkins-shellie@b.gp.cs.cmu.edu.0>
+type:     cmu.cs.robotics
+who:      <speaker>assistant professor subhas desa</speaker>, 
+          department of mechanical engineering, carnegie mellon university
+topic:    on choosing the best feedback control strategy for
+          a robotic manipulator
+dates:    1-mar-91
+time:     <stime>3:30 pm</stime>
+place:    <location>baker hall, adamson wing</location>
+host:     michael erdmann, x7883
+postedby: l.r.adkins-shellie on 26-feb-91 at 15:41 from b.gp.cs.cmu.edu
+abstract: 
+
+
+ speaker:  <speaker>assistant professor subhas desa</speaker>, 
+ 	  department of mechanical engineering, carnegie mellon university
+ title:    on choosing the best feedback control strategy for
+ 	  a robotic manipulator
+ date: 	  march 1, 1991
+ time:     3:30 p.m. until 4:30 p.m.
+ location: <location>baker hall, adamson wing</location>
+ host:     michael erdmann, x7883
+
+a wide variety of control strategies have been proposed, both in the 
+literature and in practice, for the control of dynamic systems, in general, 
+and robotic manipulators, in particular.  however comparatively little is 
+known about how one might choose a control strategy (for a given application)
+from a set of competing control strategies.  towards this end, the present 
+talk will first present a framework for choosing the "best" control strategy 
+(from a set of candidate control strategies) and then demonstrate the 
+application of this framework to manipulator position control.  in addition, 
+we will also demonstrate a method for choosing that combination of dynamic 
+system parameters (for example, masses, moments of inertia, link lengths) and
+controller gains which result in the best possible performance for specified 
+actuator constraints.
+
+----------
+refreshments will be served from 3:15-3:30.  
+discussion and questions:  4:30-5:00.
+everyone in the cmu community is invited to attend.
+----------

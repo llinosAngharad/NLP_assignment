@@ -1,0 +1,62 @@
+<0.15.2.93.14.44.16.maa+@isl1.ri.cmu.edu (michelle agie).0>
+type:     cmu.cs.robotics
+who:      <speaker>klaus fischer</speaker>
+          german research institute for ai, saarbruecken
+topic:    solving scheduling problems with the help of multi-agent systems
+dates:    19-feb-93
+time:     <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+place:    <location>adamson wing auditorium in baker hall</location>
+host:     for appointments with the speaker, please contact
+          siegfried bocionek (bocionek+@a.gp.cs.cmu.edu, x5299)
+postedby: maa+ on 15-feb-93 at 14:44 from isl1.ri.cmu.edu (michelle agie)
+abstract: 
+
+                       ri seminar
+
+ when:   friday, feb. 19, 1993; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+        refreshments will be served by 3:15 pm
+
+ where:  <location>adamson wing auditorium in baker hall</location>
+
+ speaker: <speaker>klaus fischer</speaker>
+          german research institute for ai, saarbruecken
+
+ title: solving scheduling problems with the help of multi-agent systems
+
+the talk presents work which was done in research project 331
+information processing in autonomous mobile robot systems at
+the technische universitaet in munich and in research project
+aka-mod on modeling cooperative agents at the deutsches forschungszentrum
+
+in the talk the multi-agent system magsy is presented firstly.
+the kernel of an agent in magsy is a forward-chaining rule
+interpreter. therefore, each agent has the problem solving
+capacity of an expert system. each agent in magsy is a self-contained
+entity with a unique identification. if an agent knows the identification
+of another agent, it is able to send this agent messages. in doing so
+the agents perform services and call on services of other agents.
+agents are able to create new agents dynamically. if an agent
+creates a new agent, it automatically knows the identification of
+this new agent. the knowledge of the agents is structured in an
+object-oriented knowledge representation scheme. there is a global
+knowledge base which contains the knowledge that may be accessed
+by all of the agents. agents may store their identification in this
+global knowledge base and thus become known to all agents in the system.
+
+in the second part of the talk two applications which have been
+implemented using the magsy system are presented. the first
+example here is the design of a planning and controlling hierarchy
+for a flexible manufacturing system with the help of magsy. the second
+example is the design of a multi-agent system for modeling the transportation
+domain. here a set of shipping companies each of which controls a set
+of trucks has to execute client orders cooperatively.
+in both examples a scheduling problem has to be solved. in the first case
+a set of manufacturing orders has to be distributed to a set of
+machine tools and in the second case a set of transportation orders
+has to be distributed to a set of trucks. the talk will explain
+the design of the multi-agent solutions for these two applications
+and how the scheduling problem was solved in each case.
+
+ host: for appointments with the speaker, please contact
+       siegfried bocionek (bocionek+@a.gp.cs.cmu.edu, x5299)
+

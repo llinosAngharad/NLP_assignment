@@ -1,0 +1,14 @@
+<0.4.12.92.13.30.40.trg+@n3.sp.cs.cmu.edu (thomas gross).0>
+type:     cmu.cs.scs
+topic:    cs/psc seminar today @ <stime>4:00 </stime>in mellon inst. on cray mpp
+dates:    4-dec-92
+time:     4:00
+postedby: trg+ on 4-dec-92 at 13:30 from n3.sp.cs.cmu.edu (thomas gross)
+abstract: 
+
+this talk is still scheduled for today but no abstract has been received.  
+
+december 4	the cray research massively parallel product and strategy
+		mick dungworth, cray research, inc.
+
+		4 p.m., 3rd floor conference room, mellon institute building

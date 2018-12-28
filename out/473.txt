@@ -1,0 +1,16 @@
+<0.13.3.92.08.21.52.alf+@n3.sp.cs.cmu.edu (allan fisher).0>
+type:     cmu.cs.scs
+topic:    networks class/dqdb talk
+dates:    16-mar-92
+time:     <stime>1:30</stime>
+postedby: alf+ on 13-mar-92 at 08:21 from n3.sp.cs.cmu.edu (allan fisher)
+abstract: 
+
+monday the 16th, <stime>1:30</stime> in 5409:
+	bandwidth balancing and priority mechanism
+	in a dqdb man --- problems and solutions
+
+		       juergen roethig
+	institute of telematics, university of karlsruhe
+	d-7500 karlsruhe 1, federal republic of germany
+ 		email: jroethig@ira.uka.de

@@ -1,0 +1,55 @@
+<0.15.2.93.09.40.01.garth+@niagara.nectar.cs.cmu.edu (garth gibson).0>
+type:     cmu.cs.scs
+topic:    wwc video seminar: feb 17 7:15-<etime>8:15 pm</etime> 4623 weh christos h. papadimitriou
+dates:    17-feb-93
+time:     <stime>7:15 </stime>- <etime>8:15 pm</etime>
+postedby: garth+ on 15-feb-93 at 09:40 from niagara.nectar.cs.cmu.edu (garth gibson)
+abstract: 
+
+	         west coast computer science colloquium
+
+		   shortest paths without a map:
+	   on-line algorithms and the value of information
+
+		    christos h. papadimitriou
+	  department of computer science and engineering
+	      university of california, san diego
+
+                        <stime>7:15 </stime>- <etime>8:15 pm</etime>
+                        <location>4623 wean hall</location>
+                  (via picturetel from ucsd)
+                moderated locally by garth gibson
+
+ abstract:  we often make decisions on the basis of very restricted
+ information.  how are we then to measure the quality of such decisions?
+ the economist leonard savage proposed in the 1950's that the outcome of
+ such on-line decisions be compared with the optimum outcome, achievable
+ if complete information had been available. recent research by computer
+ scientists in on-line algorithms has shown the wide applicability of this
+ idea.  
+
+i am going to review on-line algorithms for terrain navigation and
+exploration, compiling for parallel machines, and distributed optimization.
+i shall also discuss how on-line algorithms can help determine the value of
+information and improve the organization of the decision-making process.
+
+----------------------------------------------------------------------------
+
+this talk is the next in a series of live, interactive video conferences
+that will be held every wednesday 7 pm - 8:30 pm between january 20 and
+may 5 1993.  these conferences are being organized by a few west coast
+schools, hence the name, the west coast colloquium.  this will be something
+of a multiple university distinguished speakers series.  the participants,
+so far, are berkeley, stanford, washington, ucla, uc san diego, uc santa
+barbara, and us.
+
+the technology is picturetel based with conference bridging by at&t.  there
+will be multiple monitors at each site;  cameras at every site are voice
+activated to force the display to show that site, so that the distributed
+audience can have camera time to ask questions.
+
+wednesday's seminars are still experiemental.  many sites have yet to
+get all the equipment working for such an ambitious conference call.
+even if everything is working well, there will be a noticeable lag
+between your speech and its broadcast to your and others' monitors.
+

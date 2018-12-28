@@ -1,0 +1,38 @@
+<0.26.2.92.10.33.14.stankus+@stankus.adm.cs.cmu.edu (terri stankus).0>
+type:     cmu.cs.scs
+topic:    distinguished lecture--today
+dates:    26-feb-92
+time:     <stime>3:30 pm</stime>
+postedby: stankus+ on 26-feb-92 at 10:33 from stankus.adm.cs.cmu.edu (terri stankus)
+abstract: 
+
+
+	    grand challenges for machine learning
+
+		      jaime carbonell
+	         school of computer science
+	         carnegie mellon university
+
+                         <stime>3:30 pm</stime>
+                      <location>7500 wean hall</location>
+
+machine learning has evolved from obscurity in the 1970s into a
+vibrant and popular discipline in artificial intelligence during the
+1980s and 1990s.  as a result of its success and growth, machine
+learning is evolving into a collection of related disciplines:
+inductive concept acquisition, analytic learning in problem
+solving (e.g. analogy, explanation-based learning), learning
+theory (e.g. pac learning), genetic algorithms, connectionist learning,
+hybrid systems, and so on. standard experimental techniques are
+being developed, and publication is more rigorous.  the central
+question for many machine learning researches is how can the
+field mature into an accepted scientific discipline and still
+retain the excitement of the pioneer days of exploratory research.
+one way to address this issue is to create a collection of grand
+challenges for the field of machine learning as a whole, to
+spur new research, increase cross-discipline collaboration and
+competition (both lead to better communication and learning about
+each other's methods).  after reviewing the state of the art
+in machine learning, several challenges will be offered to researchers 
+in the field and newcomers alike.
+

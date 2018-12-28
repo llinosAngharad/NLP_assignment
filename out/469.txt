@@ -1,0 +1,36 @@
+<0.29.1.92.12.52.29.avac+@ava.adm.cs.cmu.edu (ava cruse).0>
+type:     cmu.cs.scs
+topic:    ps seminar
+dates:    3-feb-92
+time:     <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+postedby: avac+ on 29-jan-92 at 12:52 from ava.adm.cs.cmu.edu (ava cruse)
+abstract: 
+
+                                 ps seminar
+                             monday, february 3, 1992
+                                 3:30pm-<etime>5:00pm</etime>
+                                <location>wean hall 5409</location>
+                                  garth gibson
+                           carnegie mellon university
+                          school of computer science
+
+                         disk reads with dram latency
+
+one of the most difficult and (unfortunately) important challenges for a high
+performance file system is the achievement of low latency during a file cache
+miss.  we have recently begun a project to explore the feasibility and utility
+of using file access hints to eliminate long disk latencies by prefetching
+data.  these hints may have been issued explicitly by programmers,
+automatically by compilers, speculatively by parent tasks such as shells
+and makes, or historically by previously profiled executions.
+our research will also address the thorny issues of hint specification,
+memory resource management, imprecise and incorrect hints, and appropriate
+interfaces for propagating hints to affected application, operating system,
+file system, and device specific modules.
+
+in this talk i will overview our research on this new project with
+specific attention to our immediate plans, the most difficult problems
+in front of us, and our long range vision for a hint-based prefetching
+file system interface.
+
+this is joint work with r. hugo patterson.

@@ -1,0 +1,63 @@
+<1.28.10.94.17.08.27.xu+@ius4.ius.cs.cmu.edu (yangsheng xu).0>
+type:     cmu.cs.robotics
+who:      <speaker>tony stentz</speaker>
+          the robotics institute
+          carnegie mellon university
+topic:    the d* algorithm for real-time path replanning
+dates:    4-nov-94
+time:     <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+place:    <location>adamson wing auditorium in baker hall</location>
+host:     yangsheng xu (xu+@cs.cmu.edu)
+postedby: xu+ on 28-oct-94 at 17:08 from ius4.ius.cs.cmu.edu (yangsheng xu)
+abstract: 
+
+
+                       ri seminar
+
+ when:   friday, nov. 4, 1994; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+        refreshments will be served starting at 3:15 pm
+
+ where:  <location>adamson wing auditorium in baker hall</location>
+
+ speaker: <speaker>tony stentz</speaker>
+ 	 the robotics institute
+          carnegie mellon university
+
+ title:  the d* algorithm for real-time path replanning
+
+the task of planning trajectories for a mobile robot has received
+considerable attention in the research literature.  algorithms exist
+for handling a variety of robot shapes, configurations, motion
+constraints, and environments.  most of the work assumes the robot has
+a complete and accurate model of its environment before it begins to
+move; less attention has been paid to the problem of unknown or
+partially-known environments.  this situation occurs for an
+exploratory robot or one that must move to a goal location without the
+benefit of a floorplan or terrain map.  existing approaches plan an
+initial global path based on known information and then modify the
+plan locally as the robot discovers obstacles with its sensors.  this
+strategy works well in environments with small, sparse obstacles, but
+it can lead to grossly suboptimal and incomplete results in cluttered
+spaces.  an alternative approach is to replan a global path from
+scratch each time a new obstacle is discovered.  this brute-force
+approach is optimal, but it is grossly inefficient.  this talk
+describes a new algorithm, d*, capable of planning paths in unknown,
+partially-known, and changing environments in an efficient, optimal,
+and complete manner.  d* models the environment as a graph, where each
+node represents a robot state, and each arc represents the cost of
+moving between two states.  initially, a path is planned from the goal
+to the robot's location using known information.  as the robot moves,
+its sensors discover obstacles in its path.  these discoveries are
+handled by modifying the arc costs.  d* propagates cost changes
+minimally to compute a new optimal path.  the process repeats until
+the robot reaches the goal or determines that it cannot.    
+
+d* was implemented and compared head-to-head with the brute force
+replanner to verify optimality and determine the performance
+improvement.  it was integrated with an obstacle avoidance system and
+tested on the navlab ii.  the robot succeeded in finding a specified
+goal in a cluttered environment given no initial map information.  the
+algorithm and the results will be presented. 
+
+ host: 		yangsheng xu (xu+@cs.cmu.edu)
+ appointment: 	ava cruse (avac@cs.cmu.edu)
