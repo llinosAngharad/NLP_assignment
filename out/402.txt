@@ -1,8 +1,8 @@
 <0.1.3.93.18.36.34.trg+@n3.sp.cs.cmu.edu (thomas gross).0>
 type:     cmu.cs.scs
-topic:    psc/cs seminar 3/5 <stime>4:00 </stime>r. ewing on reservoir simulation
+topic:    psc/cs seminar 3/5 <stime>4:00</stime> r. ewing on reservoir simulation
 dates:    5-mar-93
-time:     4:00
+time:     <stime>4:00</stime>
 postedby: trg+ on 1-mar-93 at 18:36 from n3.sp.cs.cmu.edu (thomas gross)
 abstract: 
 
@@ -14,7 +14,7 @@ abstract:
           institute for scientific computation
           	texas a&m university
 
-	    friday, march 5, 1993, <stime>4:00 </stime>pm
+	    friday, march 5, 1993, <stime>4:00</stime> pm
     3rd floor conference room, mellon institute
 
 vectorization techniques have proved to be extremely effective

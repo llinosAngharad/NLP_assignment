@@ -2,7 +2,7 @@
 type:     cmu.cs.scs
 topic:    pop talk
 dates:    2-dec-94
-time:     <stime>3:00 pm</stime> - <etime>4:30 pm</etime>
+time:     3:00 pm - <etime>4:30 pm</etime>
 postedby: mp3r+ on 28-nov-94 at 13:10 from j.gp.cs.cmu.edu (margaret profeta)
 abstract: 
                                 pop seminar
@@ -15,7 +15,7 @@ abstract:
 
                          friday, december 2, 1994
 
-                    weh <location>8220</location>      3:00 p.m. - <etime>4:30 p.m.</etime>
+                    weh <location>8220</location>      <stime>3:00 p.m.</stime> - <etime>4:30 p.m.</etime>
      modern shared-memory multiprocessors are inherently asynchronous:
      processes can be halted or delayed without warning by interrupts,
      pre-emption,  or  cache  misses.    in  such  environments, it is

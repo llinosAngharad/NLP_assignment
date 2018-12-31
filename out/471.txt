@@ -1,8 +1,8 @@
 <0.20.2.92.11.16.31.trg+@n2.sp.cs.cmu.edu (thomas gross).0>
 type:     cmu.cs.scs
-topic:    psc/cs seminar: 2/28 <stime>4:00 </stime>@ sei 
+topic:    psc/cs seminar: 2/28 <stime>4:00</stime> @ sei 
 dates:    28-feb-92
-time:     4:00
+time:     <stime>4:00</stime>
 postedby: trg+ on 20-feb-92 at 11:16 from n2.sp.cs.cmu.edu (thomas gross)
 abstract: 
 
@@ -12,7 +12,7 @@ abstract:
 		          charles brooks
 		chemistry department, carnegie mellon university
 
-		     feb 28, 1992    <stime>4:00 </stime>p.m.
+		     feb 28, 1992    <stime>4:00</stime> p.m.
 			sei auditorium
 
 the anticipation of performing large-scale simulations to address crucial

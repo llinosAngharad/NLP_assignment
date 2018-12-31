@@ -2,13 +2,13 @@
 type:     cmu.edrc.ndim
 topic:    interesting hci seminar...
 dates:    16-feb-94
-time:     <stime>3:30</stime> - <etime>5:00</etime>
+time:     <stime>3:30 </stime>- <etime>5:00</etime>
 postedby: avatar on 11-feb-94 at 17:53 from cs.cmu.edu (eric gardner)
 abstract: 
 
 hci seminar
 feb 16
-<stime>3:30</stime>-<etime>5:00</etime>
+3:30-<etime>5:00</etime>
 <location>weh 5409</location>
 how to fix computers
 usefulness, usability and productivity.

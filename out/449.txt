@@ -2,7 +2,7 @@
 type:     cmu.cs.scs
 topic:    cs/psc/ps seminar steve mcgeady on 10/17
 dates:    17-oct-94
-time:     3:30 pm
+time:     <stime>3:30 pm</stime>
 place:    <location>wean hall 5409</location>
 postedby: prs+ on 26-sep-94 at 11:56 from n2.sp.cs.cmu.edu (peter steenkiste)
 abstract: 
@@ -40,5 +40,5 @@ mr. mcgready will outline the history of the shift in the computer industry,
 analyze the ongoing and impending shifts in the communications industry, and
 highlight architecture labs and intel's media delivery lab.
 
- when:	october 17, <stime>3:30pm</stime>
+ when:	october 17, 3:30pm
  where:	<location>wean hall 5409</location>

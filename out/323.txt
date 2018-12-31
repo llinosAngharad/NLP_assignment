@@ -2,7 +2,7 @@
 type:     cmu.cs.robotics
 topic:    ai seminar next tuesday
 dates:    19-mar-91
-time:     <stime>3:30 </stime>- <etime>5:00</etime>
+time:     <stime>3:30</stime> - <etime>5:00</etime>
 host:     dave touretzky                      appointments: cary.lund@cs, x3853
 postedby: jeffrey.schlimmer on 14-mar-91 at 08:48 from a.gp.cs.cmu.edu
 abstract: 
@@ -16,7 +16,7 @@ carnegie mellon                                              scs ai seminar
    tabletop: a computer model of high-level perception and analogy-making
 
 			  tuesday, 19 march 1991
-			    3:30-<etime>5:00</etime> <location>weh 5409</location>
+			    <stime>3:30</stime>-<etime>5:00</etime> <location>weh 5409</location>
     tabletop applies a probabilistic, emergent architecture to a relatively
 simple domain that nonetheless has a "real world" feel to it.  the tabletop
 domain consists of a table on which there are a number of ordinary table

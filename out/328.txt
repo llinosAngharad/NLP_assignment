@@ -2,13 +2,13 @@
 type:     cmu.cs.robotics
 topic:    ape visualization software talk this tue.
 dates:    10-sep-91
-time:     3:30 pm
+time:     <stime>3:30 pm</stime>
 postedby: pkh+ on 09-sep-91 at 11:46 from tezuka.rest.ri.cmu.edu (ping kang hsiung)
 abstract: 
 
 on tuesday sept. 10, michelle messenger, the project coordinator for the
 visualization software ape, will give a short slide presentation (~20 min)
-in <location>weh 4623</location> at <stime>3:30pm</stime>. all is invited to attend.
+in <location>weh 4623</location> at 3:30pm. all is invited to attend.
 briefly, ape is one of the dominating packages in scientific visualization.
 it is developed at the ohio supercomputer center and distributed as public
 domain software at the source code level. in recent years, both ape and avs

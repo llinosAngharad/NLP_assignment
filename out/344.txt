@@ -2,12 +2,12 @@
 type:     cmu.cs.robotics
 topic:    theory seminar, feb. 14, 1992
 dates:    14-feb-92
-time:     3:30 pm
+time:     <stime>3:30 pm</stime>
 postedby: tmeadows on 11-feb-92 at 16:00 from frc2.frc.ri.cmu.edu (tim meadows)
 abstract: 
 
                       february 14, 1992
-                     <stime>3:30pm</stime>  -- <location>weh 5409</location>
+                     3:30pm  -- <location>weh 5409</location>
 in many applications such as geometric modeling and data compression, 
 there arises the need to construct sparse approximations to discrete 
 or piecewise linear curves and functions.

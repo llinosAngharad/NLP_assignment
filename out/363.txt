@@ -4,7 +4,7 @@ who:      <speaker>ed nicolson</speaker>
           from uc at berkeley
 topic:    ri seminars
 dates:    16-apr-93
-time:     3:30 pm - <etime>5:00 pm</etime>
+time:     <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
 place:    <location>adamson wing auditorium</location>
           in baker hall
 postedby: maa+ on 12-apr-93 at 09:29 from isl1.ri.cmu.edu (michelle agie)
@@ -18,7 +18,7 @@ abstract:
 
  when:  friday april 16, 1993
 
- time:  <stime>3:30pm</stime> - <etime>5:00pm</etime>
+ time:  3:30pm - <etime>5:00pm</etime>
 
  speaker: <speaker>ed nicolson</speaker>
           from uc at berkeley

@@ -2,7 +2,7 @@
 type:     cmu.cs.scs
 topic:    psc/cs seminar 9/30: dennis gannon
 dates:    30-sep-94
-time:     <stime>4:00 pm</stime>
+time:     4:00 pm
 place:    <location>sei auditorium</location>
 postedby: prs+ on 29-sep-94 at 10:36 from n2.sp.cs.cmu.edu (peter steenkiste)
 abstract: 
@@ -15,4 +15,4 @@ no abstract available
 
  where: <location>sei auditorium</location>
  date: friday, september 30
- time: 4:00 p.m.
+ time: <stime>4:00 p.m.</stime>

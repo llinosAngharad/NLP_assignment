@@ -7,7 +7,7 @@ postedby: garlan+ on 29-aug-91 at 22:10 from rila.able.cs.cmu.edu (david garlan)
 abstract: 
 
 as has been the case for many years, the programming systems seminar will
-take place mondays from <stime>3:30 </stime>to <etime>5:00</etime> in <location>weh 5409</location>, starting september 30.
+take place mondays from <stime>3:30 </stime>to <etime><etime>5:00</etime> </etime>in <location>weh 5409</location>, starting september 30.
 for those new to cmu, the seminar features research presentations in the
 general area of programming systems.  speakers include both invited guests
 from outside cmu as well as faculty and students within cmu. it is an

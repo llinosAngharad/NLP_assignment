@@ -3,7 +3,7 @@ type:     cmu.cs.robotics
 who:      <speaker>peter eggleston</speaker>, amerinex artificial intelligence, inc.
 topic:    talk on object segmentation techniques and constraint based feature indexing
 dates:    25-may-93
-time:     <stime>3:00 pm</stime>
+time:     3:00 pm
 place:    <location>weh4623</location>
 duration: 75 mins.
 host:     sing bing kang (sbk@cs)
@@ -11,7 +11,7 @@ postedby: sbk+ on 20-may-93 at 15:51 from cs.cmu.edu (sing bing kang)
 abstract: 
 
  date:		25-may-93, tuesday
- time:		3:00pm
+ time:		<stime>3:00pm</stime>
  place:		<location>weh4623</location>
  duration:	75 mins.
  who:		<speaker>peter eggleston</speaker>, amerinex artificial intelligence, inc.

@@ -3,7 +3,7 @@ type:     cmu.cs.scs
 who:      <speaker>wayne snyder</speaker>
 topic:    basic paramodulation and basic strict superposition
 dates:    7-nov-91
-time:     3:30 pm
+time:     <stime>3:30 pm</stime>
 place:    <location>weh 5409</location>
 host:     stephen d. brookes
 postedby: marian+ on 29-oct-91 at 10:59 from marian.adm.cs.cmu.edu (marian d'amico)
@@ -13,7 +13,7 @@ abstract:
  speaker:  <speaker>wayne snyder</speaker>
  title:    basic paramodulation and basic strict superposition
  date:     thursday, november 7, 1991
- time:     <stime>3:30pm</stime>
+ time:     3:30pm
  place:    <location>weh 5409</location>
 
 **********************************************************

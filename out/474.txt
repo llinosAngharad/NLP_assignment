@@ -1,8 +1,8 @@
 <0.06.4.92.23.10.54.trg+@n3.sp.cs.cmu.edu (thomas gross).0>
 type:     cmu.cs.scs
-topic:    cs seminar 4/10: leiserson of mit/tmc @ 4:00 p.m., <location>weh 5403</location>
+topic:    cs seminar 4/10: leiserson of mit/tmc @ <stime>4:00 p.m.</stime>, <location>weh 5403</location>
 dates:    10-apr-92
-time:     <stime>4:00 pm</stime>
+time:     4:00 pm
 postedby: trg+ on 06-apr-92 at 23:10 from n3.sp.cs.cmu.edu (thomas gross)
 abstract: 
 
@@ -17,7 +17,7 @@ abstract:
 		    thinking machines corporation
 		       cambridge, massachusetts
 
-		friday, apr 10, 4:00 p.m., <location>weh 5403</location>
+		friday, apr 10, <stime>4:00 p.m.</stime>, <location>weh 5403</location>
 
 the connection machine model cm-5 supercomputer is a massively
 parallel computer system designed to offer performance in the range of

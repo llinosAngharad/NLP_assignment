@@ -2,7 +2,7 @@
 type:     cmu.cs.robotics
 topic:    ai seminar this friday
 dates:    26-apr-91
-time:     <stime>2:00 </stime>- <etime>3:30</etime>
+time:     <stime>2:00</stime> - <etime>3:30</etime>
 postedby: jeffrey.schlimmer on 24-apr-91 at 09:12 from a.gp.cs.cmu.edu
 abstract: 
 carnegie mellon                                              scs ai seminar
@@ -15,7 +15,7 @@ carnegie mellon                                              scs ai seminar
 		    fuzzy sets in approximate reasoning
 
 			  friday, 26 april 1991
-			    2:00-<etime>3:30</etime> <location>weh 5409</location>
+			    <stime>2:00</stime>-<etime><etime>3:30</etime> </etime><location>weh 5409</location>
     this  talk will present  the basic principles  of approximate reasoning
 based on fuzzy sets   and relate  them  to   similar principles that  guide
 probabilistic reasoning.  knowledge representation issues will be addressed

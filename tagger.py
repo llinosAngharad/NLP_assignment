@@ -2,15 +2,35 @@ import re
 import os.path
 from dateutil import parser as time_parser
 
+
 def tag_all(filename, text, start_time, end_time, location, speaker):
     print(filename, start_time, end_time, location, speaker)
     text = tag_time(text, start_time, end_time)
     text = tag_location(text, location)
     text = tag_speaker(text, speaker)
+    tag_paragraphs(text)
     write_file(filename, text)
     return text
 
-# Function to tag both the start and end time
+# Tags location every time it is found in text
+def tag_location(text, location):
+    new_text = text
+    if location is not None:
+        new_text = re.sub(re.escape(location), "<location>"+location+"</location>", text)
+    return new_text
+
+def tag_paragraphs(text):
+    text = "\n\n{}\n\n".format(text.split("\n"))
+    print(text)
+
+# Tags speaker every time it is found in text
+def tag_speaker(text, speaker):
+    new_text = text
+    if speaker is not None:
+        new_text = re.sub(re.escape(speaker), "<speaker>" + speaker + "</speaker>", text)
+    return new_text
+
+# Tags both the start and end time every time they're found in text
 def tag_time(text, start_time, end_time):
     new_text = text
     # Extract all instances of time from the text and add them to a set
@@ -41,18 +61,7 @@ def tag_time(text, start_time, end_time):
                 new_text = re.sub(x, "<etime>" + x + "</etime>", new_text)  # Search and replace end time with tags
     return new_text
 
-def tag_location(text, location):
-    new_text = text
-    if location is not None:
-        new_text = re.sub(re.escape(location), "<location>"+location+"</location>", text)
-    return new_text
-
-def tag_speaker(text, speaker):
-    new_text = text
-    if speaker is not None:
-        new_text = re.sub(re.escape(speaker), "<speaker>" + speaker + "</speaker>", text)
-    return new_text
-
+# Writes text to a .txt file
 def write_file(filename, text):
     save_path = "/Users/AppleUser/Documents/gitHub/NLP_assignment/out/"
     complete_filename = os.path.join(save_path, filename)

@@ -2,7 +2,7 @@
 type:     cmu.cs.robotics
 topic:    scs ai seminar next tuesday
 dates:    12-feb-91
-time:     <stime>3:30 </stime>- <etime>5:00</etime>
+time:     <stime>3:30</stime> - <etime>5:00</etime>
 postedby: jeffrey.schlimmer on 7-feb-91 at 11:04 from a.gp.cs.cmu.edu
 abstract: 
 carnegie mellon                                              scs ai seminar
@@ -15,7 +15,7 @@ carnegie mellon                                              scs ai seminar
 	  integrating knowledge sources in language comprehension
 
 			 tuesday, 12 february 1991
-			    3:30-<etime>5:00</etime> <location>weh 5409</location>
+			    <stime>3:30</stime>-<etime>5:00</etime> <location>weh 5409</location>
     multiple types   of  knowledge (syntax,  semantics,   pragmatics, etc.)
 contribute to establishing the meaning of  an  utterance.  delaying the use
 of   a knowledge   source    during   language   comprehension   introduces

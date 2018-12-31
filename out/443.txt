@@ -2,7 +2,7 @@
 type:     cmu.cs.scs
 topic:    calendar joint cs-psc seminar series
 dates:    9-dec-94
-time:     <stime>4:00 pm</stime>
+time:     4:00 pm
 postedby: prs+ on 16-sep-94 at 14:14 from n2.sp.cs.cmu.edu (peter steenkiste)
 abstract: 
 
@@ -21,4 +21,4 @@ dec 9
 
 "cosmology grand challenge"
 edmund bertschinger, massachusetts institute of technology
-mellon institute, 3rd floor conference room, 4:00 p.m.
+mellon institute, 3rd floor conference room, <stime>4:00 p.m.</stime>

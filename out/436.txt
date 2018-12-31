@@ -2,7 +2,7 @@
 type:     cmu.cs.scs
 topic:    hci seminar march 23
 dates:    23-mar-94
-time:     <stime>3:30</stime> - <etime>5:00 pm</etime>
+time:     <stime>3:30 </stime>- <etime>5:00 pm</etime>
 host:     phil miller
 postedby: kathleen p. kowalski on 18-mar-94 at 08:52 from andrew.cmu.edu
 abstract: 
@@ -17,7 +17,7 @@ university of colorado, boulder
 
 wednesday, march 23
 <location>wean hall 5409</location>
-<stime>3:30</stime>-5pm 
+3:30-5pm 
 programmable applications are software systems that combine the
 learnability and accessibility of direct manipulation interfaces with
 the expressive range of "domain-enriched" programming environments.

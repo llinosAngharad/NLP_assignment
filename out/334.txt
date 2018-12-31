@@ -2,7 +2,7 @@
 type:     cmu.cs.robotics
 topic:    special robotics seminar
 dates:    17-oct-91
-time:     <stime>1:30 </stime>- <etime>2:30 pm</etime>
+time:     <stime>1:30</stime> - <etime>2:30 pm</etime>
 place:    <location>wean hall  5205</location>
 host:     yangsheng xu, x3737
 postedby: xu+ on 13-oct-91 at 17:23 from ius4.ius.cs.cmu.edu (yangsheng xu)
@@ -19,7 +19,7 @@ abstract:
            spar aerospace ltd., canada
 
  date:        oct 17, (thursday)
- time:        1:30-<etime>2:30pm</etime>
+ time:        <stime>1:30</stime>-<etime>2:30pm</etime>
  place:       <location>wean hall  5205</location>
  host:        yangsheng xu, x3737
 

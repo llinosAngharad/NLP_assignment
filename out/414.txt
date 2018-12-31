@@ -1,8 +1,8 @@
 <0.5.10.93.15.30.25.trg+@n3.sp.cs.cmu.edu (thomas gross).0>
 type:     cmu.cs.scs
-topic:    psc/cs seminar 10/8 <stime>4:00 pm</stime> weh 5409: marc snir of ibm
+topic:    psc/cs seminar 10/8 4:00 pm weh 5409: marc snir of ibm
 dates:    8-oct-93
-time:     <stime>4:00 pm</stime>
+time:     4:00 pm
 postedby: trg+ on 5-oct-93 at 15:30 from n3.sp.cs.cmu.edu (thomas gross)
 abstract: 
 
@@ -13,7 +13,7 @@ abstract:
 			 marc snir 
 		   ibm t. j. watson lab.
 
-	friday,  oct 8, <location>wean hall 5409</location>, 4:00 p.m.
+	friday,  oct 8, <location>wean hall 5409</location>, <stime>4:00 p.m.</stime>
 
 the recently announced ibm 9076 scalable powerparallel 1 (9076 sp1) system
 is the first in a family of scalable systems for serial and parallel

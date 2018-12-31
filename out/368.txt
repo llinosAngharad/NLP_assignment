@@ -2,7 +2,7 @@
 type:     cmu.cs.robotics.students
 topic:    financial aid seminar this thursday
 dates:    6-apr-95
-time:     <stime>4:30 </stime>- <etime>6:30 pm</etime>
+time:     <stime>4:30</stime> - <etime>6:30 pm</etime>
 place:    <location>adamson wing, baker hall</location>
 postedby: os22+ on 6-apr-95 at 20:03 from andrew.cmu.edu (oliver schulte)
 abstract: 
@@ -17,7 +17,7 @@ dave gould from the financial aid office will give an overview of
 federal loan programs, explain eligibility criteria and application
 procedures, and answer any questions you may have.
 
- time: thursday, april 6, 4:30-<etime>6:30 p.m.</etime>
+ time: thursday, april 6, <stime>4:30</stime>-<etime>6:30 p.m.</etime>
 
  place: <location>adamson wing, baker hall</location>
 

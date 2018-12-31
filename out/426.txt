@@ -2,12 +2,12 @@
 type:     cmu.cs.scs
 topic:    hci seminar 1/26
 dates:    26-jan-94
-time:     <stime>3:30</stime> - <etime>5:00</etime>
+time:     <stime>3:30 </stime>- <etime>5:00</etime>
 postedby: dean rubine on 21-jan-94 at 18:58 from andrew.cmu.edu
 abstract: 
 
 wednesday, january 26
-<stime>3:30</stime>-5
+3:30-5
 <location>weh 5409</location>
           the role of visual fidelity in instructional simulations
 

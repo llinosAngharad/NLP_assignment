@@ -2,7 +2,7 @@
 type:     cmu.cs.scs
 topic:    reminder - katz talk
 dates:    22-sep-94
-time:     3:30 pm - <etime>5:00 pm</etime>
+time:     <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
 host:     m. satyanarayanan
 postedby: mp3r+ on 22-sep-94 at 08:52 from marge.adm.cs.cmu.edu (margaret profeta)
 abstract: 
@@ -16,7 +16,7 @@ abstract:
 
                        thursday, september 22, 1994
 
-                    weh 7500      <stime>3:30 p.m.</stime> - <etime>5:00 p.m.</etime>
+                    weh 7500      3:30 p.m. - <etime>5:00 p.m.</etime>
      the  speaker will describe his rather unexpected experiences as a
      mere technologist in the corridors of  power  in  washington.  by
      being  in  the  right place at the right time, he was selected as

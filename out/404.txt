@@ -1,8 +1,8 @@
 <0.8.3.93.16.15.15.trg+@n3.sp.cs.cmu.edu (thomas gross).0>
 type:     cmu.cs.scs
-topic:    psc/cs seminar 3/12 <stime>4:00 </stime>weh 5202 s. frank of ksr inc.
+topic:    psc/cs seminar 3/12 <stime>4:00</stime> weh 5202 s. frank of ksr inc.
 dates:    12-mar-93
-time:     4:00
+time:     <stime>4:00</stime>
 postedby: trg+ on 8-mar-93 at 16:15 from n3.sp.cs.cmu.edu (thomas gross)
 abstract: 
 
@@ -13,7 +13,7 @@ abstract:
 		 steve frank
           kendall square research
 
-   friday, march 12, 1993, <stime>4:00 </stime>p.m., weh 5205
+   friday, march 12, 1993, <stime>4:00</stime> p.m., weh 5205
 				      ^^^^^^^^
 					note different room this time only
 

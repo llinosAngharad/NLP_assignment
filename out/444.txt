@@ -2,7 +2,7 @@
 type:     cmu.cs.scs
 topic:    calendar joint cs-psc seminar series
 dates:    23-sep-94
-time:     <stime>4:00 pm</stime>
+time:     4:00 pm
 postedby: prs+ on 16-sep-94 at 14:14 from n2.sp.cs.cmu.edu (peter steenkiste)
 abstract: 
 
@@ -20,4 +20,4 @@ peter
 sep 23	
 "tempest: user-level shared memory"
 david wood, university of wisconsin-madison
-cmu, <location>wean hall 5409</location>, 4:00 p.m.
+cmu, <location>wean hall 5409</location>, <stime>4:00 p.m.</stime>

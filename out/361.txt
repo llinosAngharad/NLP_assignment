@@ -4,7 +4,7 @@ who:      <speaker>jarek rossignac</speaker>, ibm t.j. watson research center
 topic:    bezier-minkowski metamorphosis & interactive geometric modeling
           a two-part presentation
 dates:    23-feb-93
-time:     <stime>3:30 </stime>- <etime>4:30</etime>
+time:     <stime>3:30</stime> - <etime>4:30</etime>
 place:    <location>wean 4623</location>
 postedby: ph+ on 18-feb-93 at 19:32 from cs.cmu.edu (paul heckbert)
 abstract: 
@@ -18,7 +18,7 @@ abstract:
 
  place:	 <location>wean 4623</location>
 
- date:	 tuesday, february 23, 1993, 3:30-<etime>4:30</etime>
+ date:	 tuesday, february 23, 1993, <stime>3:30</stime>-<etime>4:30</etime>
 	 refreshments at 3:15
 
 part 1:

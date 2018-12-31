@@ -2,13 +2,13 @@
 type:     cmu.cs.scs
 topic:    theory seminar
 dates:    10-feb-95
-time:     <stime>3:30</stime> - <etime>5:00</etime>
+time:     <stime>3:30 </stime>- <etime>5:00</etime>
 host:     avrim blum
 postedby: daz+ on 7-feb-95 at 09:55 from amm.adm.cs.cmu.edu (dorothy a zaborowski)
 abstract: 
 
 		  friday, february 10, 1995
-	            wean hall - <stime>3:30</stime>-<etime>5:00</etime>
+	            wean hall - 3:30-<etime>5:00</etime>
          size-estimation framework with applications 
            to transitive closure and reachability
 

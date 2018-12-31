@@ -1,8 +1,8 @@
 <0.19.10.93.11.57.59.trg+@n3.sp.cs.cmu.edu (thomas gross).0>
 type:     cmu.cs.scs
-topic:    cs/psc seminar 10/22 @ 4:00 p.m weh 5409 a. nowatzyk of sun
+topic:    cs/psc seminar 10/22 @ <stime>4:00 p.m.</stime>weh 5409 a. nowatzyk of sun
 dates:    22-oct-93
-time:     <stime>4:00 pm</stime>
+time:     4:00 pm
 postedby: trg+ on 19-oct-93 at 11:57 from n3.sp.cs.cmu.edu (thomas gross)
 abstract: 
 
@@ -14,7 +14,7 @@ abstract:
 			     andreas  nowatzyk 
                   sun microsystems computer corporation (smcc)
 
-   	   friday,  oct 22, <location>wean hall 5409</location>, 4:00 p.m.
+   	   friday,  oct 22, <location>wean hall 5409</location>, <stime>4:00 p.m.</stime>
 
 the s3.mp scalable multiprocessor system is an experimental research project
 that is being implemented by smcc's technology development group (td) to

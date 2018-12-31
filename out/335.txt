@@ -2,10 +2,10 @@
 type:     cmu.cs.robotics
 topic:    ri symposium
 dates:    9-nov-91
-time:     <stime>8:30 am</stime> - <etime>6:30 pm</etime>
+time:     8:30 am - <etime>6:30 pm</etime>
 postedby: slr+ on 18-oct-91 at 16:27 from h.gp.cs.cmu.edu (sandra rocco)
 abstract: 
 what's up in robotics?
 
-if you want to learn about current research in the robotics institute come to the first annual robotics symposium titled "where are we and where are we going?".  this symposium will be held on saturday, november 9 from 8:30am to <etime>6:30pm</etime> in the sei auditorium.  this event will be an opportunity for you, the cmu community, to learn about cmu robotics research. topics will include:  advanced interfaces to robotics systems; innovative approaches to manufacturing; new generation of robotics hardware and future d
+if you want to learn about current research in the robotics institute come to the first annual robotics symposium titled "where are we and where are we going?".  this symposium will be held on saturday, november 9 from <stime>8:30am</stime> to <etime>6:30pm</etime> in the sei auditorium.  this event will be an opportunity for you, the cmu community, to learn about cmu robotics research. topics will include:  advanced interfaces to robotics systems; innovative approaches to manufacturing; new generation of robotics hardware and future d
 irections of robotics research. the program will include technical presentations, panel discussions, lunch and a reception.  the campus community is invited.

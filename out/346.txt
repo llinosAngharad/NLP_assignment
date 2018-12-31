@@ -6,7 +6,7 @@ who:      <speaker>josef skrzypek</speaker>
           los angeles ca, usa
 topic:    neural net models of lightness and color constancy.
 dates:    16-mar-92
-time:     <stime>3:30</stime> - <etime>5:00 pm</etime>
+time:     <stime>3:30 </stime>- <etime>5:00 pm</etime>
 place:    <location>wean hall 7220</location>
 postedby: patty+ on 11-mar-92 at 16:32 from ius5.ius.cs.cmu.edu (patricia mackiewicz)
 abstract: 
@@ -14,7 +14,7 @@ abstract:
 
 			vasc seminar
 
- time:		monday, march 16, 1992, <stime>3:30</stime>-<etime>5:00 pm</etime>
+ time:		monday, march 16, 1992, 3:30-<etime>5:00 pm</etime>
  place:		<location>wean hall 7220</location>
  speaker: 	<speaker>josef skrzypek</speaker>
  		machine perception laboratory

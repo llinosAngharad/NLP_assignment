@@ -2,7 +2,7 @@
 type:     cmu.cs.scs
 topic:    cs/psc seminar 1/22: miura on fujitsu vpp 500
 dates:    22-jan-93
-time:     <stime>4:00 pm</stime>
+time:     4:00 pm
 postedby: trg+ on 20-jan-93 at 13:50 from n3.sp.cs.cmu.edu (thomas gross)
 abstract: 
 
@@ -12,7 +12,7 @@ abstract:
 			ken miura
 		fujitsu america, inc.
 
-	4:00 p.m., 3rd floor conference room
+	<stime>4:00 p.m.</stime>, 3rd floor conference room
 		   mellon institute bldg
 
 -------
