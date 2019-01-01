@@ -21,7 +21,7 @@ abstract:
  location: <location>baker hall, adamson wing</location>
  host:     michael erdmann, x7883
 
-a wide variety of control strategies have been proposed, both in the 
+<paragraph>a wide variety of control strategies have been proposed, both in the 
 literature and in practice, for the control of dynamic systems, in general, 
 and robotic manipulators, in particular.  however comparatively little is 
 known about how one might choose a control strategy (for a given application)
@@ -32,7 +32,7 @@ application of this framework to manipulator position control.  in addition,
 we will also demonstrate a method for choosing that combination of dynamic 
 system parameters (for example, masses, moments of inertia, link lengths) and
 controller gains which result in the best possible performance for specified 
-actuator constraints.
+actuator constraints.</paragraph>
 
 ----------
 refreshments will be served from 3:15-3:30.  

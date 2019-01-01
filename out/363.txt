@@ -28,25 +28,25 @@ abstract:
    compliant control of threaded fastener insertion
 ********************************************************
 
-according to a study by nevins and whitney [1] the insertion and tightening
+<paragraph>according to a study by nevins and whitney [1] the insertion and tightening
 of threaded fasteners is one of the most common assembly tasks, yet little
 published work has considered the type of control best suited for the
 assembly of threaded parts.  this talk will discuss a dynamic simulation and
 confirmatory experiments conducted to investigate compliant control
-techniques that guarantee proper insertion under positioning uncertainty.
+techniques that guarantee proper insertion under positioning uncertainty.</paragraph>
 
-armed with an explicit function description of the parts, euler's equations,
+<paragraph>armed with an explicit function description of the parts, euler's equations,
 and assumptions about impulsive forces we have created a fully dynamic
 simulation of the insertion of threaded fasteners under stiffness, damping,
 and accomodation control.  points of contact between the parts are
 determined and tracked during the simulation.  reaction forces are computed
-based on the contact locations and velocity constraints.
+based on the contact locations and velocity constraints.</paragraph>
 
-to validate the simulation a high precision robot equipped with a force and
+<paragraph>to validate the simulation a high precision robot equipped with a force and
 torque sensor carried out insertions under force-feedback control.  the
 experimental results are compared to the simulation.  based on the
 experiments and simulation, control solutions are presented for various
-regions of uncertainty in positioning.
+regions of uncertainty in positioning.</paragraph>
 
 [1] j.l. nevins and d.e. whitney. assembly research. factory
     automation, 2, 1980.
@@ -60,6 +60,5 @@ regions of uncertainty in positioning.
  to greener pastures at u.c. berkeley where he received his master's degree
  in electrical engineering in 1990 and expects his ph.d. in december 1993.
 
-his research interests are in dynamic simulation of part mating problems,
-tactile sensing, and real-time systems development.
-
+<paragraph>his research interests are in dynamic simulation of part mating problems,
+tactile sensing, and real-time systems development.</paragraph>

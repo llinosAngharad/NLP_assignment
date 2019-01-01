@@ -33,7 +33,7 @@ belong to the first paradigm, while examples of the systems that belong to the
 second paradigm are syntactic (based on the generative grammars) learning
 systems as well as the version space based systems.
 
-ets represents a fundamentally new learning model, in which in the classical
+<paragraph>ets represents a fundamentally new learning model, in which in the classical
 production system (transformation system, ts) a very natural competing family
 of distance functions is introduced: a nonnegative weight is assigned to each
 production and the distance between two objects is defined as the length of
@@ -44,6 +44,6 @@ appropriate metric structures in the set of all objects is selected. however,
 the critical feature of the ets is the possibility of efficient modification
 of the current set of productions in the ts during learning, thus generating
 an evolving sequence of ts, each providing more accurate means for both the
-learning class recognition and description.
+learning class recognition and description.</paragraph>
 
  host: <speaker>tom mitchell</speaker>                 appointments: jean harpley, x3802, jean@cs

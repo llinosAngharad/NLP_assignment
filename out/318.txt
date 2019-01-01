@@ -2,7 +2,7 @@
 type:     cmu.cs.robotics
 topic:    upcoming robotics seminars: apr 14 none; apr 21 shree nayar.
 dates:    21-apr-95
-time:     <stime>3:30</stime> - <etime>5:00</etime>
+time:     <stime>3:30 </stime>- <etime>5:00</etime>
 host:     katsushi ikeuchi, x8-6349
 postedby: me on 13-apr-95 at 03:24 from h.gp.cs.cmu.edu (michael erdmann)
 abstract: 
@@ -12,7 +12,7 @@ next friday's seminar will be:
 ------------------------------------------------------------------------------
 			   robotics seminar
 
-friday april 21, <stime>3:30</stime>-<etime>5:00</etime>
+friday april 21, 3:30-<etime>5:00</etime>
 refreshments 3:15
 <location>adamson wing</location>, baker hall
 	           real-time focus range sensor
@@ -24,7 +24,7 @@ refreshments 3:15
 			columbia university
 			new york, ny 10027
 
-structures of dynamic scenes can only be recovered using a real-time
+<paragraph>structures of dynamic scenes can only be recovered using a real-time
 range sensor. depth from defocus  offers an elegant solution to fast
 and dense range estimation. it is computational efficient as it
 circumvents the correspondence problem faced by stereo and the feature
@@ -36,10 +36,10 @@ both textured and textureless surfaces are recovered using an
 optimized illumination pattern that is projected via the same optical
 path used to acquire images. a prototype focus range sensor has been
 developed that produces up to 512x480 depth estimates at 30 hz with
-an accuracy of 0.3%.
+an accuracy of 0.3%.</paragraph>
 
-in addition to the above topic, i'll briefly summarize recent results
-on diffuse reflectance and visual learning.
+<paragraph>in addition to the above topic, i'll briefly summarize recent results
+on diffuse reflectance and visual learning.</paragraph>
 
  host: katsushi ikeuchi, x8-6349
 ------------------------------------------------------------------------------

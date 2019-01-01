@@ -19,7 +19,7 @@ abstract:
 
  title: the programmable automated welding system
 
-the trend toward manufacturing in small lot sizes continues, imposing
+<paragraph>the trend toward manufacturing in small lot sizes continues, imposing
 ever new demands on the responsiveness of companies to consumer demands.
  to be cost competitive, this requires the designer to perform part of
 the manufacturing planning early in the design phase.  towards this end
@@ -32,9 +32,9 @@ succesfully choose one within the constraints of his organization or the
 ones he can easily access.  dr. prinz will describe the requirements of
 an environment in which a part can be designed incorparating both the
 geometric and non-geometric information required for a complete
-product/manufacturing process description.  
+product/manufacturing process description.  </paragraph>
 
-his presentation will describe the non-procedural programable automated
+<paragraph>his presentation will describe the non-procedural programable automated
 welding-system (paws) package.  this system has three major components,
 namely, a non-manifold solid modeler for part, equipment, and
 environment definition, an sql (standard query language) compatible
@@ -42,5 +42,4 @@ database for process definition, and a robotic motion planning module
 capable of motion optimization, interference detection and graphic
 simulation.  although this system focuses on the welding process, the
 key components of the system are equally relevant to other manufacturing
-strategies such as grinding, spraying, deburring, and cutting.
-
+strategies such as grinding, spraying, deburring, and cutting.</paragraph>

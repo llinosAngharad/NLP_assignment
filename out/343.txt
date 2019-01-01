@@ -14,7 +14,7 @@ abstract:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    friendly reminder:
 
-   thanks to danny sleator there will be a robotics seminar tomorrow.
+<paragraph>   thanks to danny sleator there will be a robotics seminar tomorrow.</paragraph>
 
     refreshments: 3:15
     talk:         <stime>3:30</stime>
@@ -36,7 +36,7 @@ abstract:
                       friday, december 6, <stime>3:30</stime>-5:00
                         <location>adamson wing, baker hall</location>
 
-the fft is an important engineering tool, but its applicability is not
+<paragraph>the fft is an important engineering tool, but its applicability is not
 universal.  its utility comes from simplifying operators with a
 translational symmetry (i.e. linear translation invariant operators,
 convolution operators, or toeplitz matrices, depending on your bias).
@@ -46,9 +46,9 @@ explain how the ideas of fourier analysis can be extended to the
 sphere, give an efficient algorithm for the fourier transform there,
 and give examples of how fourier analysis on the sphere can applied to
 computer vision, medical imaging and computations with lie algebras
-(of recent interest in robotics).
+(of recent interest in robotics).</paragraph>
 
-this talk presents joint work with dennis healy and dan rockmore.
+<paragraph>this talk presents joint work with dennis healy and dan rockmore.</paragraph>
 
  host:  danny sleator
-furtherdetails:  3:15   
+furtherdetails:  3:15

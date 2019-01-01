@@ -26,4 +26,3 @@ abstract:
 
  title:	  robots for the assistance to the disabled and the elderly:
  	  current status and perspectives
-

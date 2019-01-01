@@ -18,13 +18,13 @@ abstract:
    time:    <stime>3:45 </stime>(refreshments at 3:30)
    place:   <location>doherty hall 1112</location>
 
-		some recent progress in motion planning
+<paragraph>		some recent progress in motion planning</paragraph>
 
 			  jean-claude latombe
 	      robotics laboratory, computer science dept.
 			  stanford university
 
-   motion planning is an important problem with application in robotics,
+<paragraph>   motion planning is an important problem with application in robotics,
    process planning, design, graphic animation, and medicine. for example,
    it may be used to automatically generate robot paths from cad models,
    or assembly sequences for manufacturing electro-mechanical products, or
@@ -49,4 +49,4 @@ abstract:
    envision that fast path planning algorithms will soon be used on-line
    in robots and in computer systems requiring intensive man-machine
    interaction (e.g., robot programming, cad, graphic simulation, and
-   concurrent engineering systems).
+   concurrent engineering systems).</paragraph>

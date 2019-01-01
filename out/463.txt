@@ -7,8 +7,8 @@ postedby: valdes+ on 05-dec-91 at 08:50 from cs.cmu.edu (raul valdes-perez)
 abstract: 
 ok, i guess one needs to know the time/place also.
 
-the talk by jonathan minden is at 4pm this friday, dec. 6
+<paragraph>the talk by jonathan minden is at 4pm this friday, dec. 6
 in 448 mellon institute.  the mellon institute is the massive
 building with the tall columns on 5th avenue;  it houses
 biology, chemistry, pgh supercomputing center, etc.
-raul
+raul</paragraph>

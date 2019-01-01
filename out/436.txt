@@ -1,21 +1,21 @@
 <0.18.3.94.08.52.19.kk00+@andrew.cmu.edu.0>
 type:     cmu.cs.scs
-topic:    hci seminar march 23
+topic:    <paragraph>hci seminar</paragraph> march 23
 dates:    23-mar-94
 time:     <stime>3:30 </stime>- <etime>5:00 pm</etime>
 host:     phil miller
 postedby: kathleen p. kowalski on 18-mar-94 at 08:52 from andrew.cmu.edu
 abstract: 
 
-hci seminar
+<paragraph>hci seminar</paragraph>
 
-programmable applications for scientists and artists
+<paragraph>programmable applications for scientists and artists</paragraph>
 
-mike eisenberg
+<paragraph>mike eisenberg
 department of computer science and institute of cognitive science
-university of colorado, boulder
+university of colorado, boulder</paragraph>
 
-wednesday, march 23
+<paragraph>wednesday, march 23
 <location>wean hall 5409</location>
 3:30-5pm 
 programmable applications are software systems that combine the
@@ -28,17 +28,17 @@ manipulation constructs in mutually supportive ways. this talk will
 describe some of the issues that arise in the design of programmable
 applications, and will present two prototype applications (based on
 the scheme programming language) for the domains of graphic design and
-computational physics.
+computational physics.</paragraph>
 
 -------
 
  host:  phil miller
 
-to schedule an appointment with mike eisenberg please contact rebecca
-clark at x8-6737.
+<paragraph>to schedule an appointment with mike eisenberg please contact rebecca
+clark at x8-6737.</paragraph>
 
-please see /afs/cs/user/dandb/hciseminar.txt for a list of upcoming hci
-seminar speakers.
+<paragraph>please see /afs/cs/user/dandb/hciseminar.txt for a list of upcoming hci
+seminar speakers.</paragraph>
 
-please contact cmu-hci-request@andrew.cmu.edu to receive
-announcements of human-computer interaction talks and news. 
+<paragraph>please contact cmu-hci-request@andrew.cmu.edu to receive
+announcements of human-computer interaction talks and news. </paragraph>

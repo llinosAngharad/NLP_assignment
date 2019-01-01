@@ -24,7 +24,7 @@ abstract:
                         <speaker>jerome feldman</speaker>
          international computer science institute and uc berkeley
 
-psather is a set of parallel and distributed extensions to the
+<paragraph>psather is a set of parallel and distributed extensions to the
 object-oriented serial language sather. after some years of internal
 experience with implementations and applications, the psather 1.0 system is
 being developed for portability and general distribution.  psather addresses
@@ -39,5 +39,4 @@ conditions.  the object-orientation of psather allows users to define other
 synchronization classes which are easy to use, safe, fair, and difficult to
 deadlock.  object-orientation also facilitates the construction of efficient
 scalable data structures by allowing reuse of serial code distributed over
-the system without an implicit synchronization penalty.
-
+the system without an implicit synchronization penalty.</paragraph>

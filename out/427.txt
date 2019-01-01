@@ -25,13 +25,13 @@ abstract:
 
  title:   systems design of an off road autonomous navigator
 
-this talk will overview the results to date for my phd thesis in the area
+<paragraph>this talk will overview the results to date for my phd thesis in the area
 of autonomous cross country navigation. the work investigates aspects of 
 perception, planning, localization and control using the tools of complexity 
 and dimensional analysis, experimentation, and simulation. ideas that emerge
 are implemented on the hmmwv at cmu on a proof of principle basis. 
 the prototype has achieved unprecedented speeds of 15 km/hr and excursions of 
-15 km on a local off-road test site.
+15 km on a local off-road test site.</paragraph>
 
  perception:
 
@@ -54,9 +54,9 @@ the prototype has achieved unprecedented speeds of 15 km/hr and excursions of
  update bandwidth. steering feedforward, in particular, has been shown 
  to be crucial to reliable navigation above 5 mph on rough terrain.
 
-the talk will overview the subsystems of typical cross country navigators 
+<paragraph>the talk will overview the subsystems of typical cross country navigators 
 and point to the impact of high speed robust navigation on subsystem 
-requirements.
+requirements.</paragraph>
 
  host: 		yangsheng xu (xu@cs.cmu.edu)
  appointment: 	lalit katragadda (lalit@cs.cmu.edu)

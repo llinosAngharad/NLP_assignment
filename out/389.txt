@@ -18,10 +18,10 @@ abstract:
                               what is reasoning?
                           heuristic search revisited
 
-in  the  history of research on thinking two (or more) distinct traditions have
+<paragraph>in  the  history of research on thinking two (or more) distinct traditions have
 persisted.  one tradition, deriving from the study of language and logic, views
 thinking  as  a form of logical and verbal reasoning.  the other, deriving from
 the study of human problem solving, views thinking as a  process  of  heuristic
 search  through  a mental representation of a problem situation.  the talk will
 use recent findings from research on  human  thinking  to  review  the  present
-status and future prospects within a.i. of these two paradigms.
+status and future prospects within a.i. of these two paradigms.</paragraph>

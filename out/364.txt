@@ -23,7 +23,7 @@ abstract:
 
 topic 1: object segmentation techniques for use in visual automation
 
-    in designing automated systems for interpretation or manipulation of
+<paragraph>    in designing automated systems for interpretation or manipulation of
     laboratory image data such as that derived from microphotographs, it is
     often the goal to perform operations that extract information about the
     structure of objects, and to separate and discern various objects within
@@ -34,7 +34,7 @@ topic 1: object segmentation techniques for use in visual automation
     the sophistication to deal with intricate or very subtle details of this
     image data. this paper will discuss advanced techniques useful in
     obtaining information relevant to the recognition and extraction of
-    objects of interest in laboratory vision automation applications.
+    objects of interest in laboratory vision automation applications.</paragraph>
 
 topic 2: constraint based feature indexing and retrieval for image databases
 
@@ -73,4 +73,3 @@ about the speaker:
     northeastern university and the rochester institute of technology, where
     he has designed and taught courses in artificial intelligence, digital
     hardware design, software engineering, and operating systems.
-

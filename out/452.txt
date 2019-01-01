@@ -10,12 +10,12 @@ host:     dana scott (scs, x8-3881 or rebecca clark x8-6737).
 postedby: rebec+ on 11-oct-94 at 09:16 from gnome.cs.cmu.edu (rebecca clark)
 abstract: 
 
-
+<paragraph>
 special multimedia seminar
  date: tuesday, october 11th
  time: <stime>4:30 </stime>- <etime>5:30 pm</etime>
  place: <location>porter hall 225b</location>
- host: dana scott (scs, x8-3881 or rebecca clark x8-6737).
+ host: dana scott (scs, x8-3881 or rebecca clark x8-6737).</paragraph>
 
  speaker:  <speaker>robert cavalier </speaker>(cmu ethics center)
  topic: redesigning the classroom: teaching and technology
@@ -54,4 +54,3 @@ an r & d vehicle that is used to explore many aspects of educational
 computing.
 
 ------- end of forwarded message
-

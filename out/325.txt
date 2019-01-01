@@ -21,25 +21,25 @@ abstract:
  location: <location>baker hall, adamson wing</location>
  host:     michael erdmann, x7883
 
-there are many kinds of dexterous tasks which can be done easily by skilled
+<paragraph>there are many kinds of dexterous tasks which can be done easily by skilled
 persons, but which cannot be clearly expressed by algorithms.  when
 attempting to apply robots to these kinds of tasks, one finds that it is
-very difficult to write control programs for robots.
+very difficult to write control programs for robots.</paragraph>
 
-i will discuss the dynamics and control of intelligent robots, for such
+<paragraph>i will discuss the dynamics and control of intelligent robots, for such
 dexterous tasks, which have been developed in our laboratory. these robots
- include: 
+ include: </paragraph>
 
- 	a cup and ball game playing robot(kendama robot),
+<paragraph> 	a cup and ball game playing robot(kendama robot),
  	a top-spinning robot(komamawashi robot),
  	a stilts-type biped robot(takeuma robot),
  	a quadruped robot,
- 	and learning control of inverted pendulum.
+ 	and learning control of inverted pendulum.</paragraph>
 
-through these systems, we try to demonstrate how one can write control
-programs for intelligent robots.
+<paragraph>through these systems, we try to demonstrate how one can write control
+programs for intelligent robots.</paragraph>
 
-an example of intelligent control for dexterous robots is our top-spinning
+<paragraph>an example of intelligent control for dexterous robots is our top-spinning
 robot system.  i am able to spin a top, yet i can not explain "how" i can
 spin a top. my brother showed me how to spin a top, and i learned the ropes
 (kotsu in japanese) of top-spinning by myself.  [my brother simply told me
@@ -47,10 +47,10 @@ spin a top. my brother showed me how to spin a top, and i learned the ropes
 a string at a good timing".]  our robot system learns the ropes of 
 top-spinning by obvserving a human performing the action through video camera 
 and creates the control program to spin the top based on the observation.  
-our robot is able to spin a top successfully. 
+our robot is able to spin a top successfully. </paragraph>
 
-in the talk, video demonstrations of several of our robot systems will be
-presented.
+<paragraph>in the talk, video demonstrations of several of our robot systems will be
+presented.</paragraph>
 
 ----------
 refreshments will be served from 3:15-3:30.  

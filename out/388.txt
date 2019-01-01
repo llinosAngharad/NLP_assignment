@@ -11,7 +11,7 @@ host:     hagen schempf, x6884
 postedby: tmeadows on 20-nov-92 at 08:56 from frc.ri.cmu.edu (tim meadows)
 abstract: 
 
-ri seminar
+<paragraph>ri seminar</paragraph>
 
  when:		friday, 20 november 1992, <stime>3:30 </stime>- <etime>5:00 pm</etime>
 		refreshments to be served by 3:15 pm
@@ -36,4 +36,3 @@ ri seminar
 *412-268-7085   |  fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
 *               |                          |                         *
 **********************************************************************
-

@@ -16,7 +16,7 @@ abstract:
                          <stime>3:30 pm</stime>
                       <location>7500 wean hall</location>
 
-machine learning has evolved from obscurity in the 1970s into a
+<paragraph>machine learning has evolved from obscurity in the 1970s into a
 vibrant and popular discipline in artificial intelligence during the
 1980s and 1990s.  as a result of its success and growth, machine
 learning is evolving into a collection of related disciplines:
@@ -34,5 +34,4 @@ spur new research, increase cross-discipline collaboration and
 competition (both lead to better communication and learning about
 each other's methods).  after reviewing the state of the art
 in machine learning, several challenges will be offered to researchers 
-in the field and newcomers alike.
-
+in the field and newcomers alike.</paragraph>

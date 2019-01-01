@@ -6,8 +6,8 @@ time:     1:30
 postedby: muir+ on 27-oct-94 at 12:41 from cs.cmu.edu (patrick muir)
 abstract: 
 
-the pittsburgh robotics and automation chapter of the ieee is
+<paragraph>the pittsburgh robotics and automation chapter of the ieee is
 sponsoring a lecture by antal bejczy of jpl under the ieee
 distinguished lecture program. antal will speak on the topic:
 calibrated virtual reality in telerobotics. the lecture will
-be in <location>wean 4623</location> at <stime>1:30 </stime>on friday november 11. all are invited.
+be in <location>wean 4623</location> at <stime>1:30 </stime>on friday november 11. all are invited.</paragraph>

@@ -6,9 +6,9 @@ time:     <stime>4:00</stime>
 postedby: trg+ on 11-oct-91 at 11:58 from ius3.ius.cs.cmu.edu (thomas gross)
 abstract: 
 
-
+<paragraph>
 			the tera computer system
-		             burton j. smith
+		             burton j. smith</paragraph>
 
  		       pittsburgh supercomputing center
                           mellon institute bldg.
@@ -32,10 +32,10 @@ entrance and we can walk over together.)
 	  customer benchmarking in first quarter 1991.  first system 
 	  deliveries are scheduled for fourth quarter 1993.
 
-	  the talk will describe the overall architecture of the system and
+<paragraph>	  the talk will describe the overall architecture of the system and
 	  its hardware implementation; the programming environment and
 	  associated tools; the operating system, including the file system;
-	  and the company's status and long-range plans.
+	  and the company's status and long-range plans.</paragraph>
 
 -----
 burton smith is the president of tera inc.   previously, he was the chief

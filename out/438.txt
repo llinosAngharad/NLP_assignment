@@ -6,11 +6,11 @@ time:     1:00
 postedby: danner+ on 05-nov-91 at 22:10 from ernst.mach.cs.cmu.edu (daniel stodolsky)
 abstract: 
 
-alessandro forin will be talking about the internals of physical
+<paragraph>alessandro forin will be talking about the internals of physical
 memory management system in mach 3.0 at <stime>1:00 </stime>in <location>wean 7500</location> on thursday
 november 7, 1991. all are invited to attend. 
 this talk is part of an ongoing weekly seminar series on the internals
-of mach 3.0. 
+of mach 3.0. </paragraph>
 
-daniel stodolsky
-mach internals course coordinator.
+<paragraph>daniel stodolsky
+mach internals course coordinator.</paragraph>

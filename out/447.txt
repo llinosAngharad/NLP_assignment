@@ -17,7 +17,7 @@ abstract:
 		       1210 west dayton street
 			  madison, wi 53706
 
-future parallel computers must execute efficiently both hand-coded
+<paragraph>future parallel computers must execute efficiently both hand-coded
 applications and also programs written in high-level programming
 languages.  today's machines limit programs to a single communication
 paradigm---message-passing or shared-memory---which results in uneven
@@ -26,27 +26,27 @@ interface, which supports shared-memory, message-passing, and hybrid
 applications.  tempest enhances portability of parallel programs by
 allowing low-cost networks of workstations to provide the same
 abstractions (e.g., shared memory) as high-performance parallel
-machines.
+machines.</paragraph>
 
-the tempest interface consists of low-level communication and
+<paragraph>the tempest interface consists of low-level communication and
 memory-system mechanisms.  policies, such as shared memory, are
 implemented in user-level software, which allows programmers and
 compilers to customize policies to an application's semantics and
 sharing patterns.  experiments show that custom cache coherency
 policies can produce upto an order-of-magnitude performance
-improvement.
+improvement.</paragraph>
 
-we have completed two implementations of the tempest interface.
+<paragraph>we have completed two implementations of the tempest interface.
 typhoon illustrates the performance of first-class hardware support
 for tempest.  this proposed hardware system implements tempest using a
 fully-programmable, user-level processor in the network interface.
 blizzard demonstrates tempest's portability by implementing the
 interface in software running on stock hardware (a thinking machines
 cm-5).  we are currently developing a third tempest implementation by
-porting blizzard to the wisconsin cow (cluster of workstations).
+porting blizzard to the wisconsin cow (cluster of workstations).</paragraph>
 
-this work is part of the wisconsin wind tunnel project, co-led by
-mark hill, james larus, and david wood.
+<paragraph>this work is part of the wisconsin wind tunnel project, co-led by
+mark hill, james larus, and david wood.</paragraph>
 
                          date:   friday, september 23, 1994
 
@@ -57,5 +57,5 @@ mark hill, james larus, and david wood.
 
 refreshments served at 3:45
 
-the speaker will be here all day friday.  please contact 
-barbara sandling (sandling@cs) if you want to talk to him.
+<paragraph>the speaker will be here all day friday.  please contact 
+barbara sandling (sandling@cs) if you want to talk to him.</paragraph>

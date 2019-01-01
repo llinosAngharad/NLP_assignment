@@ -17,7 +17,7 @@ abstract:
 		   hebrew university of jerusalem
 	          (joint work with daniel lehman)
 
-non-monotonic reasoning is an attempt to develop reasoning systems
+<paragraph>non-monotonic reasoning is an attempt to develop reasoning systems
 where an inference means that the conclusion holds in the "normal case",
 in "most cases", but it does not necessarily hold in all cases. it seems 
 that this type of reasoning is needed if one wants to model everyday
@@ -28,7 +28,7 @@ considering the inference relation of the reasoning system, and clarify
 the role of different inference rules and the impact they have on the 
 model theory of the logic. we are especially interested in a particular 
 rule called "rational monotony" and the connection between it and 
-probabilistic models.
+probabilistic models.</paragraph>
 
  note: prof. magidor will also give a math department colloquium on friday
  february 7.
@@ -36,4 +36,4 @@ probabilistic models.
 -------------------------
  host:  stephen d. brookes
 
-appointments can be made through marian d'amico, marian@cs, x7665.
+<paragraph>appointments can be made through marian d'amico, marian@cs, x7665.</paragraph>

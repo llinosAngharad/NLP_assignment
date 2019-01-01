@@ -22,35 +22,35 @@ with the t2 project - providing software for the field robotics
 center's tessellator robot. the tessellator is designed to service
 the space shuttles' thermal protection system. 
 
-the team formulated the requirements and drafted designs for
+<paragraph>the team formulated the requirements and drafted designs for
 both the high-level controller (hlc) and the end-effector
 positioning software (eeps). these activities mark the half-way
-point of the t2 project. 
+point of the t2 project. </paragraph>
 
 the presentation will include the following topics:
 
 - t2 past and future.
 
-  an overview of the events of the spring and an outlook
-  on the summer semester.
+<paragraph>  an overview of the events of the spring and an outlook
+  on the summer semester.</paragraph>
 
 - eeps and hlc requirements.
 
-  the functionality of the software and the techniques applied
-  to elicit and analyze the requirements. 
+<paragraph>  the functionality of the software and the techniques applied
+  to elicit and analyze the requirements. </paragraph>
 
 - eeps and hlc software architectures.
 
-  the proposed high-level designs for the software and the
-  process that led to the architectures.
+<paragraph>  the proposed high-level designs for the software and the
+  process that led to the architectures.</paragraph>
 
 - t2  process handbook.
 
-  a set of management practices adopted by the team and collected
-  for use by other software development teams.
+<paragraph>  a set of management practices adopted by the team and collected
+  for use by other software development teams.</paragraph>
 
 - t2 time expenditures.
 
-  some statistics on how the t2 developers spent their time. 
+<paragraph>  some statistics on how the t2 developers spent their time. </paragraph>
 
 ------------------------------------------------------------------

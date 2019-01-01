@@ -1,6 +1,7 @@
 import re
 import os.path
 from dateutil import parser as time_parser
+from nltk import sent_tokenize
 
 
 def tag_all(filename, text, start_time, end_time, location, speaker):
@@ -8,7 +9,8 @@ def tag_all(filename, text, start_time, end_time, location, speaker):
     text = tag_time(text, start_time, end_time)
     text = tag_location(text, location)
     text = tag_speaker(text, speaker)
-    tag_paragraphs(text)
+    text = tag_paragraphs(text)
+    tag_sentences(text)
     write_file(filename, text)
     return text
 
@@ -20,8 +22,39 @@ def tag_location(text, location):
     return new_text
 
 def tag_paragraphs(text):
-    text = "\n\n{}\n\n".format(text.split("\n"))
+    text = "\n\n{}\n\n".format(text.strip("\n"))    # Splits text into list of lines
+    para_regex = r"(?<=\n\n)(?:(?:\s*\b.+\b:(?:.|\s)+?)|(\s{0,4}[A-Za-z0-9](?:.|\n)+?\s*))(?=\n\n)"
+
+
+
+
+    para = re.compile(para_regex)
+    for match in para.finditer(text):
+        paragraph = match.group(1)
+        if paragraph:
+            text = text.replace(paragraph, "<paragraph>{}</paragraph>".format(paragraph))
+    return text.strip()
+
+def tag_sentences(text):
+    text_parts = re.split(r"</?paragraph>", text)
+    sentences = []
+    for part in text_parts:
+        p = part.strip()
+        s = sent_tokenize(p)
+        sentences.extend(s)
+
+    not_sent_regex = r"^[A_Za-z0-9](?:.|\n)+(?:\.|\?|!|:)$"
+    temp = []
+    for sent in sentences:
+        res = re.match(not_sent_regex, sent)
+        if res is not None:
+            temp.append(sent)
+
+    for sent in temp:
+        text = text.replace(sent, "<sentence>{}</sentence>".format(sent))
     print(text)
+    return  text
+
 
 # Tags speaker every time it is found in text
 def tag_speaker(text, speaker):

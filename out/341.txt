@@ -13,9 +13,9 @@ abstract:
 	     friendly reminder:  robotics seminar today!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-jeff kerr will be in the manipulation lab in the late morning,
+<paragraph>jeff kerr will be in the manipulation lab in the late morning,
 chatting about research.   if you don't have a scheduled appointment
-and would like to chat with jeff feel free to drop by.  --- mike
+and would like to chat with jeff feel free to drop by.  --- mike</paragraph>
 
 ------------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ and would like to chat with jeff feel free to drop by.  --- mike
 			 zebra robotics, inc.
 			palo alto, california
 
-ten years ago, while robotics was viewed as the next industry to follow the
+<paragraph>ten years ago, while robotics was viewed as the next industry to follow the
 huge advances and successes of the electronics and computer industry, there
 were only a handful of robotics research labs around the world.  now, with
 robotics making its way into the mainstream engineering curriculum of many
@@ -37,7 +37,7 @@ for the past five years, has been attempting to commercialize force control
 capabilities for robots. i will be discussing some of my experiences in
 trying to effect technology transfer and what i see might be some of the
 reasons and some of the solutions to the great disparity between what is
-done in research labs and what is available commercially.
+done in research labs and what is available commercially.</paragraph>
 
 -----------------------------------------
 refreshments at 3:15

@@ -28,7 +28,7 @@ abstract:
 
          place:    <location>wean hall 4623 (note special place)</location>
 
-we report about projects and activities in parallel computing at cscs'
+<paragraph>we report about projects and activities in parallel computing at cscs'
 section of research and development (serd). the {\em joint cscs-eth/nec
 high performance computing software development center} is a
 collaboration with nec corporation comprising ten full-time scientists
@@ -50,7 +50,6 @@ computer systems and education laboratory (paredlab) provides a
 framework for education and training on novel computer architectures
 and software systems, knowledge acquisition in the field of
 high-performance computing, and consultation of academic institutions
-and industrial and commercial companies.
+and industrial and commercial companies.</paragraph>
 
  host:  thomas gross
-

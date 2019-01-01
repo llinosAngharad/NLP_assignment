@@ -20,4 +20,3 @@ a general 0-1 problem.  this enables an extnesive investigation to be
 carried out as to the relationships between rules and examples; "data" and
 "knowledge"; and attitudes regarding the "best" set of rules forming a rule
 base".
-

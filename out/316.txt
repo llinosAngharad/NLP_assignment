@@ -3,7 +3,7 @@ type:     joint ai/hci seminar
 who:      <speaker>harold cohen</speaker> / uc at san diego
 topic:    aaron: in living color
 dates:    18-apr-95
-time:     <stime>3:30 pm</stime>
+time:     3:30 pm
 place:    <location>5409 wean hall</location>
 duration: 1 1/2 hours
 host:     herbert simon
@@ -14,17 +14,17 @@ abstract:
  who:      <speaker>harold cohen</speaker> / uc at san diego
  topic:    aaron: in living color
  dates:    18-apr-95
- time:     3:30 p.m.
+ time:     <stime>3:30 p.m.</stime>
  place:    <location>5409 wean hall</location>
  duration: 1 1/2 hours
  host:     herbert simon
 
  aaron: in living color.
 
-during the past four years, work on the aaron program has been directed
+<paragraph>during the past four years, work on the aaron program has been directed
 primarily to giving it the ability to color its own drawings, and most
 recently to providing it with a painting machine with which it could do
-so in the real world. 
+so in the real world. </paragraph>
 
 <speaker>harold cohen</speaker> discusses some of the issues that have arisen in this
 task; for example, the problem of mapping the results of working in
@@ -35,4 +35,4 @@ accomplished.
 
  furtherdetails: for details send mail to valdes@cs
 
-furtherdetails: for details send mail to valdes@cs    
+furtherdetails: for details send mail to valdes@cs

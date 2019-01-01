@@ -15,7 +15,7 @@ carnegie mellon                                              scs ai seminar
 		    fuzzy sets in approximate reasoning
 
 			  friday, 26 april 1991
-			    <stime>2:00</stime>-<etime><etime>3:30</etime> </etime><location>weh 5409</location>
+			    <stime>2:00</stime>-<etime>3:30</etime> <location>weh 5409</location>
     this  talk will present  the basic principles  of approximate reasoning
 based on fuzzy sets   and relate  them  to   similar principles that  guide
 probabilistic reasoning.  knowledge representation issues will be addressed
@@ -27,7 +27,7 @@ incomplete evidence that tries to reconcile fuzzy sets and classical logic.
 it  also  belongs to  the  current   stream  of   research pertaining    to
 non-monotonic reasoning and belief revision.
 
-    didier dubois receives   his phd degree   in 1977.  he was a   visiting
+<paragraph>    didier dubois receives   his phd degree   in 1977.  he was a   visiting
 scholar at the  school of electrical  engineering at  purdue  university in
 1978.  from 1980 until 1983, he worked as a research engineer at center for
 studies and research in  toulouse, in the production research  area.  he is
@@ -45,7 +45,7 @@ the journals: fuzzy sets  and systems, international journal of approximate
 reasoning, revue   d'intelligence  artificielle;  and  more recently:   the
 international journal of general systems and the orsa journal on computing.
 dubois is   a  member of  the  council of the  international  fuzzy systems
-association.
+association.</paragraph>
 
 ---------------------------------------------------------------------------
  hosts: <speaker>mark fox</speaker>/jeanluc koning       appointments: jeanluc.koning@ri, x7598

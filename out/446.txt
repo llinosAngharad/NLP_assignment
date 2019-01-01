@@ -2,23 +2,23 @@
 type:     cmu.cs.scs
 topic:    calendar joint cs-psc seminar series
 dates:    28-oct-94
-time:     4:00 pm
+time:     <stime>4:00 pm</stime>
 postedby: prs+ on 16-sep-94 at 14:14 from n2.sp.cs.cmu.edu (peter steenkiste)
 abstract: 
 
-appended is the calendar for fall joint cs-psc seminar series.  
-i will post weekly reminders with an abstract.
+<paragraph>appended is the calendar for fall joint cs-psc seminar series.  
+i will post weekly reminders with an abstract.</paragraph>
 
-all seminars are on friday at 4, unless otherwise noted.  most 
+<paragraph>all seminars are on friday at 4, unless otherwise noted.  most 
 speakers spend some time in pittsburgh to find out about ongoing 
 research.  please contact barbara sandling if you want to talk to 
-the speaker,
+the speaker,</paragraph>
 
-peter
------------------
+<paragraph>peter
+-----------------</paragraph>
 
-oct 28
+<paragraph>oct 28</paragraph>
 
 "computatinal approaches to docking biomolecules"
 art olson, scripps institute 
-mellon institute, 3rd floor conference room, <stime>4:00 p.m.</stime>
+mellon institute, 3rd floor conference room, 4:00 p.m.

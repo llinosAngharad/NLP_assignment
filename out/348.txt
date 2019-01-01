@@ -31,7 +31,7 @@ x
    techniques  and  continuation  are  far  from  being  robust  and slow in
    practice as well.
 
-   in this  talk  we  present  multipolynomial  resultants  and  show  their
+<paragraph>   in this  talk  we  present  multipolynomial  resultants  and  show  their
    effectiveness  for  manipulating  system  of  polynomial  equations.  the
    resultant is represented in terms of  matrices  and  determinants.  as  a
    result,  we  use  algorithms  from  linear algebra for their application.
@@ -50,6 +50,6 @@ x
    been an open problem in industrial robotics for more than  three  decades
    and  had significant impact on the design of robot manipulators.  we also
    highlight its application for interactive computer animation and physical
-   based modeling.
+   based modeling.</paragraph>
 
                   coffee and doughnuts in weh 4623 at 3:15 pm

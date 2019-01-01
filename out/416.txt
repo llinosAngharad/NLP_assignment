@@ -3,7 +3,7 @@ type:     ai seminar
 who:      <speaker>rich korf </speaker>(ucla)
 topic:    best-first minimax search
 dates:    21-oct-93
-time:     <stime>3:30 pm</stime>
+time:     3:30 pm
 place:    <location>4623 wean hall</location>
 host:     dave mckeown
 postedby: plp+ on 20-oct-93 at 15:35 from phyllis.adm.cs.cmu.edu (phyllis pomerantz)
@@ -13,7 +13,7 @@ abstract:
  who:      <speaker>rich korf </speaker>(ucla)
  topic:    best-first minimax search
  dates:    21-oct-93
- time:     3:30 p.m.(note unusual day and room: thursday - 4623 weh)
+ time:     <stime>3:30 p.m.</stime>(note unusual day and room: thursday - 4623 weh)
  place:    <location>4623 wean hall</location>
  host:     dave mckeown
 
@@ -23,7 +23,7 @@ richard e. korf
 computer science department
 university of california, los angeles
 
-we present a very simple selective minimax search algorithm for two-player
+<paragraph>we present a very simple selective minimax search algorithm for two-player
 games. it always expands next the frontier node at the end of the principal
 variation, or current best line of play, which is the node that determines the
 minimax value of the root. the algorithm requires no information other than a
@@ -36,5 +36,4 @@ present an implementation of the algorithm that reduces its space complexity
 from exponential to linear in the search depth, at the cost of increased time
 complexity.  finally, we present a hybrid best-first extension algorithm that
 combines alpha-beta and best-first minimax, and performs significantly better
-than either pure algorithm in both domains.
-
+than either pure algorithm in both domains.</paragraph>

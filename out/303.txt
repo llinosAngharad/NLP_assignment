@@ -25,7 +25,7 @@ abstract:
 
  title:  the d* algorithm for real-time path replanning
 
-the task of planning trajectories for a mobile robot has received
+<paragraph>the task of planning trajectories for a mobile robot has received
 considerable attention in the research literature.  algorithms exist
 for handling a variety of robot shapes, configurations, motion
 constraints, and environments.  most of the work assumes the robot has
@@ -50,14 +50,14 @@ to the robot's location using known information.  as the robot moves,
 its sensors discover obstacles in its path.  these discoveries are
 handled by modifying the arc costs.  d* propagates cost changes
 minimally to compute a new optimal path.  the process repeats until
-the robot reaches the goal or determines that it cannot.    
+the robot reaches the goal or determines that it cannot.    </paragraph>
 
-d* was implemented and compared head-to-head with the brute force
+<paragraph>d* was implemented and compared head-to-head with the brute force
 replanner to verify optimality and determine the performance
 improvement.  it was integrated with an obstacle avoidance system and
 tested on the navlab ii.  the robot succeeded in finding a specified
 goal in a cluttered environment given no initial map information.  the
-algorithm and the results will be presented. 
+algorithm and the results will be presented. </paragraph>
 
  host: 		yangsheng xu (xu+@cs.cmu.edu)
  appointment: 	ava cruse (avac@cs.cmu.edu)

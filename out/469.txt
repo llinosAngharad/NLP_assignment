@@ -16,7 +16,7 @@ abstract:
 
                          disk reads with dram latency
 
-one of the most difficult and (unfortunately) important challenges for a high
+<paragraph>one of the most difficult and (unfortunately) important challenges for a high
 performance file system is the achievement of low latency during a file cache
 miss.  we have recently begun a project to explore the feasibility and utility
 of using file access hints to eliminate long disk latencies by prefetching
@@ -26,11 +26,11 @@ and makes, or historically by previously profiled executions.
 our research will also address the thorny issues of hint specification,
 memory resource management, imprecise and incorrect hints, and appropriate
 interfaces for propagating hints to affected application, operating system,
-file system, and device specific modules.
+file system, and device specific modules.</paragraph>
 
-in this talk i will overview our research on this new project with
+<paragraph>in this talk i will overview our research on this new project with
 specific attention to our immediate plans, the most difficult problems
 in front of us, and our long range vision for a hint-based prefetching
-file system interface.
+file system interface.</paragraph>
 
-this is joint work with r. hugo patterson.
+<paragraph>this is joint work with r. hugo patterson.</paragraph>

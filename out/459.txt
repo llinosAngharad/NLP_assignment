@@ -28,7 +28,7 @@ abstract:
                       department of computer science
                      the university of texas at austin
 
-a self-organizing neural network model for the synergetic development of
+<paragraph>a self-organizing neural network model for the synergetic development of
 afferent and lateral connections in cortical feature maps was simulated on
 the <location>pittsburgh supercomputing center</location>'s cray t3d.  the model, called lissom,
 shows how the observed cortical structures (about 10mm in diameter, with
@@ -39,5 +39,4 @@ structure remains in a dynamic and continuously-adapting equilibrium with
 the input and can account for many of the observed plasticity effects in the
 adult visual cortex.  the model also suggests that the primary role of
 lateral connections is to remove redundancies in the cortical activity,
-resulting in a more efficient representation of visual information.
-
+resulting in a more efficient representation of visual information.</paragraph>

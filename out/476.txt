@@ -33,6 +33,6 @@ expressions, statements, and procedures.
 ---------------------------------------------------------------
  host: david garlan
 
-if  you  are interested in speaking with david wile while he is
+<paragraph>if  you  are interested in speaking with david wile while he is
 here on thursday april 16th, please send e-mail to cary lund at
-cary@cs.
+cary@cs.</paragraph>

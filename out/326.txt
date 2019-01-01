@@ -19,7 +19,7 @@ abstract:
  location: <location>baker hall, adamson wing</location>
  host:     michael erdmann, x7883
 
-running and juggling are examples of intermittent dynamic tasks.  that
+<paragraph>running and juggling are examples of intermittent dynamic tasks.  that
 is, they require a manipulator alternately to be in contact with and
 out of contact with another object, and the relative velocity at
 contact is large.  during the noncontact, or "ballistic" phase, the
@@ -29,13 +29,13 @@ contact is re-established.  the general control strategy for a
 manipulator faced with such a task is two-fold.  during the contact
 phase, the manipulator must establish appropriate initial conditions
 for the ballistic phase.  during the ballistic phase, it must prepare
-for the inevitable impact.
+for the inevitable impact.</paragraph>
 
-how well do established control laws for running and juggling fit with
+<paragraph>how well do established control laws for running and juggling fit with
 this idea of alternately establishing initial conditions and preparing
 for impact?  i'll discuss marc raibert's control law for running that
 decomposes the problem along the degrees of freedom of the mechanism,
-and martin buhler's use of a "mirror" algorithm for juggling.
+and martin buhler's use of a "mirror" algorithm for juggling.</paragraph>
 
 ----------
 refreshments will be served from 3:15-3:30.  

@@ -1,14 +1,14 @@
 <0.28.10.91.23.00.10.trg+@ius3.ius.cs.cmu.edu (thomas gross).0>
 type:     cmu.cs.scs
-topic:    psc/cs seminar 11/1 <stime>4:00</stime> <location>weh 5403</location>: j. smith of cray research
+topic:    psc/cs seminar 11/1 <stime>4:00 </stime><location>weh 5403</location>: j. smith of cray research
 dates:    1-nov-91
-time:     <stime>4:00</stime>
+time:     4:00
 postedby: trg+ on 28-oct-91 at 23:00 from ius3.ius.cs.cmu.edu (thomas gross)
 abstract: 
 
 
 		    psc/computer systems seminar  
-		friday nov 1, 1991  <stime>4:00</stime> p.m.  <location>weh 5403</location>
+		friday nov 1, 1991  <stime>4:00 </stime>p.m.  <location>weh 5403</location>
 
                supercomputer  interconnection networks
 
@@ -37,4 +37,3 @@ research after all is the company that developed the cray x-mp and the
 cray y-mp.]  --trg
 
 9
-

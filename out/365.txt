@@ -23,13 +23,13 @@ abstract:
 
  title: 	multiple-model machine vision
 
-images are fundamentally inhomogeneous, yet most machine vision work has
+<paragraph>images are fundamentally inhomogeneous, yet most machine vision work has
 been based on homogeneous processing using a single type of image model.  we
 have developed a framework for inhomogeneous, multiple-model machine vision
 using a minimum description length (mdl)/maximum a posteriori (map)
 selection criterion.  i will talk about how we have applied this framework
 to the problem of multiple-object structure/egomotion from uncalibrated
-video, and the problem of object recognition using 2-d aspect models.
+video, and the problem of object recognition using 2-d aspect models.</paragraph>
 
 ------------------------------------------------------------------------------
 if you would like to make an appointment with alex please feel free to contact

@@ -25,7 +25,7 @@ abstract:
 
  title:  using two-dimensional image matching to interpret the three-dimensional world
 
-we are investigating the extent to which two-dimensional representations
+<paragraph>we are investigating the extent to which two-dimensional representations
 are applicable to tasks that involve interacting with the three-dimensional
 world.  we have been using two-dimensional geometry extracted from images to
 solve a number of problems, including tracking moving objects, segmenting
@@ -36,12 +36,11 @@ measure determines the resemblance of point sets (binary images) by
 examining the fraction of points in one set that are near points in the
 other (and perhaps vice versa).  unlike most measures used in model-based
 matching, this measure is not based on computing a correspondence between
-points in the two sets.
+points in the two sets.</paragraph>
 
-in this talk, i will describe the generalized hausdorff measure, discuss how
+<paragraph>in this talk, i will describe the generalized hausdorff measure, discuss how
 to compute it efficiently, and then present applications of the measure to
-motion tracking and visually guided navigation problems.
+motion tracking and visually guided navigation problems.</paragraph>
 
  host: 		yangsheng xu (xu+@cs)/martial hebert (hebert@cs)
  appointment: 	ava cruse (avac@cs)/marie elm (mke@cs)
-

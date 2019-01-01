@@ -45,4 +45,4 @@ abstract:
         like an appointment to speak with him, please call marge at x5025
         or email profeta@cs.
 
-        *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -       
+        *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -

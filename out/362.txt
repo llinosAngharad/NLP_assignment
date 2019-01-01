@@ -9,37 +9,37 @@ abstract:
 cimds seminar - steve chien, jpl, 3/30. <stime>12:00</stime>-<etime>1:00</etime>, doherty hall ??
 	learning control knowledge for scheduling
 
-			steve chien
+<paragraph>			steve chien
 		jet propulsion laboratory
-	     california institute of technology
+	     california institute of technology</paragraph>
 
-while the general class of most scheduling problems is np-hard in
+<paragraph>while the general class of most scheduling problems is np-hard in
 worst-case complexity (i.e., a general solution is doomed to poor 
 performance), in practice, for specific distributions of problems
 and constraints, domain-specific solutions have been shown to perform
 in much better than exponential time.  however, discovering these
 search strategies is a knowledge-intensive time-consuming process
-which requires a deep understanding of the domain.
+which requires a deep understanding of the domain.</paragraph>
 
-the goal of this work is to develop techniques to allow for automated
+<paragraph>the goal of this work is to develop techniques to allow for automated
 learning of effective domain-specific schedulers from a general
 scheduler with a flexible control strategy.  in this approach,
 techniques from machine learning and statistics are used to
 automaticaly find control settings to for the scheduler which allow it
-to improve performance on the domain-specific problems of interest.
+to improve performance on the domain-specific problems of interest.</paragraph>
 
-these techniques have been applied to learning control settings for a 
+<paragraph>these techniques have been applied to learning control settings for a 
 scheduler to schedule operations for the 26-meter subnet of the deep 
 space network (dsn), operated by jpl and used to communicate with orbiting
 spacecraft and satellites.  for dsn projected schedules, the machine learning
 techniques were able to decrease the amount of cpu time required to
 produce a schedule by 50% for problems solvable by the scheduler.
 in addition, the machine learning allowed the scheduler to solve 15% more 
-of the problems within computational resource limitations.
+of the problems within computational resource limitations.</paragraph>
 
 (this is joint work with jonathan gratch and gerald dejong of the
 university of illinois)
 
-steve is interested in meeting with anyone working on projects in planning,
+<paragraph>steve is interested in meeting with anyone working on projects in planning,
 scheduling and learning. if you are interested in meeting with steve, please
-set up a time with carol (boshears@isl1.ri.cmu.edu).
+set up a time with carol (boshears@isl1.ri.cmu.edu).</paragraph>

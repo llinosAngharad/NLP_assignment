@@ -11,7 +11,7 @@ postedby: lydia+ on 21-apr-92 at 11:15 from proof.ergo.cs.cmu.edu (lydia defilip
 abstract: 
 
 
-				special seminar
+<paragraph>				special seminar</paragraph>
 
  speaker:  <speaker>leslie lamport</speaker>
            digital equipment corporation
@@ -22,7 +22,7 @@ abstract:
  place:    <location>wean hall 4623</location>
  topic:    the temporal logic of actions
 
-traditional verification employs a programming language for writing the 
+<paragraph>traditional verification employs a programming language for writing the 
 program, and a logic for expressing its properties.  when verifying 
 concurrent programs, we reason about an abstract program that is not meant 
 to be directly compiled and executed, so we don't have to use a programming 
@@ -31,9 +31,9 @@ can be simpler than programming languages.  with the right logic, it is
 easy to express a program as a logical formula.  the distinction between 
 properties and programs then vanishes, and specifications can be written 
 as simple programs.  proving that one program implements another is no 
-different from proving that a program satisfies a property.
+different from proving that a program satisfies a property.</paragraph>
 
-the temporal logic of actions is the right logic.  it provides a tool that 
-can help us cope with the complexity of verifying real concurrent algorithms.
+<paragraph>the temporal logic of actions is the right logic.  it provides a tool that 
+can help us cope with the complexity of verifying real concurrent algorithms.</paragraph>
 
-no previous fondess for logic is assumed.
+<paragraph>no previous fondess for logic is assumed.</paragraph>

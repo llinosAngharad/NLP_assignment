@@ -14,7 +14,7 @@ monday, november 2, 1992
 reception will follow immediately after the talk.
 ************************************************************************
 
-david l. house is senior vice president of corporate strategy.  as
+<paragraph>david l. house is senior vice president of corporate strategy.  as
 a member of intel's executive staff, he is responsible for intel's
 product strategy. he joined intel in 1974 as manager of applications for memory
 components, moving a year later to the post of manager of product marketing
@@ -26,9 +26,9 @@ and general manager of the microcomputer components group and was promoted
 to senior vice president in 1987.  from 1979 to 1991, mr. house held profit
 and loss responsibility for intel x86 microprocessors and related products.
 in 1991 he headed up the architecture, marketing & applications group, prior
-to assuming his current position this year.
+to assuming his current position this year.</paragraph>
 
-mr. house began his professional career in 1965, joining ratheon where
+<paragraph>mr. house began his professional career in 1965, joining ratheon where
 he worked on the design of computers and data acquisition systems.
 he moved to honeywell's computer cotnrol division in 1969 where he managed
 minicomputer and development and received the h.w. sweatt engineer
@@ -37,4 +37,4 @@ family.  in 1972 he joined microdata as director of computer development,
 leaving to join intel in 1974. he graduated from michigan technological
 university with a b.s. in electrical engineering in 1964.  he received his
 m.s. in electrical engineering from northeastern university in 1969.  he is
-a member of the institute of electrical and electronic engineers.
+a member of the institute of electrical and electronic engineers.</paragraph>

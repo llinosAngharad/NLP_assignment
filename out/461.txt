@@ -9,15 +9,14 @@ abstract:
 
  note:  different day and time!!
 
-raj reddy
+<paragraph>raj reddy
 <stime>3:30 </stime>friday, may 5
-<location>wean hall 5409</location>
+<location>wean hall 5409</location></paragraph>
 
 "some necessary conditions for a good user interface"
 
-for our final human-computer interaction seminar of the semester, raj reddy
+<paragraph>for our final human-computer interaction seminar of the semester, raj reddy
 will be presenting his thoughts on what makes a good interface good.  he
 hopes the discussion of "necessary conditions" can serve as a source for
 new hci research ideas.  should be a thought-provoking way to transition to
-the summer!
-
+the summer!</paragraph>

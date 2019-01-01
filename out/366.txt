@@ -6,20 +6,20 @@ time:     <stime>9:00 </stime>- <etime>10:15 am</etime>
 postedby: marcella zaragoza on 9-aug-94 at 11:21 from andrew.cmu.edu
 abstract: 
 
-university teaching center support for graduate students
-fall 1994 
+<paragraph>university teaching center support for graduate students
+fall 1994 </paragraph>
 
 included below are descriptions of:
 - fall seminars on teaching
 - ongoing reading/discussion group
 - documentation of teaching development (a new program)
 
-the combination of activities below is designed to assist both current
+<paragraph>the combination of activities below is designed to assist both current
 tas and those preparing for future academic positions involving
 teaching.  pre-registration is required; please see the end of this post
 for registration instructions.  additional copies of this schedule are
 available on org.utc.teaching, on physical bulletin boards in
-departments, and by calling x8-2896.
+departments, and by calling x8-2896.</paragraph>
 
 ******************
 ******************
@@ -32,4 +32,4 @@ friday, august 26, <stime>9:00 </stime>- <etime>10:15 am</etime>, cyert hall 119
 we will discuss effective ways to fulfill a variety of teaching roles
 such as expert, authority figure, liaison, and coach, as well as ways to
 create good impressions and a comfortable classroom climate on the first
-day of class.  this session is open to first-time tas only.  
+day of class.  this session is open to first-time tas only.

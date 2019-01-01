@@ -2,7 +2,7 @@
 type:     cmu.cs.robotics
 topic:    today *room change*  anita flynn's talk (faculty candidate): smith 125.
 dates:    7-apr-95
-time:     <stime>3:30</stime> - <etime>5:00</etime>
+time:     <stime>3:30 </stime>- <etime>5:00</etime>
 postedby: me on 7-apr-95 at 15:54 from h.gp.cs.cmu.edu (michael erdmann)
 abstract: 
 friends, 
@@ -12,7 +12,7 @@ number of other folks for helping out with the sudden switch.  best, mike
 ------------------------------------------------------------------------------
        robotics seminar     faculty candidate    robotics seminar
 
-friday april 7, <stime>3:30</stime>-<etime>5:00</etime>
+friday april 7, 3:30-<etime>5:00</etime>
 refreshments 3:15
 ******* smith hall 125 *******    (note room change)
                 piezoelectric ultrasonic micromotors
@@ -20,7 +20,7 @@ refreshments 3:15
                           anita m. flynn
                            mit ai lab
 
-    utilizing the large piezoelectric coefficients and high dielectric
+<paragraph>    utilizing the large piezoelectric coefficients and high dielectric
 constants of ferroelectric thin films, it is possible to
 microfabricate ultrasonic motors on silicon substrates.  this talk
 will describe our efforts in this area.  by using ferroelectric thin
@@ -28,24 +28,24 @@ films of lead zirconate titanate (pzt), a two-order of magnitude
 improvement over bulk ceramic materials is obtained in breakdown
 strength.  this characteristic, in combination with high dielectric
 permittivities, leads to a three-order of magnitude improvement over
-electrostatic micromotors in terms of energy densities.
+electrostatic micromotors in terms of energy densities.</paragraph>
 
-    we have fabricated resonant structures on one micron thick silicon
+<paragraph>    we have fabricated resonant structures on one micron thick silicon
 nitride membranes which are able to spin two-millimeter diameter
 rotors which are placed down on top.  stator-rotor interaction is
 achieved through frictional coupling and an inherent geardown creates
-motors which run at low speeds with high torques.
+motors which run at low speeds with high torques.</paragraph>
 
-    i will also discuss experiments with 8 mm diameter ultrasonic
+<paragraph>    i will also discuss experiments with 8 mm diameter ultrasonic
 motors fabricated from bulk ceramic pzt and an analysis of the contact
 mechanics at the rotor-stator interface where the overall efficiency
 of the motor is critically determined.  models of line contact,
 hertzian contact and linear spring contact for coulomb and viscous
 friction have been derived and simulations will be presented which
 predict speed-torque curves, efficiencies and overall output power for
-various conditions of operating voltage and normal force.
+various conditions of operating voltage and normal force.</paragraph>
 
-   work in progress on a new laser-etching technique for piezoelectric
+<paragraph>   work in progress on a new laser-etching technique for piezoelectric
 ultrasonic micromotors offers promise for simplifying the fabrication
 steps and developing more practical motors. we plan to incorporate
 these actuators into small robots and create truly integrated
@@ -56,4 +56,4 @@ up small objects and cooperate on tasks.  later, ultrasonic motors
 will be retrofit as they become available, enabling miniaturization.
 i will show videotapes of these machines in a robotic ant colony and
 as intestine crawlers for telepresence surgery.
-------------------------------------------------------------------------------
+------------------------------------------------------------------------------</paragraph>

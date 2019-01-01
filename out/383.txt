@@ -18,10 +18,10 @@ abstract:
 			       paul haeberli
 			   silicon graphics inc
 
-    leep projection  cheezy stereo  reflection maps six  point perspective
+<paragraph>    leep projection  cheezy stereo  reflection maps six  point perspective
     abstract representations  font painting & mesh warping  image cloning 
         mutation & selection  parametric design  tiny pix  x-ray views  
-    			marbled paper  digital lighting
+    			marbled paper  digital lighting</paragraph>
 
 	    as an alternative to complex and fattening topics in
 	    computer graphics i'll show and talk about several 
@@ -38,5 +38,5 @@ abstract:
 
  host: paul heckbert, ph@cs.cmu.edu, 268-7899
 
-for appointments with the speaker on thursday nov. 12, email
-phyllis.pomerantz@cs.cmu.edu or call her at 268-7897.
+<paragraph>for appointments with the speaker on thursday nov. 12, email
+phyllis.pomerantz@cs.cmu.edu or call her at 268-7897.</paragraph>

@@ -1,21 +1,21 @@
 <0.5.10.93.15.30.25.trg+@n3.sp.cs.cmu.edu (thomas gross).0>
 type:     cmu.cs.scs
-topic:    psc/cs seminar 10/8 4:00 pm weh 5409: marc snir of ibm
+topic:    psc/cs seminar 10/8 <stime>4:00 pm</stime> weh 5409: marc snir of ibm
 dates:    8-oct-93
-time:     4:00 pm
+time:     <stime>4:00 pm</stime>
 postedby: trg+ on 5-oct-93 at 15:30 from n3.sp.cs.cmu.edu (thomas gross)
 abstract: 
 
-	pittsburgh supercomputing center (psc)/computer systems seminar
+<paragraph>	pittsburgh supercomputing center (psc)/computer systems seminar</paragraph>
 
-	scalable parallel computing meets mainstream computing 
+<paragraph>	scalable parallel computing meets mainstream computing </paragraph>
 
-			 marc snir 
-		   ibm t. j. watson lab.
+<paragraph>			 marc snir 
+		   ibm t. j. watson lab.</paragraph>
 
-	friday,  oct 8, <location>wean hall 5409</location>, <stime>4:00 p.m.</stime>
+	friday,  oct 8, <location>wean hall 5409</location>, 4:00 p.m.
 
-the recently announced ibm 9076 scalable powerparallel 1 (9076 sp1) system
+<paragraph>the recently announced ibm 9076 scalable powerparallel 1 (9076 sp1) system
 is the first in a family of scalable systems for serial and parallel
 applications.   the sp1 leverages on the risc/6000 technology, and each node
 is the equivalent of a workstation that provides a standard unix aix
@@ -31,7 +31,7 @@ created, in support of parallelism.  the talk will discuss some of the
 technological trade-offs between ``commodization'' and customization, and
 speculate on the likely evolution of systems that attend to preserve
 standard uniprocessor interfaces, while supporting efficient scalable
-parallel computing.  
+parallel computing.  </paragraph>
 
  note: if you want to meet with marc snir, send a message to barbara
  grandillo (bag@cs).

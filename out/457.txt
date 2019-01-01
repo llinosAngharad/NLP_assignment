@@ -7,15 +7,15 @@ host:     avrim blum
 postedby: daz+ on 7-feb-95 at 09:55 from amm.adm.cs.cmu.edu (dorothy a zaborowski)
 abstract: 
 
-		  friday, february 10, 1995
+<paragraph>		  friday, february 10, 1995
 	            wean hall - 3:30-<etime>5:00</etime>
          size-estimation framework with applications 
-           to transitive closure and reachability
+           to transitive closure and reachability</paragraph>
 
                          edith cohen 
                   at\&t bell laboratories
 
-computing transitive closure and reachability information in directed
+<paragraph>computing transitive closure and reachability information in directed
 graphs is a fundamental graph problem with many applications.  the
 fastest known algorithms run in $o(min(mn,n^{2.38})$ time, where $n$
 is the number of nodes and $m$ the number of edges in the graph.  it
@@ -30,7 +30,7 @@ ramification of our estimation scheme is a $\tilde{o}(m)$ time
 algorithm for estimating sizes of neighborhoods in directed graphs
 with nonnegative weights.  our size-estimation algorithms are much
 faster than performing the respective explicit computations and
-improve significantly over previous estimation methods.
+improve significantly over previous estimation methods.</paragraph>
 
  host: avrim blum
  appts: daz@cs

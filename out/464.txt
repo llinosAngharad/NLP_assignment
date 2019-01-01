@@ -8,8 +8,8 @@ place:    <location>817 cathedral of learning</location>
 postedby: lydia+ on 05-dec-91 at 12:29 from proof.ergo.cs.cmu.edu (lydia defilippo)
 abstract: 
 
-
-			university of pittsburgh colloquium
+<paragraph>
+			university of pittsburgh colloquium</paragraph>
 
  date:    friday, december 13
  time:    <stime>3:00 pm</stime>
@@ -17,7 +17,7 @@ abstract:
  speaker: <speaker>gerard allwein</speaker>
  topic:   kripke models for linear logic
 
-i will present a kripke model for girard's linear logic (without
+<paragraph>i will present a kripke model for girard's linear logic (without
 exponentials) in a conservative fashion where the logical functors
 beyond the basic lattice operations may be added one by one without
 recourse to such things as negation.  you can either have some logical
@@ -41,4 +41,4 @@ implicated in the logical analysis of petri nets and there is research
 on-going into applying it for the theory of programming languages and
 communication architectures. incidently, linear logic with
 exponentials has been shown to be undecidable by john mitchell, andre
-scedrov, et. al., however without the exponentials it is decidable.
+scedrov, et. al., however without the exponentials it is decidable.</paragraph>

@@ -3,7 +3,7 @@ type:     ai seminar
 who:      <speaker>oren etzioni</speaker> / university of washington
 topic:    learning to understand information on the internet.
 dates:    7-mar-95
-time:     <stime>3:30 pm</stime>
+time:     3:30 pm
 place:    <location>5409 wean hall</location>
 duration: 1 1/2 hours
 host:     raul valdes-perez
@@ -14,14 +14,14 @@ abstract:
  who:      <speaker>oren etzioni</speaker> / university of washington
  topic:    learning to understand information on the internet.
  dates:    7-mar-95
- time:     3:30 p.m.
+ time:     <stime>3:30 p.m.</stime>
  place:    <location>5409 wean hall</location>
  duration: 1 1/2 hours
  host:     raul valdes-perez
 
  title: learning to understand information on the internet.
 
-the explosive growth in the number and diversity of information
+<paragraph>the explosive growth in the number and diversity of information
 sources on the internet is rapidly outstripping our ability to find
 what we want.  browsers and indexing tools are practical, but only
 partial, solutions to this problem.  a number of information gathering
@@ -29,9 +29,9 @@ agents have emerged.  however, because such agents require a
 programmer to hand code a model of each information source in their
 repertoire, they too are victims of information explosion.  this talk
 explores automatically learning models of information sources as a
-possible solution.
+possible solution.</paragraph>
 
-i will describe ila, a domain-independent program that learns the
+<paragraph>i will describe ila, a domain-independent program that learns the
 meaning of external information by explaining it in terms of internal
 categories.  in one experiment, ila starts off with knowledge of local
 faculty members, quickly learns a model of the internet service whois,
@@ -40,11 +40,10 @@ available at berkeley, brown, cal-tech, cornell, rice, rutgers, and
 uci.  ila's hypothesis language is first-order conjunctions, and its
 bias is compactly encoded as a determination.  i introduce a
 probabilistic model of ila that bounds its sample complexity, and show
-when this bound is tighter than the famous haussler bound.
+when this bound is tighter than the famous haussler bound.</paragraph>
 
-this talk is based on joint work with mike perkowitz
+<paragraph>this talk is based on joint work with mike perkowitz</paragraph>
 
-professor etzioni will be at cmu march 6, 7 and 8th.  if you would like an
+<paragraph>professor etzioni will be at cmu march 6, 7 and 8th.  if you would like an
 appointment with him on monday, march 6, please send mail to plp@cs, or call
-x8-7897 (phyllis).
-
+x8-7897 (phyllis).</paragraph>

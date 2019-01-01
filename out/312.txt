@@ -23,15 +23,15 @@ abstract:
 
  title:	  robot skill learning through intelligent experimentation
 
-in robot skill learning the robot must obtain data for training by
+<paragraph>in robot skill learning the robot must obtain data for training by
 executing expensive practice trials and recording their results.
 often, the high cost of acquiring training data is the limiting factor
 in the performance of skill learners.  then it is important that the
 system make intelligent choices about what actions to attempt while
 practicing.  in this talk we present several algorithms for
-intelligent experimentation in skill learning.
+intelligent experimentation in skill learning.</paragraph>
 
-in open loop skills the execution goal is presented and the controller
+<paragraph>in open loop skills the execution goal is presented and the controller
 must then choose all the control signals for the duration of the task.
 learning is a high-dimensional search problem where the system must
 associate a sequence of actions with each commandable goal.  we
@@ -39,9 +39,9 @@ propose an algorithm that selects practice actions most likely to
 improve performance by making use of information gained on previous
 trials.  on the problem of learning to throw a ball using a robot with
 a flexible link, the algorithm takes only 100 trials to find a
-``whipping'' motion for long throws.
+``whipping'' motion for long throws.</paragraph>
 
-a common method of guiding experimentation in closed loop learners is
+<paragraph>a common method of guiding experimentation in closed loop learners is
 gradient descent on a cost function.  the main drawback of this method
 is convergence to non-optimal local minima.  we introduce cooperation
 as a means of escaping these local minima by shifting control between
@@ -49,4 +49,4 @@ several gradient descent methods.  finally, we note that in an
 integrated system with scarce sensor resources it is preferable to
 perform tasks with minimal sensing and look at an algorithm to use
 closed loop learning as an efficient search technique for eventual
-open loop execution.
+open loop execution.</paragraph>

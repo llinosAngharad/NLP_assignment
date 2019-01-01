@@ -10,7 +10,7 @@ abstract:
                      dr. hajime nonogaki
                        fujitsu limited
                  monday may 11, <<stime>10:30 am</stime> - <etime>11:00 am</etime>>
-                          <<location>wean hall 8220</location>>
+                          <wean hall <location>8220</location>>
        the friend21 project is a miti sponsored effort to
        develop a comfortable personal information system
        for the 21st century.  a major concern is the user

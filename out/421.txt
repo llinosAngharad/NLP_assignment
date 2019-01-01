@@ -6,8 +6,8 @@ time:     <stime>11:00 am</stime> - <etime>12:00 </etime>pm
 postedby: marcos on 1-dec-93 at 00:02 from gs100.sp.cs.cmu.edu (marco j schumacher)
 abstract: 
 
-		 master of software engineering (mse)                 
-     final end-of-semester presentation of the studio 92-93 team
+<paragraph>		 master of software engineering (mse)                 
+     final end-of-semester presentation of the studio 92-93 team</paragraph>
 
                     ------------------------------        
 		    "hasta la vista, tessellator!"
@@ -25,14 +25,14 @@ the presentation will cover two topics:
 
 1. project summary
 
-   this part will describe the tessellator project and highlight the 
-   t2 team's contributions.
+<paragraph>   this part will describe the tessellator project and highlight the 
+   t2 team's contributions.</paragraph>
 
-2. requirements engineering
+<paragraph>2. requirements engineering</paragraph>
 
-   this part will focus on an area the t2 team considers to be crucial
+<paragraph>   this part will focus on an area the t2 team considers to be crucial
    in software development: requirements engineering. the presentation
    will discuss the challenges faced by the team and the methods (such
-   as formal specification and peer reviews) used to tackle the problems. 
+   as formal specification and peer reviews) used to tackle the problems. </paragraph>
 
 -----

@@ -9,13 +9,13 @@ abstract:
            computer systems/pgh supercomputing center seminars
                             spring '94 list
 
-these seminars will be posted separately as the date approaches.
+<paragraph>these seminars will be posted separately as the date approaches.</paragraph>
 
-march 25
+<paragraph>march 25</paragraph>
 
-james mcwilliams
+<paragraph>james mcwilliams
 national center for atmospheric research
 "geophysical turbulance"
 4 pm, 3rd floor conference room
 mellon institute building
------------------
+-----------------</paragraph>

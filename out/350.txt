@@ -20,7 +20,7 @@ ri seminar  correction
  speaker: <speaker>dr. yuan f. zheng </speaker>- dept. electrical engineering
  	ohio state university
 
-the most difficult problem to develop an autonomous biped robot is
+<paragraph>the most difficult problem to develop an autonomous biped robot is
 the programming of the biped walking gaits, especially when the
 robot needs to negotiate different terrain.  a neural gait
  synthesis mechanism is proposed to solve this problem.  the
@@ -33,9 +33,9 @@ robot needs to negotiate different terrain.  a neural gait
  pattern generator for negotiating a new terrain; the function of
  the learning unit is to extract pattern features from newly
  learned walking gaits; and the knowledge base stores the pattern
- features along with terrain conditions.
+ features along with terrain conditions.</paragraph>
 
-most of the recent efforts have been on the adaptive unit.two
+<paragraph>most of the recent efforts have been on the adaptive unit.two
  neural networks have been developed to implement the adaptive
  unit.the first network consists of twenty reciprocally inhibited
  and excited neurons and is trained by a reinforcement learning
@@ -47,7 +47,7 @@ most of the recent efforts have been on the adaptive unit.two
  perceptrons.  the network is trained by using a distal learning
  rule.  it is shown that the network generates an adequate gait
  pattern even with no direct teacher involved in the training.
-  finally, simulation and experimental results will be presented.
+  finally, simulation and experimental results will be presented.</paragraph>
 
 hosted by: hagen schempf, x6884
 

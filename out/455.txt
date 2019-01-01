@@ -21,7 +21,7 @@ abstract:
 
  labspace:  developing the national electronic laboratory infrastructure
 
-the labspace project integrates emerging multiuser virtual
+<paragraph>the labspace project integrates emerging multiuser virtual
 environment technology with state of the art multimedia interfaces in
 order to support scientific collaboration.  the resulting networked
 environment, composed of a persistent collection of objects and a
@@ -31,6 +31,6 @@ where scientists will interact with analytical electron microscopes,
 high energy physics experiments and data, and, most importantly, each
 other.  the labspace project will develop the tools to create these
 virtual laboratories and the scientists' interfaces, and will
-validate these integrated tools in two end-user testbeds.
+validate these integrated tools in two end-user testbeds.</paragraph>
 
-for appointments, please contact (sandling@cs).
+<paragraph>for appointments, please contact (sandling@cs).</paragraph>

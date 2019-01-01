@@ -18,7 +18,7 @@ abstract:
 
  title: filters for image resampling
 
-a common problem in image processing is resampling a raster image.
+<paragraph>a common problem in image processing is resampling a raster image.
 this task crops up when removing distortions from satellite images and
 when performing texture mapping in computer graphics, for example.
 careful filtering must be done during resampling or the results will
@@ -27,14 +27,13 @@ resampling has addressed special cases.  often, the class of mappings
 is restricted to be affine (translation, rotation, and scaling), in
 which case the filter is space invariant.  furthermore, filters are
 often designed for interpolation (upsampling) only or decimation
-(downsampling) only.
+(downsampling) only.</paragraph>
 
-in this talk, we develop a unified theory for image resampling filters,
+<paragraph>in this talk, we develop a unified theory for image resampling filters,
 which subsumes previous methods for affine mappings, interpolation, and
 decimation.  the theory describes the space variant filter for
 resampling a multidimensional signal according to an arbitrary mapping
 without aliasing.  a simple, fast approximation technique employing
-elliptical gaussian filters will be demonstrated.
+elliptical gaussian filters will be demonstrated.</paragraph>
 
 refreshments will be served by 3:15pm*
-

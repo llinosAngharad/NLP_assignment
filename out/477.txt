@@ -23,7 +23,7 @@ abstract:
                       amherst, massachusetts  01003
                             moss@cs.umass.edu
 
-in the course of implementing two languages simultaneously, we recently faced
+<paragraph>in the course of implementing two languages simultaneously, we recently faced
 the prospect of building two garbage collectors. we turned laziness into a
 virtue and considered the problem of designing a framework and garbage
 collector components that could be used in more than one language
@@ -36,9 +36,9 @@ support. the toolkit does not impose any particular format on heap allocated
 objects, pointers, or stacks; nor does it mandate any specific approach to
 implementing the write barrier. we have implemented the toolkit, and use it in
 our smalltalk implementation. we are currently building implementations of
-modula-3 and standard ml using the toolkit.
+modula-3 and standard ml using the toolkit.</paragraph>
 
-our approach requires accurate identification of pointers (versus non-pointer
+<paragraph>our approach requires accurate identification of pointers (versus non-pointer
 quantities), and the ability to move objects. we have designed and implemented
 the compiler extensions necessary to support accurate garbage collection in
 the face of modern compiler optimizations for statically typed imperative
@@ -49,7 +49,7 @@ processed during one pause. finally, we have some performance measurements of
 various write barrier implementations on a small suite of smalltalk
 benchmarks. beyond presenting the toolkit, we will discuss the compiler
 extensions, mature object space, and the write barrier results as time
-permits.
+permits.</paragraph>
 
 collaborators in this work include: amer diwan, tony hosking, rick hudson, and
 darko stefanovic.

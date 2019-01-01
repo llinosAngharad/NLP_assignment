@@ -27,14 +27,14 @@ abstract:
    it   was.   i   often  meet  people  who  still  have  some  of  my  1982
    misperceptions.
 
-   i will reconsider some of the early,  crucial  decisions  of  the  andrew
+<paragraph>   i will reconsider some of the early,  crucial  decisions  of  the  andrew
    project  related  to  wiring,  protocols, workstations, file systems, and
    software. i'll assess the impact of andrew on education and discuss  what
    ibm  and  cmu  ultimately  got  out  of  it.  i will argue that unix, the
-   macintosh, and electronic mail will not survive to the next century.
+   macintosh, and electronic mail will not survive to the next century.</paragraph>
 
-   finally, i'll offer eight opinions that computer scientists  who  venture
-   into the real world should consider:
+<paragraph>   finally, i'll offer eight opinions that computer scientists  who  venture
+   into the real world should consider:</paragraph>
 
       1. slowness kills.
 

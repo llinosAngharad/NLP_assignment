@@ -13,11 +13,10 @@ abstract:
  place:   <location>weh 5409</location>
  topic:   program dependence graph and static single assignment forms
 
-rajiv gupta from university of pittsburgh will deliver a guest
+<paragraph>rajiv gupta from university of pittsburgh will deliver a guest
 lecture  in the course on "modern language implementation" on
 feb 19 at 9.00. his lecture will focus on program dependence
 graph and static single assignment program representations. you
 may wish to attend this lecture, even if you do not attend
 the class otherwise. please contact me (jass@cs) if you wish to
-speak to rajiv while he is here.
-
+speak to rajiv while he is here.</paragraph>

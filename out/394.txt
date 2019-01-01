@@ -19,14 +19,14 @@ abstract:
  host:     stephen d. brookes
  	  please contact marian d'amico (marian@cs) for appointments.
 
-in this paper i apply the idea of revision rules, originally
+<paragraph>in this paper i apply the idea of revision rules, originally
 developed within the framework of the theory of truth and later
 extended to a general mode of definition, to the analysis of
 the arithmetical hierarchy.  this is also intended as an example of
 how ideas and tools from philosophical logic can provide a different
-perspective on mathematically more "respectable" entities.
+perspective on mathematically more "respectable" entities.</paragraph>
 
-revision rules were first introduced by a. gupta (1982) and n. belnap
+<paragraph>revision rules were first introduced by a. gupta (1982) and n. belnap
 (1982) as tools in the theory of truth, and have found their most
 detailed exposition to date in gupta & belnap (1993), where they
 provide the foundations for a general theory of (possibly circular)
@@ -39,13 +39,12 @@ than, as is usual in the monotone case, taking the cumulative result
 or union of what is obtained at previous stages, in revision theory
 we take the "inferior limit" of the sequence, i.e., the set of
 items that do not oscillate cofinally in the sequence, but eventually
-stabilize. 
+stabilize. </paragraph>
 
-this idea is applied in recursion theory to obtain a recursive
+<paragraph>this idea is applied in recursion theory to obtain a recursive
 operator g(x,phi) whose iteration over omega2 beginning with
 any total function satisfying certain relatively simple conditions
-gives rise to sets of increasing arithmetical complexity.
+gives rise to sets of increasing arithmetical complexity.</paragraph>
 
-the tex version of the abstract, posted on physical bboards, gives 
-more details.
-
+<paragraph>the tex version of the abstract, posted on physical bboards, gives 
+more details.</paragraph>

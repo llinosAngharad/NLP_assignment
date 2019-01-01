@@ -10,7 +10,7 @@ place:    <location>baker hall - adamson wing</location>
 postedby: tmeadows on 18-sep-92 at 08:29 from resumix.portal.com (tim meadows)
 abstract: 
 
-ri seminar
+<paragraph>ri seminar</paragraph>
 
  when:	friday, sept. 18, 1992; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
 	refreshments will be served by 3:15 pm
@@ -25,7 +25,7 @@ ri seminar
 
  abstract:	posted earlier
 
-hosted by :	hagen schempf, x6884
+<paragraph>hosted by :	hagen schempf, x6884</paragraph>
 
 ---
 ****************|**************************|**************************
@@ -35,4 +35,3 @@ hosted by :	hagen schempf, x6884
 *412-268-7085   |  fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
 *               |                          |                         *
 **********************************************************************
-

@@ -12,9 +12,9 @@ abstract:
    hewlett-packard presents:
    "a free object technology telecast/seminar"
 
-   cyert hall room 100 - wednesday, may 11, 1994
+<paragraph>   cyert hall room 100 - wednesday, may 11, 1994
                          <stime>11:00</stime>-<etime>5:00</etime> est
-          "building the enterprise through object technology"
+          "building the enterprise through object technology"</paragraph>
 
 * increase competitiveness
 * increase maintainability
@@ -23,7 +23,7 @@ abstract:
 * gain productivity through reuse
 * reduce costs
 
-to gain the competitive advantage in today's rapidly
+<paragraph>to gain the competitive advantage in today's rapidly
 changing business environment, you need to respond
 quickly to the market opportunities.  through object
 technology you can provide the flexibility needed for
@@ -32,35 +32,35 @@ software solutions rapidly as well as integrate the
 entire operation with a client/server architecture.
 hewlett-packard can offer you a clear path to
 object-based computing through products, programs,
-consulting, and solutions that are available today.
+consulting, and solutions that are available today.</paragraph>
 
-learn first hand.
+<paragraph>learn first hand.
 hewlett-packard will broadcast through ntu (national technology
 university) a special event focusing on object-oriented technology.
 this telebroadcast will feature key speakers from hp laboratories as
 well as commercial examples of how an object technology is used in
-the telecommunications and financial industries.
+the telecommunications and financial industries.</paragraph>
 
-here are highlights of what you'll be hearing from some of the
- speakers:
+<paragraph>here are highlights of what you'll be hearing from some of the
+ speakers:</paragraph>
 
  <speaker>joel s. birnbaum</speaker>, ph.d
  senior vice president of research and development
  director, hewlett-packard laboratories
 
-dr. birnbaum's talk will set the stage for the rest of the ntu
+<paragraph>dr. birnbaum's talk will set the stage for the rest of the ntu
 broadcast.  he will discuss how the first beneficiaries of
 object technology will be software developers;  objects help
 manage complexity, encourage reuse, and lead to better, more
 maintainable code. the promise of object technology is that
 software designed to match the way people think will be easier
-to use and more useful.
+to use and more useful.</paragraph>
 
-jeff eastman, ph.d.
+<paragraph>jeff eastman, ph.d.
 consulting engineer, hewlett-packard
-software engineering systems division
+software engineering systems division</paragraph>
 
-dr. eastman is the chief architect of hp's distributed
+<paragraph>dr. eastman is the chief architect of hp's distributed
 smalltalk.  his presentation will discuss how distributed
 systems are inherently object-oriented;  thus, it is natural to
 use object technology in their design and implementation.  the
@@ -69,22 +69,22 @@ architecture (corba) is a set of emerging industry standards for
 the construction of object-oriented distributed systems and
 applications.  this talk will assess the state-of-the-art in the
 corba arena and provide an architectural framework for
-discussing distributed computing systems.
+discussing distributed computing systems.</paragraph>
 
-mary e.s. loomis, ph.d.
+<paragraph>mary e.s. loomis, ph.d.
 director, software technology lab
-hewlett-packard laboratories
+hewlett-packard laboratories</paragraph>
 
-dr. loomis has over 20 years' experience in software engineering
+<paragraph>dr. loomis has over 20 years' experience in software engineering
 and data management.  her presentation will focus on object
 database management systems (odbms).  topics include: sources of
 object persistence, architectures of odbms products, extended
 relational and language bound, object model support, distributed
-functionality, and standards and technical directions.
+functionality, and standards and technical directions.</paragraph>
 
-derek coleman
+<paragraph>derek coleman
 manager, software reuse department
-hewlett-packard laboratories
+hewlett-packard laboratories</paragraph>
 
 mr. coleman is a co-author of "object-oriented development:  the
 fusion method," published by prentice-hall.  fusion is an

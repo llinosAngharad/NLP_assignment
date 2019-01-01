@@ -6,14 +6,14 @@ time:     <stime>1:00 pm</stime>
 postedby: skees+ on 5-may-93 at 11:12 from skees.adm.cs.cmu.edu (jim skees)
 abstract: 
 
-  scs will sponsor a seminar on ways to achieve a healthy
+<paragraph>  scs will sponsor a seminar on ways to achieve a healthy
 office environment at 1 p.m. wednesday, may 12th, in wean
 hall 5409.
   the speaker will be karlis mateus, a representative of
 steelcase, inc., the office equipment manufacturer.  he will
 focus on the ways in which poorly designed office furniture
-can contribute to carpal tunnel syndrome and other illnesses.
+can contribute to carpal tunnel syndrome and other illnesses.</paragraph>
 
-  i have asked mr. mateus to keep the discussion as generic as
+<paragraph>  i have asked mr. mateus to keep the discussion as generic as
 possible.  however, i do anticipate he will use some illustrations
-of steelcase products during his presentation.
+of steelcase products during his presentation.</paragraph>

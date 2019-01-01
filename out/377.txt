@@ -2,12 +2,12 @@
 type:     cmu.cs.scs
 topic:    psc/cs seminar: additonal speakers
 dates:    9-oct-92
-time:     4:00 pm
+time:     <stime>4:00 pm</stime>
 postedby: trg+ on 20-sep-92 at 14:34 from n3.sp.cs.cmu.edu (thomas gross)
 abstract: 
 
-october 9       how effective is automatic program parallelization?
+<paragraph>october 9       how effective is automatic program parallelization?</paragraph>
 
                 david a. padua,   center for supercomputing research and development
  	        university of illinois at urbana-champaign
-		<stime>4:00 p.m.</stime>, wean hall 5403
+		4:00 p.m., wean hall 5403

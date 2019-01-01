@@ -1,21 +1,21 @@
 <0.20.2.92.11.16.31.trg+@n2.sp.cs.cmu.edu (thomas gross).0>
 type:     cmu.cs.scs
-topic:    psc/cs seminar: 2/28 <stime>4:00</stime> @ sei 
+topic:    psc/cs seminar: 2/28 <stime>4:00 </stime>@ sei 
 dates:    28-feb-92
-time:     <stime>4:00</stime>
+time:     4:00
 postedby: trg+ on 20-feb-92 at 11:16 from n2.sp.cs.cmu.edu (thomas gross)
 abstract: 
 
-
-	approaching mpp for molecular dynamics and mechanics of biomolecules
+<paragraph>
+	approaching mpp for molecular dynamics and mechanics of biomolecules</paragraph>
 
 		          charles brooks
 		chemistry department, carnegie mellon university
 
-		     feb 28, 1992    <stime>4:00</stime> p.m.
+		     feb 28, 1992    <stime>4:00 </stime>p.m.
 			sei auditorium
 
-the anticipation of performing large-scale simulations to address crucial
+<paragraph>the anticipation of performing large-scale simulations to address crucial
 questions in the area of biomolecule structure and dynamics (for example
 protein folding, drug discovery, enzyme catalysis) is fueled by advances in
 the development of massively parallel hardware.  however, realization of
@@ -35,4 +35,4 @@ computing environment (the cray ymp and cm-2 connected via a hippi) to carry
 out calculations on solvated protein and peptide molecules.  i will
 summarize with a discussion of the future prospects for using mpp
 architectures with peak computational rates in the teraflop range for
-biomolecule dynamics.
+biomolecule dynamics.</paragraph>

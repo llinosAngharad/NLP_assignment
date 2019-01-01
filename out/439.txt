@@ -3,7 +3,7 @@ type:     ai seminar
 who:      <speaker>melvin montemerlo</speaker> / nasa hq
 topic:    nasa's artificial intelligence program
 dates:    12-apr-94
-time:     <stime>3:30 pm</stime>
+time:     3:30 pm
 place:    <location>5409 wean hall</location>
 duration: 1 1/2 hours
 host:     raul valdes-perez
@@ -14,7 +14,7 @@ abstract:
  who:      <speaker>melvin montemerlo</speaker> / nasa hq
  topic:    nasa's artificial intelligence program
  dates:    12-apr-94
- time:     3:30 p.m.
+ time:     <stime>3:30 p.m.</stime>
  place:    <location>5409 wean hall</location>
  duration: 1 1/2 hours
  host:     raul valdes-perez
@@ -25,7 +25,7 @@ abstract:
 			<speaker>melvin montemerlo</speaker>
 	      	       nasa, washington d.c.
 
-the goal of my talk is to help the cmu community understand what it
+<paragraph>the goal of my talk is to help the cmu community understand what it
 takes to keep an r&d program alive.  the case study is nasa's ai
 program.  it is 10 years old and has grown from $2m/yr to $18m/yr, but
 the road has been rocky, and the current outlook is anything but
@@ -36,17 +36,17 @@ those who carry out the program and help them understand what the
 constraints are and why they were made.  what are those constraints?
 how have they changed over the years?  what does the near future look
 like?  what roles have university researchers played in the program,
-and what roles might they play in the future?
+and what roles might they play in the future?</paragraph>
 
-this will not be a technical talk.  i will describe some of the things
+<paragraph>this will not be a technical talk.  i will describe some of the things
 we have done successfully and unsuccessfully, in order to get across
-some lessons learned in the past decade.
+some lessons learned in the past decade.</paragraph>
 
-there are some significant signs that the future will see different
+<paragraph>there are some significant signs that the future will see different
 approaches to getting research funding and carrying out research in
 universities.  i'll discuss those signs, and open things up to
-interactive discussion.
+interactive discussion.</paragraph>
 
  furtherdetails: for appointments -- phyllis pomerantz (plp@cs) or x8-7897
 
-furtherdetails: for appointments -- phyllis pomerantz (plp@cs) or x8-7897    
+furtherdetails: for appointments -- phyllis pomerantz (plp@cs) or x8-7897

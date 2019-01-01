@@ -2,7 +2,7 @@
 type:     cmu.cs.robotics
 topic:    scs ai seminar next tuesday
 dates:    12-feb-91
-time:     <stime>3:30</stime> - <etime>5:00</etime>
+time:     <stime>3:30 </stime>- <etime>5:00</etime>
 postedby: jeffrey.schlimmer on 7-feb-91 at 11:04 from a.gp.cs.cmu.edu
 abstract: 
 carnegie mellon                                              scs ai seminar
@@ -12,10 +12,10 @@ carnegie mellon                                              scs ai seminar
 			     jill fain lehman
 		school of computer science, carnegie mellon
 
-	  integrating knowledge sources in language comprehension
+<paragraph>	  integrating knowledge sources in language comprehension</paragraph>
 
-			 tuesday, 12 february 1991
-			    <stime>3:30</stime>-<etime>5:00</etime> <location>weh 5409</location>
+<paragraph>			 tuesday, 12 february 1991
+			    3:30-<etime>5:00</etime> <location>weh 5409</location>
     multiple types   of  knowledge (syntax,  semantics,   pragmatics, etc.)
 contribute to establishing the meaning of  an  utterance.  delaying the use
 of   a knowledge   source    during   language   comprehension   introduces
@@ -28,6 +28,6 @@ the nature of the understanding process changes from deliberate, sequential
 problem   solving to  recognitional  comprehension   that  applies all  the
 relevant knowledge sources    simultaneously to  each word.     the dynamic
 character of the system results directly from its implementation within the
-soar architecture.
+soar architecture.</paragraph>
 
 ---------------------------------------------------------------------------

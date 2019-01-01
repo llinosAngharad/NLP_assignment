@@ -6,11 +6,11 @@ time:     <stime>2:00 pm</stime>
 postedby: wah+ on 11-aug-92 at 12:54 from maps.cs.cmu.edu (wilson harvey)
 abstract: 
 
-sorry for the late notice on this.  -wilson
+<paragraph>sorry for the late notice on this.  -wilson</paragraph>
 
 --
 
-today at 2pm in weh 4625, laurent renouard of istar, a french compary
+<paragraph>today at 2pm in weh 4625, laurent renouard of istar, a french compary
 focussing on issues in remote sensing, will be giving a brief talk entitled
 "dtm from spot and aerial images".  additionally, frederic perlant will
 present some preliminary results doing interferometry with radar imagery.
@@ -18,4 +18,4 @@ finally, they will tell us a little about istar.
 -- 
 w. a. harvey		school of computer science
 wah+@cs.cmu.edu		carnegie mellon university
-412-268-7552		pittsburgh, pa  15213-3890	
+412-268-7552		pittsburgh, pa  15213-3890	</paragraph>

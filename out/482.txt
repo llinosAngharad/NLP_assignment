@@ -23,10 +23,10 @@ among the developments that he will be discussing are:
 	*a novel laser annealing process for functional polysilicon
 	 devices
 
-dr. watanabe is a member of sony corporation's board of directors and
+<paragraph>dr. watanabe is a member of sony corporation's board of directors and
 is the director of the sony research center in tokyo.  he has been with
 sony since 1967.  dr. watanabe received his bachelors, masters, and
 doctoral degrees in engineering from the university of tokyo.  his 
 primary area of interest is high frequency semiconductor devices.  he
 recently published a book entitled "seminconductor devices for electronic
-tuners."
+tuners."</paragraph>

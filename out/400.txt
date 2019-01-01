@@ -28,28 +28,27 @@ abstract:
  scientists in on-line algorithms has shown the wide applicability of this
  idea.  
 
-i am going to review on-line algorithms for terrain navigation and
+<paragraph>i am going to review on-line algorithms for terrain navigation and
 exploration, compiling for parallel machines, and distributed optimization.
 i shall also discuss how on-line algorithms can help determine the value of
-information and improve the organization of the decision-making process.
+information and improve the organization of the decision-making process.</paragraph>
 
 ----------------------------------------------------------------------------
 
-this talk is the next in a series of live, interactive video conferences
+<paragraph>this talk is the next in a series of live, interactive video conferences
 that will be held every wednesday 7 pm - 8:30 pm between january 20 and
 may 5 1993.  these conferences are being organized by a few west coast
 schools, hence the name, the west coast colloquium.  this will be something
 of a multiple university distinguished speakers series.  the participants,
 so far, are berkeley, stanford, washington, ucla, uc san diego, uc santa
-barbara, and us.
+barbara, and us.</paragraph>
 
-the technology is picturetel based with conference bridging by at&t.  there
+<paragraph>the technology is picturetel based with conference bridging by at&t.  there
 will be multiple monitors at each site;  cameras at every site are voice
 activated to force the display to show that site, so that the distributed
-audience can have camera time to ask questions.
+audience can have camera time to ask questions.</paragraph>
 
-wednesday's seminars are still experiemental.  many sites have yet to
+<paragraph>wednesday's seminars are still experiemental.  many sites have yet to
 get all the equipment working for such an ambitious conference call.
 even if everything is working well, there will be a noticeable lag
-between your speech and its broadcast to your and others' monitors.
-
+between your speech and its broadcast to your and others' monitors.</paragraph>

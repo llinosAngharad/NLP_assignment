@@ -24,4 +24,4 @@ and give examples of how fourier analysis on the sphere can applied to
 computer vision, medical imaging and computations with lie algebras
 (of recent interest in robotics).
 
-this talk presents joint work with dennis healy and dan rockmore.
+<paragraph>this talk presents joint work with dennis healy and dan rockmore.</paragraph>

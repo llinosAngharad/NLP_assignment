@@ -20,28 +20,28 @@ abstract:
 			3:30 wean 5409
 ************************************************************************
 
-	logical interpretations and computational simulations
+<paragraph>	logical interpretations and computational simulations
 			   <speaker>tim griffin</speaker>
-      		      at&t bell laboratories
+      		      at&t bell laboratories</paragraph>
 
-	there are many examples in the literature of mathematical 
+<paragraph>	there are many examples in the literature of mathematical 
 	logic concerning the interpretation of one logical system 
 	in another. from a perspective informed by the 
 	formulae-as-types correspondence, it is natural to 
 	investigate logical interpretations from a computational 
 	point of view.     of particular interest are logical 
 	interpretations that can be associated with simulations 
-	of one computational system in another. 
+	of one computational system in another. </paragraph>
 
-	the talk surveys several results of this kind, including 
+<paragraph>	the talk surveys several results of this kind, including 
 	interpretations of classical logic in constructive logic 
 	that can be associated with ``continuation passing style'' 
 	transformations. these transformations simulate a functional 
 	language extended with control operators in a purely 
-	functional language. 	
+	functional language. 	</paragraph>
 
  note: <speaker>tim griffin</speaker> will be here thursday afternoon and all day friday 6 dec.
 
  appointments:  please contact marian d'amico (marian@cs).
 
-furtherdetails:    please contact marian d'amico (marian@cs). 
+furtherdetails:    please contact marian d'amico (marian@cs).

@@ -6,7 +6,7 @@ time:     <stime>3:30 pm</stime>
 postedby: pkh+ on 09-sep-91 at 11:46 from tezuka.rest.ri.cmu.edu (ping kang hsiung)
 abstract: 
 
-on tuesday sept. 10, michelle messenger, the project coordinator for the
+<paragraph>on tuesday sept. 10, michelle messenger, the project coordinator for the
 visualization software ape, will give a short slide presentation (~20 min)
 in <location>weh 4623</location> at 3:30pm. all is invited to attend.
 briefly, ape is one of the dominating packages in scientific visualization.
@@ -15,4 +15,4 @@ domain software at the source code level. in recent years, both ape and avs
 (the leading commercial visualization software) have pioneered many
 concepts/features that shaped the major themes in visualization tools. ape
 claims an installation base of over 800 sites internationally. the short
-presentation will give an overview of ape and the osc visualization project.
+presentation will give an overview of ape and the osc visualization project.</paragraph>

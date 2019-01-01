@@ -2,7 +2,7 @@
 type:     cmu.cs.scs
 topic:    psc/cs seminar 9/30: dennis gannon
 dates:    30-sep-94
-time:     4:00 pm
+time:     <stime>4:00 pm</stime>
 place:    <location>sei auditorium</location>
 postedby: prs+ on 29-sep-94 at 10:36 from n2.sp.cs.cmu.edu (peter steenkiste)
 abstract: 
@@ -11,8 +11,8 @@ abstract:
 "tools for object oriented programming on massively parallel systems"
 dennis gannon, university of indiana
 
-no abstract available
+<paragraph>no abstract available</paragraph>
 
  where: <location>sei auditorium</location>
  date: friday, september 30
- time: <stime>4:00 p.m.</stime>
+ time: 4:00 p.m.

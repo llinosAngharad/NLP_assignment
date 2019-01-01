@@ -8,12 +8,12 @@ abstract:
 university teaching center 
 support for graduate students -- summer 1995
 
-the combination of activities below is designed to assist current tas
+<paragraph>the combination of activities below is designed to assist current tas
 and graduate students who are preparing for future academic positions
 involving teaching.  the seminars were selected to be repeated based on
 attendance in and feedback about previous series.  those of you
 interested in other specific issues may be interested in programs we
-conduct in addition to the seminars. 
+conduct in addition to the seminars. </paragraph>
 
 included below is information on the following programs:
 - summer seminars on teaching
@@ -25,11 +25,11 @@ included below is information on the following programs:
 ***pre-registration is required; please see the end of this post for
 instructions. *** 
 
-seminars on teaching
+<paragraph>seminars on teaching
 the six seminars below count toward the documentation of teaching
-development program.  
+development program.  </paragraph>
 
-planning effective lectures
+<paragraph>planning effective lectures
         wednesday, june 7, <stime>2:00 </stime>- <etime>3:30 pm</etime>, carnegie conference room,
 warner hall
 even though all of us have observed hundreds of lectures as students,
@@ -38,4 +38,4 @@ the process of preparing an effective lecture raises many new questions.
 students' attention?  how can we tell if students understand the
 material?  participants in this seminar will examine the numerous
 factors bearing on how lectures can be most effective by analyzing
-videotapes of successful cmu lecturers.  
+videotapes of successful cmu lecturers.  </paragraph>

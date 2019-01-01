@@ -8,7 +8,7 @@ host:     hagen schempf, x6884
 postedby: tmeadows on 6-oct-92 at 13:24 from resumix.portal.com (tim meadows)
 abstract: 
 
-ri seminar
+<paragraph>ri seminar</paragraph>
 
  when:		friday, october 9, 1992, <stime>3:30 </stime>- <etime>5:00 pm</etime>
 		refreshments to be served by 3:15 pm
@@ -21,7 +21,7 @@ ri seminar
 
  title:		antarctic exploration robotics
 
-cmu's dante robot will soon explore an active volcano in antarctica. 
+<paragraph>cmu's dante robot will soon explore an active volcano in antarctica. 
 dante is a remote geologist and a harbinger of polar and planetary robots. 
 the exploration objective of the project is to study the gas from the lava 
 lake. the robotics objectives of this program are to navigate the extreme 
@@ -30,15 +30,14 @@ technical challenges include perception, locomotion and mission
 performance in planet-like conditions. the system envisioned for 
 this exploration includes a novel walking robot, camera and scanner 
 vision, scientific sampling devices, remote interfaces and a satellite 
-data link for live feedback to the us.
+data link for live feedback to the us.</paragraph>
 
-this seminar profiles the technical challenges with progress and 
+<paragraph>this seminar profiles the technical challenges with progress and 
 approaches that address them. examples include a new laser range 
 scanner for terrain modeling, non-contact foot sensing and mechanics 
 for combining the tension of a climbing rope with the motions of a 
 walking robot. a lab visit following the presentation provides the 
-opportunity to view results to date.
+opportunity to view results to date.</paragraph>
 
  host: hagen schempf, x6884
 *************************************************
-

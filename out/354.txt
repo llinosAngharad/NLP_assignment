@@ -25,7 +25,7 @@ abstract:
 			    leo joskowicz
 		       ibm tj watson laboratory
 
-i will describe our research in automating the kinematic analysis of
+<paragraph>i will describe our research in automating the kinematic analysis of
 rigid part mechanisms, such as gears, cylinder locks, clutches, and
 transmissions.  kinematic analysis determines the constraints on the
 behavior of a mechanism imposed by the shapes of its parts and by the
@@ -44,7 +44,7 @@ uses a simple model of dynamics that captures the steady-state effect
 of forces without the conceptual and computational cost of traditional
 dynamical simulation.  it generates a compact, symbolic behavioral
 description and a realistic, three-dimensional animation.  it can also
-generate the space of behaviors for all possible input motions.
+generate the space of behaviors for all possible input motions.</paragraph>
 
  host: andy witkin
  to schedule a meeting, email

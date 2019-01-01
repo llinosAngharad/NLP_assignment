@@ -19,7 +19,7 @@ abstract:
  duration: 90 minutes
  host:     ed clarke
 
-  recent years have witnessed increasing interest in the theoretical
+<paragraph>  recent years have witnessed increasing interest in the theoretical
   aspects of real-time programming.  this has been fueled by the high
   costs associated with the failure of real-time systems.  this talk
   presents an extension of the testing paradigm of de nicola and
@@ -33,12 +33,12 @@ abstract:
   basis of their relative speeds.  we then isolate a realistic class
   of reactive systems that can be compared on the basis of their
   relative speeds.  an algebra is then developed for such processes,
-  and examples are given to illustrate the utility of the approach.
+  and examples are given to illustrate the utility of the approach.</paragraph>
 
  furtherdetails: 
 
-   if you would like to meet with <speaker>amy zwarico</speaker> while she is here, please
-   send your request for appointments to dana wixson (dwzz@cs.cmu.edu).
+<paragraph>   if you would like to meet with <speaker>amy zwarico</speaker> while she is here, please
+   send your request for appointments to dana wixson (dwzz@cs.cmu.edu).</paragraph>
 
 furtherdetails: if you would like to meet with <speaker>amy zwarico</speaker> while she is here, please
-          send your request for appointments to dana wixson (dwzz@cs.cmu.edu).    
+          send your request for appointments to dana wixson (dwzz@cs.cmu.edu).

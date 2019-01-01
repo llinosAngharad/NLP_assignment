@@ -23,12 +23,12 @@ abstract:
 
  title: solving scheduling problems with the help of multi-agent systems
 
-the talk presents work which was done in research project 331
+<paragraph>the talk presents work which was done in research project 331
 information processing in autonomous mobile robot systems at
 the technische universitaet in munich and in research project
-aka-mod on modeling cooperative agents at the deutsches forschungszentrum
+aka-mod on modeling cooperative agents at the deutsches forschungszentrum</paragraph>
 
-in the talk the multi-agent system magsy is presented firstly.
+<paragraph>in the talk the multi-agent system magsy is presented firstly.
 the kernel of an agent in magsy is a forward-chaining rule
 interpreter. therefore, each agent has the problem solving
 capacity of an expert system. each agent in magsy is a self-contained
@@ -41,9 +41,9 @@ this new agent. the knowledge of the agents is structured in an
 object-oriented knowledge representation scheme. there is a global
 knowledge base which contains the knowledge that may be accessed
 by all of the agents. agents may store their identification in this
-global knowledge base and thus become known to all agents in the system.
+global knowledge base and thus become known to all agents in the system.</paragraph>
 
-in the second part of the talk two applications which have been
+<paragraph>in the second part of the talk two applications which have been
 implemented using the magsy system are presented. the first
 example here is the design of a planning and controlling hierarchy
 for a flexible manufacturing system with the help of magsy. the second
@@ -55,8 +55,7 @@ a set of manufacturing orders has to be distributed to a set of
 machine tools and in the second case a set of transportation orders
 has to be distributed to a set of trucks. the talk will explain
 the design of the multi-agent solutions for these two applications
-and how the scheduling problem was solved in each case.
+and how the scheduling problem was solved in each case.</paragraph>
 
  host: for appointments with the speaker, please contact
        siegfried bocionek (bocionek+@a.gp.cs.cmu.edu, x5299)
-

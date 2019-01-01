@@ -4,7 +4,7 @@ who:      <speaker>jarek rossignac</speaker>, ibm t.j. watson research center
 topic:    bezier-minkowski metamorphosis & interactive geometric modeling
           a two-part presentation
 dates:    23-feb-93
-time:     <stime>3:30</stime> - <etime>4:30</etime>
+time:     <stime>3:30 </stime>- <etime>4:30</etime>
 place:    <location>wean 4623</location>
 postedby: ph+ on 18-feb-93 at 19:32 from cs.cmu.edu (paul heckbert)
 abstract: 
@@ -18,14 +18,14 @@ abstract:
 
  place:	 <location>wean 4623</location>
 
- date:	 tuesday, february 23, 1993, <stime>3:30</stime>-<etime>4:30</etime>
+ date:	 tuesday, february 23, 1993, 3:30-<etime>4:30</etime>
 	 refreshments at 3:15
 
 part 1:
 		    bezier-minkowski metamorphosis
 		     (joint work with anil kaul)
 
-the interpolation between two solids offers a new tool for designing
+<paragraph>the interpolation between two solids offers a new tool for designing
 and modifying shapes and an intuitive metaphor for specifying and
 animating deforming shapes as the metamorphosis between a start-solid
 and a different end-solid. previously known techniques for computing
@@ -52,21 +52,21 @@ above technique to offer easy to use additional control over the
  realtime animation on commercially available rendering hardware. we
  provide a tested algorithm for automatically computing bips from the
  sequence of arbitrary control polyhedra and demonstrate its
- applications to animation and design.
+ applications to animation and design.</paragraph>
 
 part 2:
                    interactive geometric modeling
 
-increased compute power and emerging graphics capabilities available
+<paragraph>increased compute power and emerging graphics capabilities available
 in commercial workstations make it possible to extend the interactive
 computer aided design from 2-d drafting to the design of 3-d shapes,
 to the direct manipulation of assembly components, and to the
 animation of motions and deformations. furthermore, traditional
 off-line ray-casting and hidden-lines removal techniques are being
 replaced with hardware-assisted realtime engineering visualization for
-inspecting complex models and their internal structures.
+inspecting complex models and their internal structures.</paragraph>
 
-the speaker will overview several ongoing projects in the interactive
+<paragraph>the speaker will overview several ongoing projects in the interactive
 geometric modeling group at ibm research and will illustrate them with
 video segments.
  - space deformations that interpolate multiple point-displacement
@@ -94,9 +94,9 @@ used to approximate background clusters.
  - lambada, an interactive animation editor, developed by j.
 mastrogiulio, p. borrel, j. kim, and j. rossignac, provides an
 object-oriented architecture based on hierarchical assembly graphs with
-screw-based motion-links an parameterized (animated) object-leaves.
+screw-based motion-links an parameterized (animated) object-leaves.</paragraph>
 
-the speaker may be contacted at jarek@watson.ibm.com
+<paragraph>the speaker may be contacted at jarek@watson.ibm.com</paragraph>
 
-for appointments with the speaker on tuesday morning,
-email phyllis.pomerantz@cs or call 268-7897.  host: paul heckbert.
+<paragraph>for appointments with the speaker on tuesday morning,
+email phyllis.pomerantz@cs or call 268-7897.  host: paul heckbert.</paragraph>

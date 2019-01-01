@@ -21,13 +21,13 @@ abstract:
                      department of physics and astronomy
                            northwestern university
 
-advances in computational electronic structure methods combined with those in
+<paragraph>advances in computational electronic structure methods combined with those in
 computer hardware (and software) have led to the development of a new branch
 of materials science- computational materials science.  in the dawn of this 
 new age, impressive starts have already been made to understand the complexity 
 of real materials with their intriguing interplay between the underlying
 chemical, physical and structural properties.  this talk illustrates several 
-areas addressed recently, particularly at psc.
+areas addressed recently, particularly at psc.</paragraph>
 
                          date:   friday, september 16, 1994
 
@@ -36,4 +36,3 @@ areas addressed recently, particularly at psc.
                          place:  <location>mellon institute building</location>
                                  4400 fifth ave.
                                  3rd floor conference room
-

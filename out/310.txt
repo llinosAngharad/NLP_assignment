@@ -23,11 +23,11 @@ abstract:
 
  title:	  3d-tv (and workstations)
 
-high definition, high speed displays integrated with fast digitization,
+<paragraph>high definition, high speed displays integrated with fast digitization,
 image storage, and image processing now permit us to implement several
 concepts for 3d-sterescopic television (and computer workstations), many
 of which have been around, unimplementable, for a long time.  in this
-talk i will:
+talk i will:</paragraph>
 
   -- review the fundamentals of binocular 3d-stereoscopic vision
 

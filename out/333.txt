@@ -21,7 +21,7 @@ abstract:
 			      john canny
 			    u.c. berkeley
 
-   risc in a robotics context stands for reduced intricacy in sensing and
+<paragraph>   risc in a robotics context stands for reduced intricacy in sensing and
    control.  but it shares the same philosophy as risc computer design.
    the idea is to replace complicated manipulation and sensing steps with
    combinations of simple ones.  industrial robotics research has focussed
@@ -31,16 +31,16 @@ abstract:
    researchers further and further away from the real problems that
    hinder the proliferation of robots in manufacturing.  the enthusiasm
    for robotics in industry which reached a peak in the mid 80's has all
-   but disappeared after a protracted lack of progress on these problems.
+   but disappeared after a protracted lack of progress on these problems.</paragraph>
 
-   as whitney [1] and others have argued, even if robots with human-like
+<paragraph>   as whitney [1] and others have argued, even if robots with human-like
    dexterity and flexibility could be built, and they are clearly decades
    away, they will be completely impractical economically.  the problem
    is that robots, at least in an industrial setting, need more dexterity
    and sensing capability than they have today, but far less than a human
    being.  we are trying a risc approach to achieving this capability.  we
    achieve complicated manipulation and sensing performance by using
-   *just enough* simple elements, namely:
+   *just enough* simple elements, namely:</paragraph>
 
 	 * dextrous manipulation is replaced by two or three
 	   transfer/grasping steps with simple, specialized grippers.
@@ -49,19 +49,19 @@ abstract:
 	   data is replaced by very low resolution sensors, like finger gap,
 	   optical beam or low-resolution tactile.
 
-   this lets us build fast, cheap, simple, robust systems now rather than
+<paragraph>   this lets us build fast, cheap, simple, robust systems now rather than
    later.  the sensors are small and inexpensive enough that they can be
    placed throughout the environment, including on every gripper, so that
-   each operation can be monitored throughout a task.
+   each operation can be monitored throughout a task.</paragraph>
 
-   this talk will give an overview of the approach, and some of the new
+<paragraph>   this talk will give an overview of the approach, and some of the new
    research problems that it suggests.  then we will describe some recent
    results on beam sensing.  in particular, we find that processing beam
    data provides object recognition times in milliseconds rather than
    minutes, and much finer localization than is possible with vision.  if
    a sensor provides few accurate values (rather than an enormous number
    of inaccurate ones as with vision), recognition reduces to a hash
-   table lookup.
+   table lookup.</paragraph>
 
    [1] d. whitney.  real robots don't need jigs.  in "ieee conference on
        robotics and automation", pages 746-752, 1986.
