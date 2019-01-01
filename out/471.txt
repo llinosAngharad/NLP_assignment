@@ -1,38 +1,38 @@
 <0.20.2.92.11.16.31.trg+@n2.sp.cs.cmu.edu (thomas gross).0>
 type:     cmu.cs.scs
-topic:    psc/cs seminar: 2/28 <stime>4:00 </stime>@ sei 
+topic:    psc/cs seminar: 2/28 <stime><stime>4:00</stime> </stime>@ sei 
 dates:    28-feb-92
-time:     4:00
+time:     <stime>4:00</stime>
 postedby: trg+ on 20-feb-92 at 11:16 from n2.sp.cs.cmu.edu (thomas gross)
 abstract: 
 
 <paragraph>
 	approaching mpp for molecular dynamics and mechanics of biomolecules</paragraph>
 
-		          charles brooks
+		          <sentence>charles brooks
 		chemistry department, carnegie mellon university
 
-		     feb 28, 1992    <stime>4:00 </stime>p.m.
+		     feb 28, 1992    <stime><stime>4:00</stime> </stime>p.m.</sentence>
 			sei auditorium
 
-<paragraph>the anticipation of performing large-scale simulations to address crucial
+<paragraph><sentence>the anticipation of performing large-scale simulations to address crucial
 questions in the area of biomolecule structure and dynamics (for example
 protein folding, drug discovery, enzyme catalysis) is fueled by advances in
-the development of massively parallel hardware.  however, realization of
+the development of massively parallel hardware.</sentence>  <sentence>however, realization of
 this goal requires not only the hardware developments, but also a
 substantial investment in the development and implementation of scalable
-algorithms to carry out simulations of biomolecules.  in this seminar, i
+algorithms to carry out simulations of biomolecules.</sentence>  <sentence>in this seminar, i
 will discuss some of the "grand challenge" problems which motivate work on
 the software side, with a particular focus to problems being addressed in
-our research group.  i will then describe efforts underway in our laboratory
-to address the algorithmic/software questions for biomolecule dynamics.
-emphasis will be laid upon the description of two strategies we have
-experimented with for molecular dynamics on parallel architecture machine.
-first, i will describe the implementation of a molecular dynamics kernel for
-studies of solutions of small molecules on the cm-2, cray and cm-5.  next, i
+our research group.</sentence>  <sentence>i will then describe efforts underway in our laboratory
+to address the algorithmic/software questions for biomolecule dynamics.</sentence>
+<sentence>emphasis will be laid upon the description of two strategies we have
+experimented with for molecular dynamics on parallel architecture machine.</sentence>
+<sentence>first, i will describe the implementation of a molecular dynamics kernel for
+studies of solutions of small molecules on the cm-2, cray and cm-5.</sentence>  <sentence>next, i
 will describe preliminary work on utilizing a tightly coupled heterogeneous
 computing environment (the cray ymp and cm-2 connected via a hippi) to carry
-out calculations on solvated protein and peptide molecules.  i will
+out calculations on solvated protein and peptide molecules.</sentence>  <sentence>i will
 summarize with a discussion of the future prospects for using mpp
 architectures with peak computational rates in the teraflop range for
-biomolecule dynamics.</paragraph>
+biomolecule dynamics.</sentence></paragraph>

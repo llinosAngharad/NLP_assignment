@@ -8,7 +8,7 @@ abstract:
 
                                  ps seminar
                              monday, february 3, 1992
-                                 3:30pm-<etime>5:00pm</etime>
+                                 <stime>3:30pm</stime>-<etime>5:00pm</etime>
                                 <location>wean hall 5409</location>
                                   garth gibson
                            carnegie mellon university
@@ -16,21 +16,21 @@ abstract:
 
                          disk reads with dram latency
 
-<paragraph>one of the most difficult and (unfortunately) important challenges for a high
+<paragraph><sentence>one of the most difficult and (unfortunately) important challenges for a high
 performance file system is the achievement of low latency during a file cache
-miss.  we have recently begun a project to explore the feasibility and utility
+miss.</sentence>  <sentence>we have recently begun a project to explore the feasibility and utility
 of using file access hints to eliminate long disk latencies by prefetching
-data.  these hints may have been issued explicitly by programmers,
+data.</sentence>  <sentence>these hints may have been issued explicitly by programmers,
 automatically by compilers, speculatively by parent tasks such as shells
-and makes, or historically by previously profiled executions.
-our research will also address the thorny issues of hint specification,
+and makes, or historically by previously profiled executions.</sentence>
+<sentence>our research will also address the thorny issues of hint specification,
 memory resource management, imprecise and incorrect hints, and appropriate
 interfaces for propagating hints to affected application, operating system,
-file system, and device specific modules.</paragraph>
+file system, and device specific modules.</sentence></paragraph>
 
-<paragraph>in this talk i will overview our research on this new project with
+<paragraph><sentence>in this talk i will overview our research on this new project with
 specific attention to our immediate plans, the most difficult problems
 in front of us, and our long range vision for a hint-based prefetching
-file system interface.</paragraph>
+file system interface.</sentence></paragraph>
 
-<paragraph>this is joint work with r. hugo patterson.</paragraph>
+<paragraph><sentence>this is joint work with r. hugo patterson.</sentence></paragraph>

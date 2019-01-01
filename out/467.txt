@@ -12,8 +12,8 @@ postedby: lydia+ on 10-jan-92 at 09:00 from proof.ergo.cs.cmu.edu (lydia defilip
 abstract: 
 
 <paragraph>
-please note that <speaker>steven skiena</speaker> will now speak
-at 1:30 instead of 3:30 due to a conflict in seminars.</paragraph>
+<sentence>please note that <speaker>steven skiena</speaker> will now speak
+at 1:30 instead of 3:30 due to a conflict in seminars.</sentence></paragraph>
 
  speaker:   <speaker>steven skiena</speaker>
             department of computer science
@@ -25,33 +25,33 @@ at 1:30 instead of 3:30 due to a conflict in seminars.</paragraph>
 
  topic:     algorithms for square roots of graphs
 
-<paragraph>the {\em kth power} of a graph  g = (v, e), written g^k,
+<paragraph><sentence>the {\em kth power} of a graph  g = (v, e), written g^k,
 is defined to be the graph having v as its vertex set with
 vertices u, v adjacent in g^k if and only if
-there exists a path of length at most k between them.
-similarly, graph h has a {\em kth root} g if g^k = h.
-powers of graphs have several interesting properties.
-for example, the square of any biconnected graph and the
-cube of any connected graph is hamiltonian.</paragraph>
+there exists a path of length at most k between them.</sentence>
+<sentence>similarly, graph h has a {\em kth root} g if g^k = h.
+powers of graphs have several interesting properties.</sentence>
+<sentence>for example, the square of any biconnected graph and the
+cube of any connected graph is hamiltonian.</sentence></paragraph>
 
-<paragraph>in this talk, we present algorithms to find a square
-root g of a graph g^2 for the following special classes of graphs:</paragraph>
+<paragraph><sentence>in this talk, we present algorithms to find a square
+root g of a graph g^2 for the following special classes of graphs:</sentence></paragraph>
 
-<paragraph>	find g given g^2, where g is a tree, in o(m) time.</paragraph>
+<paragraph>	<sentence>find g given g^2, where g is a tree, in o(m) time.</sentence></paragraph>
 
-<paragraph>	find g given g^2, where g^2 is planar, in o(n) time.</paragraph>
+<paragraph>	<sentence>find g given g^2, where g^2 is planar, in o(n) time.</sentence></paragraph>
 
-<paragraph>	find g given g^2, where g is a subdivided graph, in o(m n) time.</paragraph>
+<paragraph>	<sentence>find g given g^2, where g is a subdivided graph, in o(m n) time.</sentence></paragraph>
 
-<paragraph>finding square roots of subdivided graphs is equivalent to inverting
-total graphs.
-in addition, we present several results on the complexity
-of finding maximum cliques and hamiltonian cycles in powers of graphs.</paragraph>
+<paragraph><sentence>finding square roots of subdivided graphs is equivalent to inverting
+total graphs.</sentence>
+<sentence>in addition, we present several results on the complexity
+of finding maximum cliques and hamiltonian cycles in powers of graphs.</sentence></paragraph>
 
-<paragraph>this is joint work with yaw-ling lin.</paragraph>
+<paragraph><sentence>this is joint work with yaw-ling lin.</sentence></paragraph>
 
  host: dana scott
 
-<paragraph>appointments can be made through lydia defilippo, x3063, lydia@cs.cmu.edu.</paragraph>
+<paragraph><sentence>appointments can be made through lydia defilippo, x3063, lydia@cs.cmu.edu.</sentence></paragraph>
 
-<paragraph>steve skiena will be at cmu monday, january 13, and tuesday, february 14.</paragraph>
+<paragraph><sentence>steve skiena will be at cmu monday, january 13, and tuesday, february 14.</sentence></paragraph>

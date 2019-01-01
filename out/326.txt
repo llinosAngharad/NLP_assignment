@@ -15,27 +15,27 @@ abstract:
            engineering, cornell university
  title:    control strategies for intermittent dynamic tasks
  date:	  april 26, 1991
- time:     3:30 p.m. until 4:30 p.m.
+ time:     <stime>3:30 p.m.</stime> until 4:30 p.m.
  location: <location>baker hall, adamson wing</location>
  host:     michael erdmann, x7883
 
-<paragraph>running and juggling are examples of intermittent dynamic tasks.  that
+<paragraph><sentence>running and juggling are examples of intermittent dynamic tasks.</sentence>  <sentence>that
 is, they require a manipulator alternately to be in contact with and
 out of contact with another object, and the relative velocity at
-contact is large.  during the noncontact, or "ballistic" phase, the
+contact is large.</sentence>  <sentence>during the noncontact, or "ballistic" phase, the
 manipulator loses the ability to control some of the degrees of freedom
-of the overall system.  the ballistic phase ends with an impact as
-contact is re-established.  the general control strategy for a
-manipulator faced with such a task is two-fold.  during the contact
+of the overall system.</sentence>  <sentence>the ballistic phase ends with an impact as
+contact is re-established.</sentence>  <sentence>the general control strategy for a
+manipulator faced with such a task is two-fold.</sentence>  <sentence>during the contact
 phase, the manipulator must establish appropriate initial conditions
-for the ballistic phase.  during the ballistic phase, it must prepare
-for the inevitable impact.</paragraph>
+for the ballistic phase.</sentence>  <sentence>during the ballistic phase, it must prepare
+for the inevitable impact.</sentence></paragraph>
 
-<paragraph>how well do established control laws for running and juggling fit with
+<paragraph><sentence>how well do established control laws for running and juggling fit with
 this idea of alternately establishing initial conditions and preparing
-for impact?  i'll discuss marc raibert's control law for running that
+for impact?</sentence>  <sentence>i'll discuss marc raibert's control law for running that
 decomposes the problem along the degrees of freedom of the mechanism,
-and martin buhler's use of a "mirror" algorithm for juggling.</paragraph>
+and martin buhler's use of a "mirror" algorithm for juggling.</sentence></paragraph>
 
 ----------
 refreshments will be served from 3:15-3:30.  

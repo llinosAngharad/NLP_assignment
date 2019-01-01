@@ -13,7 +13,7 @@ abstract:
  who:      <speaker>kris hammond </speaker>(university of chicago)
  topic:    actualized intelligence: planning and acting in dynamic environments
  dates:    30-nov-93
- time:     3:30 p.m.
+ time:     <stime>3:30 p.m.</stime>
  place:    <location>5409 wean hall</location>
  host:     manuela veloso
  furtherdetails: for appointments: phyllis pomerantz - x8-7897 or plp@cs
@@ -23,22 +23,22 @@ actualized intelligence: planning and acting in dynamic environments
 <paragraph>			kris hammond
 		    university of chicago</paragraph>
 
-<paragraph>over the past few years, the thrust of research in planning has moved
+<paragraph><sentence>over the past few years, the thrust of research in planning has moved
 away from the notion of a plan as a proof and more towards an approach
-that integrates planning and execution.  rather than building systems that
+that integrates planning and execution.</sentence>  <sentence>rather than building systems that
 produce plans, researchers are more concerned with systems that
-produce behavior in the face of a changing world.  this change in
+produce behavior in the face of a changing world.</sentence>  <sentence>this change in
 focus opens up a wide variety of new problems that ``planners'' have
-to deal with.</paragraph>
+to deal with.</sentence></paragraph>
 
-<paragraph>in this talk, i will discuss one view of these issues and outline an
+<paragraph><sentence>in this talk, i will discuss one view of these issues and outline an
 approach for dealing with them that combines what has been labeled
 ``case-based planning'' with a reactive componant and a learning
 mechanism that uses run-time expectation failures to focus the
-planner's attention on gaps in its knowledge base.  in terms of
+planner's attention on gaps in its knowledge base.</sentence>  <sentence>in terms of
 planning, the system is able to recover from many execution-time
-failures as well as capitalize on unforseen opportunities.  in terms
+failures as well as capitalize on unforseen opportunities.</sentence>  <sentence>in terms
 of learning, it is able to learn from both run-time opportunities and
-unexpected execution problems.</paragraph>
+unexpected execution problems.</sentence></paragraph>
 
 furtherdetails: for appointments: phyllis pomerantz - x8-7897 or plp@cs

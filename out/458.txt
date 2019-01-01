@@ -12,32 +12,32 @@ abstract:
 
                          friday, february 17, 1995
 
-                    weh <location>8220</location>      3:30 p.m. - <etime>5:00 p.m.</etime>
+                    <location>weh 8220</location>      <stime>3:30 p.m.</stime> - <etime>5:00 p.m.</etime>
      one  price  paid  for  using  a  typed  language  for  writing an
      interpreter is that it will typically have to encode  the  values
      of  the  interpreted  program explicitly into one universal type,
      val.
 
-     since val will be visible from the type of the interpreter (e.g.,
+     <sentence>since val will be visible from the type of the interpreter (e.g.,
      prg  x  val  ->  val  for a simple one) programs derived from the
      interpreter by using, i.e., partial evaluation will  inherit  the
-     universal  type  and perform repeated projections and injections.
-     that is certainly not what we want.
+     universal  type  and perform repeated projections and injections.</sentence>
+     <sentence>that is certainly not what we want.</sentence>
 
-     however, a study of a typical derived program shows  that  it  is
-     not  possible  to improve much without further information.  this
-     is where the context of the program comes in.  a  "context"  here
+     <sentence>however, a study of a typical derived program shows  that  it  is
+     not  possible  to improve much without further information.</sentence>  <sentence>this
+     is where the context of the program comes in.</sentence>  <sentence>a  "context"  here
      is  a  description  of  the  input  --  in  the form of a grammer
      defining a subset of all possible val values  --  and  a  similar
-     description of the output.
+     description of the output.</sentence>
 
-     in  words,  the  context makes certain promises about the form of
-     the input and the output.  in the case of residual programs  from
-     partial evaluation it is trivial to create good contexts.
+     <sentence>in  words,  the  context makes certain promises about the form of
+     the input and the output.</sentence>  <sentence>in the case of residual programs  from
+     partial evaluation it is trivial to create good contexts.</sentence>
 
-     from  the  context it is possible to identify operations that are
-     not needed.  this can result in drastic  improvements,  at  least
-     with pen-and-paper examples.
+     <sentence>from  the  context it is possible to identify operations that are
+     not needed.</sentence>  <sentence>this can result in drastic  improvements,  at  least
+     with pen-and-paper examples.</sentence>
 
-      note:   we welcome morten to our department.  he will be visiting
-      with peter lee for six months.
+      <sentence>note:   we welcome morten to our department.</sentence>  <sentence>he will be visiting
+      with peter lee for six months.</sentence>

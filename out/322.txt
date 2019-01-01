@@ -15,35 +15,35 @@ abstract:
  title:    programming complex mechanical systems with applications 
  	  to dynamic walking
  date:	  friday, march 8, 1991
- time:     3:30 p.m. until 4:30 p.m.
+ time:     <stime>3:30 p.m.</stime> until 4:30 p.m.
  location: <location>baker hall, adamson wing</location>
  host:     michael erdmann, x7883
 
-<paragraph>we consider the problem of developing control programs for complex
-mechanical systems with multiple, simultaneous tasks.  such systems are
-difficult to program using traditional robot programming methods.  as a
+<paragraph><sentence>we consider the problem of developing control programs for complex
+mechanical systems with multiple, simultaneous tasks.</sentence>  <sentence>such systems are
+difficult to program using traditional robot programming methods.</sentence>  <sentence>as a
 concrete example, we consider the problem of controlling a human-like
-machine to walk dynamically in three dimensions.  this problem has several
+machine to walk dynamically in three dimensions.</sentence>  <sentence>this problem has several
 applications, including the design and construction of walking machines
 capable of rough terrain mobility, computer graphic animation of complex
-figures, and more distantly, understanding human walking.</paragraph>
+figures, and more distantly, understanding human walking.</sentence></paragraph>
 
-<paragraph>we describe a new framework called ``least constraint'' for programming
-such a machine.  in this framework, we do not specify the desired motion in
+<paragraph><sentence>we describe a new framework called ``least constraint'' for programming
+such a machine.</sentence>  <sentence>in this framework, we do not specify the desired motion in
 terms of trajectories but rather more weakly as a collection of assertions
-to hold.  these assertions are expressed as time varying inequality
-constraints in various domains.  we thus attempt to capture the essential
-requirements of a task without imposing unnecessary structure.  the
-constraints are solved at run time to produce control torques.  constraint
+to hold.</sentence>  <sentence>these assertions are expressed as time varying inequality
+constraints in various domains.</sentence>  <sentence>we thus attempt to capture the essential
+requirements of a task without imposing unnecessary structure.</sentence>  <sentence>the
+constraints are solved at run time to produce control torques.</sentence>  <sentence>constraint
 satisfaction is performed using a fast iterative technique which takes
-advantage of functional decomposition and automatic differentiation.</paragraph>
+advantage of functional decomposition and automatic differentiation.</sentence></paragraph>
 
-<paragraph>the approach has been successful in generating stable dynamic walking with
-various gaits.  we have implemented an object-oriented programming
+<paragraph><sentence>the approach has been successful in generating stable dynamic walking with
+various gaits.</sentence>  <sentence>we have implemented an object-oriented programming
 environment for this purpose in common lisp using clos, and tested the
-approach using a full rigid-body mechanics simulation.  we shall describe
+approach using a full rigid-body mechanics simulation.</sentence>  <sentence>we shall describe
 the results of our simulation experiments with the aid of computer
-animation.</paragraph>
+animation.</sentence></paragraph>
 
 ----------
 refreshments will be served from 3:15-3:30.  

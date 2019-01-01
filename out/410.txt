@@ -5,7 +5,7 @@ who:      <speaker>ron p. loui</speaker>
           washington university, st. louis
 topic:    special ai seminar
 dates:    21-sep-93
-time:     3:30 pm
+time:     <stime>3:30 pm</stime>
 host:     bob carpenter 
 postedby: plp+ on 13-sep-93 at 13:33 from phyllis.adm.cs.cmu.edu (phyllis pomerantz)
 abstract: 
@@ -19,15 +19,15 @@ abstract:
 <location>4623 wean hall</location>
 argument and arbitration games</paragraph>
 
-<paragraph>we begin with two points about modeling reasoning that herbert simon
+<paragraph><sentence>we begin with two points about modeling reasoning that herbert simon
 and nicholas rescher made well, but which were lost in the ai shuffle:
 1) rational belief can be constructed by the right kind of
 resource-bounded process; 2) dialectic is one of the right kinds of
-process.  a protocol for disputation is essentially a model of an
-automated reasoner's search procedure.</paragraph>
+process.</sentence>  <sentence>a protocol for disputation is essentially a model of an
+automated reasoner's search procedure.</sentence></paragraph>
 
-<paragraph>we describe programs and card games which model case-based legal
-argument and reasoned settlement.</paragraph>
+<paragraph><sentence>we describe programs and card games which model case-based legal
+argument and reasoned settlement.</sentence></paragraph>
 
  host: bob carpenter 
 for further details and appointments contact: (carp@lcl.cmu.edu)

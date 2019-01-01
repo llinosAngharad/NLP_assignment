@@ -17,28 +17,28 @@ abstract:
  speaker: <speaker>gerard allwein</speaker>
  topic:   kripke models for linear logic
 
-<paragraph>i will present a kripke model for girard's linear logic (without
+<paragraph><sentence>i will present a kripke model for girard's linear logic (without
 exponentials) in a conservative fashion where the logical functors
 beyond the basic lattice operations may be added one by one without
-recourse to such things as negation.  you can either have some logical
-functors or not as you choose.  commutativity and associativity are
+recourse to such things as negation.</sentence>  <sentence>you can either have some logical
+functors or not as you choose.</sentence>  <sentence>commutativity and associativity are
 isolated in such a way that the base kripke model is a model for
-non-commutative, non-associative linear logic. the logic is also
+non-commutative, non-associative linear logic.</sentence> <sentence>the logic is also
 extended with a coimplication operator (see curry [1963], subtraction)
-which is residuated with linear logic's cotensor product. and we can
-add contraction to get nondistributive relevance logic. the model
+which is residuated with linear logic's cotensor product.</sentence> <sentence>and we can
+add contraction to get nondistributive relevance logic.</sentence> <sentence>the model
 rests heavily on urquhart's representation of non-distributive
-lattices and also on dunn's gaggle theory. the valuations on the
-kripke model are three valued: true, false, and indifferent. the
+lattices and also on dunn's gaggle theory.</sentence> <sentence>the valuations on the
+kripke model are three valued: true, false, and indifferent.</sentence> <sentence>the
 lattice representation theorem of urquhart has the nice feature of
 yielding priestley's representation theorem for distributive lattices
-if the original lattice happens to be distributive. hence the
+if the original lattice happens to be distributive.</sentence> <sentence>hence the
 representation is consistent with stone's representation of
 distributive and boolean lattices and the semantics is consistent with
 halmos' representation of modal algebras and the routley-meyer
-semantics for relevance logic. linear logic has recently been
+semantics for relevance logic.</sentence> <sentence>linear logic has recently been
 implicated in the logical analysis of petri nets and there is research
 on-going into applying it for the theory of programming languages and
-communication architectures. incidently, linear logic with
+communication architectures.</sentence> <sentence>incidently, linear logic with
 exponentials has been shown to be undecidable by john mitchell, andre
-scedrov, et. al., however without the exponentials it is decidable.</paragraph>
+scedrov, et.</sentence> <sentence>al., however without the exponentials it is decidable.</sentence></paragraph>

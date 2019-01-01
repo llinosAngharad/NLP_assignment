@@ -2,35 +2,35 @@
 type:     cmu.cs.scs
 topic:    theory seminar
 dates:    10-feb-95
-time:     <stime>3:30 </stime>- <etime>5:00</etime>
+time:     <stime>3:30</stime> - <etime>5:00</etime>
 host:     avrim blum
 postedby: daz+ on 7-feb-95 at 09:55 from amm.adm.cs.cmu.edu (dorothy a zaborowski)
 abstract: 
 
 <paragraph>		  friday, february 10, 1995
-	            wean hall - 3:30-<etime>5:00</etime>
+	            wean hall - <stime>3:30</stime>-<etime>5:00</etime>
          size-estimation framework with applications 
            to transitive closure and reachability</paragraph>
 
                          edith cohen 
                   at\&t bell laboratories
 
-<paragraph>computing transitive closure and reachability information in directed
-graphs is a fundamental graph problem with many applications.  the
+<paragraph><sentence>computing transitive closure and reachability information in directed
+graphs is a fundamental graph problem with many applications.</sentence>  <sentence>the
 fastest known algorithms run in $o(min(mn,n^{2.38})$ time, where $n$
-is the number of nodes and $m$ the number of edges in the graph.  it
+is the number of nodes and $m$ the number of edges in the graph.</sentence>  <sentence>it
 is often the case that the aim is to compute the size of the
 transitive closure and the number of nodes reachable from certain
-nodes rather than computing them explicitly.  examples of potential
+nodes rather than computing them explicitly.</sentence>  <sentence>examples of potential
 applications are database query optimization or optimizing
-multiplications of large real-valued matrices.  we present an $o(m)$
+multiplications of large real-valued matrices.</sentence>  <sentence>we present an $o(m)$
 time randomized algorithm that estimates the number of nodes reachable
-from every node and the size of the transitive closure.  another
-ramification of our estimation scheme is a $\tilde{o}(m)$ time
+from every node and the size of the transitive closure.</sentence>  <sentence>another
+ramification of our estimation scheme is a $	ilde{o}(m)$ time
 algorithm for estimating sizes of neighborhoods in directed graphs
-with nonnegative weights.  our size-estimation algorithms are much
+with nonnegative weights.</sentence>  <sentence>our size-estimation algorithms are much
 faster than performing the respective explicit computations and
-improve significantly over previous estimation methods.</paragraph>
+improve significantly over previous estimation methods.</sentence></paragraph>
 
  host: avrim blum
  appts: daz@cs

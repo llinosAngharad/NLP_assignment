@@ -16,22 +16,22 @@ abstract:
                          <stime>3:30 pm</stime>
                       <location>7500 wean hall</location>
 
-<paragraph>machine learning has evolved from obscurity in the 1970s into a
+<paragraph><sentence>machine learning has evolved from obscurity in the 1970s into a
 vibrant and popular discipline in artificial intelligence during the
-1980s and 1990s.  as a result of its success and growth, machine
+1980s and 1990s.</sentence>  <sentence>as a result of its success and growth, machine
 learning is evolving into a collection of related disciplines:
 inductive concept acquisition, analytic learning in problem
-solving (e.g. analogy, explanation-based learning), learning
-theory (e.g. pac learning), genetic algorithms, connectionist learning,
-hybrid systems, and so on. standard experimental techniques are
-being developed, and publication is more rigorous.  the central
+solving (e.g.</sentence> <sentence>analogy, explanation-based learning), learning
+theory (e.g.</sentence> <sentence>pac learning), genetic algorithms, connectionist learning,
+hybrid systems, and so on.</sentence> <sentence>standard experimental techniques are
+being developed, and publication is more rigorous.</sentence>  <sentence>the central
 question for many machine learning researches is how can the
 field mature into an accepted scientific discipline and still
-retain the excitement of the pioneer days of exploratory research.
-one way to address this issue is to create a collection of grand
+retain the excitement of the pioneer days of exploratory research.</sentence>
+<sentence>one way to address this issue is to create a collection of grand
 challenges for the field of machine learning as a whole, to
 spur new research, increase cross-discipline collaboration and
 competition (both lead to better communication and learning about
-each other's methods).  after reviewing the state of the art
+each other's methods).</sentence>  <sentence>after reviewing the state of the art
 in machine learning, several challenges will be offered to researchers 
-in the field and newcomers alike.</paragraph>
+in the field and newcomers alike.</sentence></paragraph>

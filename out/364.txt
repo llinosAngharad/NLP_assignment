@@ -3,17 +3,17 @@ type:     cmu.cs.robotics
 who:      <speaker>peter eggleston</speaker>, amerinex artificial intelligence, inc.
 topic:    talk on object segmentation techniques and constraint based feature indexing
 dates:    25-may-93
-time:     3:00 pm
+time:     <stime>3:00 pm</stime>
 place:    <location>weh4623</location>
 duration: 75 mins.
-host:     sing bing kang (sbk@cs)
+<sentence>host:     sing bing kang (sbk@cs)
 postedby: sbk+ on 20-may-93 at 15:51 from cs.cmu.edu (sing bing kang)
 abstract: 
 
  date:		25-may-93, tuesday
  time:		<stime>3:00pm</stime>
  place:		<location>weh4623</location>
- duration:	75 mins.
+ duration:	75 mins.</sentence>
  who:		<speaker>peter eggleston</speaker>, amerinex artificial intelligence, inc.
  topics:		object segmentation techniques for use in visual automation
  		and
@@ -23,53 +23,53 @@ abstract:
 
 topic 1: object segmentation techniques for use in visual automation
 
-<paragraph>    in designing automated systems for interpretation or manipulation of
+<paragraph>    <sentence>in designing automated systems for interpretation or manipulation of
     laboratory image data such as that derived from microphotographs, it is
     often the goal to perform operations that extract information about the
     structure of objects, and to separate and discern various objects within
-    the data. given a transformation of the pixel based image data into an
+    the data.</sentence> <sentence>given a transformation of the pixel based image data into an
     explicit symbolic representation of the objects (i.e., the creation of
     objects of interest or tokens), desired information can be extracted and
-    characterized from the visual data. simple segmentation schemes often lack
+    characterized from the visual data.</sentence> <sentence>simple segmentation schemes often lack
     the sophistication to deal with intricate or very subtle details of this
-    image data. this paper will discuss advanced techniques useful in
+    image data.</sentence> <sentence>this paper will discuss advanced techniques useful in
     obtaining information relevant to the recognition and extraction of
-    objects of interest in laboratory vision automation applications.</paragraph>
+    objects of interest in laboratory vision automation applications.</sentence></paragraph>
 
-topic 2: constraint based feature indexing and retrieval for image databases
+<sentence>topic 2: constraint based feature indexing and retrieval for image databases
 
               advance presentation of paper being presented at the
                       afcea/items '93 conference, document
-                         processing applications track.
+                         processing applications track.</sentence>
 
- abstract:
+ <sentence>abstract:
 
      this paper presents a prototype system which uses constraints
     (mathematical mapping functions) to index and retrieve images from an
-    image database. information is automatically extracted from images such
-    as the shape, texture, and position of objects within an image. once
+    image database.</sentence> <sentence>information is automatically extracted from images such
+    as the shape, texture, and position of objects within an image.</sentence> <sentence>once
     extracted, this feature information is stored in an associatively
-    accessible database. the database allows users to locate images
+    accessible database.</sentence> <sentence>the database allows users to locate images
     containing objects of interest, or locate objects of interest within
-    images. the system presented here also provides a method for automatic
+    images.</sentence> <sentence>the system presented here also provides a method for automatic
     indexing of the database through the learning and application of object
-    types or classes. query of the database is accomplished by way of
+    types or classes.</sentence> <sentence>query of the database is accomplished by way of
     sketched example, selected prototype object from an image or atlas,
     graphically specified single or multidimensional feature ranges, or
-    class type. the use of pre-derived features and mapping functions allow
-    this method to be efficiently implemented in real-time systems.
+    class type.</sentence> <sentence>the use of pre-derived features and mapping functions allow
+    this method to be efficiently implemented in real-time systems.</sentence>
 
-about the speaker:
+<sentence>about the speaker:
 
     mr. eggleston is currently the director of marketing and sales for
     amerinex artificial intelligence, inc..  prior to joining amerinex, mr.
     eggleston was the manager of the advanced algorithm prototyping and
     analysis group at avco research laboratories/textron were he was
     responsible for the conceptialization and construction of autonomous
-    target recognizers.  mr. eggleston has also previously been employed by
+    target recognizers.</sentence>  <sentence>mr. eggleston has also previously been employed by
     the eastman research laboratories where he designed and image processing
-    algorithms and implemented them in a.s.i.c.  (application specific i.c.)
-    form.  mr.  eggleston has also served as a faculty member for
+    algorithms and implemented them in a.s.i.c.</sentence>  (application specific i.c.)
+    <sentence>form.</sentence>  <sentence>mr.  eggleston has also served as a faculty member for
     northeastern university and the rochester institute of technology, where
     he has designed and taught courses in artificial intelligence, digital
-    hardware design, software engineering, and operating systems.
+    hardware design, software engineering, and operating systems.</sentence>

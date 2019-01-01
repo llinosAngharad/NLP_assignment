@@ -1,7 +1,7 @@
 <0.8.1.93.23.10.34.maa+@isl1.ri.cmu.edu (michelle agie).0>
 type:     cmu.cs.robotics
 who:      <speaker>paul s. heckbert</speaker>, computer science dept., carnegie mellon univ.
-topic:    filters for image resampling
+<sentence>topic:    filters for image resampling
 dates:    15-jan-93
 time:     <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
 place:    <location>adamson wing auditorium in baker hall</location>
@@ -14,26 +14,26 @@ abstract:
 
  where:  <location>adamson wing auditorium in baker hall</location>
 
- speaker: <speaker>paul s. heckbert</speaker>, computer science dept., carnegie mellon univ.
+ speaker: <speaker>paul s. heckbert</speaker>, computer science dept., carnegie mellon univ.</sentence>
 
  title: filters for image resampling
 
-<paragraph>a common problem in image processing is resampling a raster image.
-this task crops up when removing distortions from satellite images and
-when performing texture mapping in computer graphics, for example.
-careful filtering must be done during resampling or the results will
-appear blocky or show aliasing.  traditionally, most research in
-resampling has addressed special cases.  often, the class of mappings
+<paragraph><sentence>a common problem in image processing is resampling a raster image.</sentence>
+<sentence>this task crops up when removing distortions from satellite images and
+when performing texture mapping in computer graphics, for example.</sentence>
+<sentence>careful filtering must be done during resampling or the results will
+appear blocky or show aliasing.</sentence>  <sentence>traditionally, most research in
+resampling has addressed special cases.</sentence>  <sentence>often, the class of mappings
 is restricted to be affine (translation, rotation, and scaling), in
-which case the filter is space invariant.  furthermore, filters are
+which case the filter is space invariant.</sentence>  <sentence>furthermore, filters are
 often designed for interpolation (upsampling) only or decimation
-(downsampling) only.</paragraph>
+(downsampling) only.</sentence></paragraph>
 
-<paragraph>in this talk, we develop a unified theory for image resampling filters,
+<paragraph><sentence>in this talk, we develop a unified theory for image resampling filters,
 which subsumes previous methods for affine mappings, interpolation, and
-decimation.  the theory describes the space variant filter for
+decimation.</sentence>  <sentence>the theory describes the space variant filter for
 resampling a multidimensional signal according to an arbitrary mapping
-without aliasing.  a simple, fast approximation technique employing
-elliptical gaussian filters will be demonstrated.</paragraph>
+without aliasing.</sentence>  <sentence>a simple, fast approximation technique employing
+elliptical gaussian filters will be demonstrated.</sentence></paragraph>
 
 refreshments will be served by 3:15pm*

@@ -6,8 +6,8 @@ time:     <stime>9:00 </stime>- <etime>10:20</etime>
 postedby: jean+ on 09-sep-91 at 10:46 from a.gp.cs.cmu.edu (jean harpley)
 abstract: 
 
-<paragraph>last week it was announced that the anderson, berliner and valdes-perez talks
+<paragraph><sentence>last week it was announced that the anderson, berliner and valdes-perez talks
 scheduled for thursday, 9/5 were cancelled and would be rescheduled for this
-week.  anderson and berliner will not be giving talks, but valdes-perez will
+week.</sentence>  <sentence>anderson and berliner will not be giving talks, but valdes-perez will
 be speaking after dave mckeown and <speaker>steve cochran</speaker> tomorrow (9/10) from <stime>9:00 </stime>to
-<etime><etime>10:20</etime> </etime>in wean 4605.</paragraph>
+<etime><etime>10:20</etime> </etime>in wean 4605.</sentence></paragraph>

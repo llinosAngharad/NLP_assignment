@@ -2,7 +2,7 @@
 type:     cmu.cs.robotics
 topic:    ai seminar this friday
 dates:    26-apr-91
-time:     <stime>2:00</stime> - <etime>3:30</etime>
+time:     <stime><stime>2:00</stime> </stime>- <etime>3:30</etime>
 postedby: jeffrey.schlimmer on 24-apr-91 at 09:12 from a.gp.cs.cmu.edu
 abstract: 
 carnegie mellon                                              scs ai seminar
@@ -18,34 +18,34 @@ carnegie mellon                                              scs ai seminar
 			    <stime>2:00</stime>-<etime>3:30</etime> <location>weh 5409</location>
     this  talk will present  the basic principles  of approximate reasoning
 based on fuzzy sets   and relate  them  to   similar principles that  guide
-probabilistic reasoning.  knowledge representation issues will be addressed
-concerning the modelling and semantics of fuzzy rules.  some limitations of
+probabilistic reasoning.  <sentence>knowledge representation issues will be addressed
+concerning the modelling and semantics of fuzzy rules.</sentence>  <sentence>some limitations of
 the  fuzzy logic control algorithm will   be pointed out   in  the scope of
-knowledge-based   systems.    in a   second    part,  an   introduction  to
-possibilistic logic will  be provided.  possibilistic logic  is a  logic of
-incomplete evidence that tries to reconcile fuzzy sets and classical logic.
-it  also  belongs to  the  current   stream  of   research pertaining    to
-non-monotonic reasoning and belief revision.
+knowledge-based   systems.</sentence>    <sentence>in a   second    part,  an   introduction  to
+possibilistic logic will  be provided.</sentence>  <sentence>possibilistic logic  is a  logic of
+incomplete evidence that tries to reconcile fuzzy sets and classical logic.</sentence>
+<sentence>it  also  belongs to  the  current   stream  of   research pertaining    to
+non-monotonic reasoning and belief revision.</sentence>
 
-<paragraph>    didier dubois receives   his phd degree   in 1977.  he was a   visiting
+<paragraph>    <sentence>didier dubois receives   his phd degree   in 1977.  he was a   visiting
 scholar at the  school of electrical  engineering at  purdue  university in
 1978.  from 1980 until 1983, he worked as a research engineer at center for
-studies and research in  toulouse, in the production research  area.  he is
-presently a cnrs researcher at the university of toulouse.  his main topics
+studies and research in  toulouse, in the production research  area.</sentence>  <sentence>he is
+presently a cnrs researcher at the university of toulouse.</sentence>  <sentence>his main topics
 of   interest   are the  modeling   of  imprecision  and  uncertainty,  the
 representation  of knowledge  and  approximate reasoning for expert system,
-operations research, and decision analysis.  he  is the  author or coauthor
+operations research, and decision analysis.</sentence>  <sentence>he  is the  author or coauthor
 of numerous publications, especially in  the field of  fuzzy sets and their
-applications  to operations  research   and  artificial  intelligence.   he
+applications  to operations  research   and  artificial  intelligence.</sentence>   <sentence>he
 coauthored (with h. prade) two  books  on fuzzy sets and possibility theory
 and has coedited a volume on nonstandard logics  and several special issues
-of scientific journals.  since  1979 he has also  been coediting busefal, a
-bulletin on fuzzy sets and related topics.  he is on the editorial board of
+of scientific journals.</sentence>  <sentence>since  1979 he has also  been coediting busefal, a
+bulletin on fuzzy sets and related topics.</sentence>  <sentence>he is on the editorial board of
 the journals: fuzzy sets  and systems, international journal of approximate
 reasoning, revue   d'intelligence  artificielle;  and  more recently:   the
-international journal of general systems and the orsa journal on computing.
-dubois is   a  member of  the  council of the  international  fuzzy systems
-association.</paragraph>
+international journal of general systems and the orsa journal on computing.</sentence>
+<sentence>dubois is   a  member of  the  council of the  international  fuzzy systems
+association.</sentence></paragraph>
 
 ---------------------------------------------------------------------------
  hosts: <speaker>mark fox</speaker>/jeanluc koning       appointments: jeanluc.koning@ri, x7598

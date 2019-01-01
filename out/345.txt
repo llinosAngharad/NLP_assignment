@@ -25,14 +25,14 @@ ri seminar
  title:	learning control for improved performance in 
  	repetitive robot operations
 
-<paragraph>learning control refers to control systems that can learn from previous 
+<paragraph><sentence>learning control refers to control systems that can learn from previous 
 experience performing a specific task, in order to improve their performance 
-in future executions of the task. although there are some precursors, the filed 
+in future executions of the task.</sentence> <sentence>although there are some precursors, the filed 
 started in 1984 with several researchers on different continents (including 
 professor longman, then australia) addressing the problem of improving control 
-system performance for robots performing repetitive tasks on assembly lines. 
-the talk will give an overview of learning control strategies that make use of 
-control theory concepts to accomplish their learning.</paragraph>
+system performance for robots performing repetitive tasks on assembly lines.</sentence> 
+<sentence>the talk will give an overview of learning control strategies that make use of 
+control theory concepts to accomplish their learning.</sentence></paragraph>
 
  host: hagen schempf, x6884
 ***************************************************************************

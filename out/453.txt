@@ -1,6 +1,6 @@
 <0.21.11.91.08.55.27.lydia+@proof.ergo.cs.cmu.edu (lydia defilippo).0>
 type:     cmu.cs.scs
-who:      <speaker>professor n.g. de bruijn </speaker>
+who:      <speaker>professor n.g. <sentence>de bruijn </speaker>
           eindhoven university of technology,
           eindhoven, the netherlands
 topic:    "mathematical theory of quasicrystals"
@@ -15,7 +15,7 @@ abstract:
 
  			mathematics colloquium
 
- speaker:  <speaker>professor n.g. de bruijn </speaker>
+ speaker:  <speaker>professor n.g.</sentence> de bruijn </speaker>
  	  eindhoven university of technology,
            eindhoven, the netherlands
 

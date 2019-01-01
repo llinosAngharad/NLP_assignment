@@ -9,13 +9,13 @@ here's the schedule of upcoming teaching center seminars for grad students.
 
  from: rea freeland 
 
-<paragraph>below is the complete text of the program description for the utc seminars
-for graduate students.  the complete schedule and registration information
-are included.  </paragraph>
+<paragraph><sentence>below is the complete text of the program description for the utc seminars
+for graduate students.</sentence>  <sentence>the complete schedule and registration information
+are included.</sentence>  </paragraph>
 
-<paragraph>all graduate students, department heads and deans should have received a
-copy of the program description in august.  if you would like to be on the
-list for future mailings, please let us know at x8-2896.</paragraph>
+<paragraph><sentence>all graduate students, department heads and deans should have received a
+copy of the program description in august.</sentence>  <sentence>if you would like to be on the
+list for future mailings, please let us know at x8-2896.</sentence></paragraph>
 
 ------------------
 
@@ -28,30 +28,30 @@ seminars series for graduate students
 "managing current courses, anticipating future roles" is a weekly series of
 interactive seminars designed for graduate students.  on a pilot basis for
 1993-94, the teaching center will offer several  in-depth, three-week
-<paragraph>modules</paragraph> and several one-session special topics on different aspects of
-college teaching and learning.  
+<paragraph>modules</paragraph> <sentence>and several one-session special topics on different aspects of
+college teaching and learning.</sentence>  
 
-<paragraph>the <paragraph>modules</paragraph> provide an opportunity for sustained discussion of selected
+<paragraph>the <paragraph>modules</paragraph> <sentence>provide an opportunity for sustained discussion of selected
 topics because we ask you to make a commitment to attend 3 or 4 related
-sessions.  this format allows you to try some different strategies and then
-discuss how they worked with other participants.  also, for some <paragraph>modules</paragraph> we
+sessions.</sentence>  <sentence>this format allows you to try some different strategies and then
+discuss how they worked with other participants.</sentence>  also, for some <paragraph>modules</paragraph> <sentence>we
 may ask you to bring some sample materials from your discipline so that the
-applications can be most useful to you.  the special topic format allows you
+applications can be most useful to you.</sentence>  <sentence>the special topic format allows you
 to sample a combination of topics based on your interest in different types
-of students, course formats, or teaching styles.  </paragraph>
+of students, course formats, or teaching styles.</sentence>  </paragraph>
 
-<paragraph>to facilitate discussion each session will have no more than 20
-participants.  some of the sessions may break into smaller groups to
-accommodate the interests of people in different disciplines.  experienced
+<paragraph><sentence>to facilitate discussion each session will have no more than 20
+participants.</sentence>  <sentence>some of the sessions may break into smaller groups to
+accommodate the interests of people in different disciplines.</sentence>  <sentence>experienced
 tas, faculty, and administrators will be present to facilitate discussion at
-several sessions.  </paragraph>
+several sessions.</sentence>  </paragraph>
 
-<paragraph>you should pre-register for sessions of interest to you by using the form
+<paragraph><sentence>you should pre-register for sessions of interest to you by using the form
 included in this program description, or by contacting michelle
-gregg-rassau, at x2896 or mg2e@andrew.cmu.edu.  please note that the
-locations for spring 1994 seminars will be announced at a later date.  if
+<location>gregg-rassau</location>, at x2896 or mg2e@andrew.cmu.edu.</sentence>  <sentence>please note that the
+locations for spring 1994 seminars will be announced at a later date.</sentence>  <sentence>if
 you have questions about these seminars,  please contact rea freeland,
-associate director, at x7981 or rf51@andrew.cmu.edu.   </paragraph>
+associate director, at x7981 or rf51@andrew.cmu.edu.</sentence>   </paragraph>
 
 <paragraph>modules</paragraph>
 

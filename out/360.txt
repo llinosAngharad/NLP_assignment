@@ -28,34 +28,34 @@ information processing in autonomous mobile robot systems at
 the technische universitaet in munich and in research project
 aka-mod on modeling cooperative agents at the deutsches forschungszentrum</paragraph>
 
-<paragraph>in the talk the multi-agent system magsy is presented firstly.
-the kernel of an agent in magsy is a forward-chaining rule
-interpreter. therefore, each agent has the problem solving
-capacity of an expert system. each agent in magsy is a self-contained
-entity with a unique identification. if an agent knows the identification
-of another agent, it is able to send this agent messages. in doing so
-the agents perform services and call on services of other agents.
-agents are able to create new agents dynamically. if an agent
+<paragraph><sentence>in the talk the multi-agent system magsy is presented firstly.</sentence>
+<sentence>the kernel of an agent in magsy is a forward-chaining rule
+interpreter.</sentence> <sentence>therefore, each agent has the problem solving
+capacity of an expert system.</sentence> <sentence>each agent in magsy is a self-contained
+entity with a unique identification.</sentence> <sentence>if an agent knows the identification
+of another agent, it is able to send this agent messages.</sentence> <sentence>in doing so
+the agents perform services and call on services of other agents.</sentence>
+<sentence>agents are able to create new agents dynamically.</sentence> <sentence>if an agent
 creates a new agent, it automatically knows the identification of
-this new agent. the knowledge of the agents is structured in an
-object-oriented knowledge representation scheme. there is a global
+this new agent.</sentence> <sentence>the knowledge of the agents is structured in an
+object-oriented knowledge representation scheme.</sentence> <sentence>there is a global
 knowledge base which contains the knowledge that may be accessed
-by all of the agents. agents may store their identification in this
-global knowledge base and thus become known to all agents in the system.</paragraph>
+by all of the agents.</sentence> <sentence>agents may store their identification in this
+global knowledge base and thus become known to all agents in the system.</sentence></paragraph>
 
-<paragraph>in the second part of the talk two applications which have been
-implemented using the magsy system are presented. the first
+<paragraph><sentence>in the second part of the talk two applications which have been
+implemented using the magsy system are presented.</sentence> <sentence>the first
 example here is the design of a planning and controlling hierarchy
-for a flexible manufacturing system with the help of magsy. the second
+for a flexible manufacturing system with the help of magsy.</sentence> <sentence>the second
 example is the design of a multi-agent system for modeling the transportation
-domain. here a set of shipping companies each of which controls a set
-of trucks has to execute client orders cooperatively.
-in both examples a scheduling problem has to be solved. in the first case
+domain.</sentence> <sentence>here a set of shipping companies each of which controls a set
+of trucks has to execute client orders cooperatively.</sentence>
+<sentence>in both examples a scheduling problem has to be solved.</sentence> <sentence>in the first case
 a set of manufacturing orders has to be distributed to a set of
 machine tools and in the second case a set of transportation orders
-has to be distributed to a set of trucks. the talk will explain
+has to be distributed to a set of trucks.</sentence> <sentence>the talk will explain
 the design of the multi-agent solutions for these two applications
-and how the scheduling problem was solved in each case.</paragraph>
+and how the scheduling problem was solved in each case.</sentence></paragraph>
 
  host: for appointments with the speaker, please contact
        siegfried bocionek (bocionek+@a.gp.cs.cmu.edu, x5299)

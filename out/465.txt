@@ -2,55 +2,55 @@
 type:     cmu.cs.scs
 topic:    talk - jeff trinkle, texas a&m univ
 dates:    16-jun-95
-time:     3:00 pm
+time:     <stime>3:00 pm</stime>
 postedby: cae+ on 14-jun-95 at 14:10 from cae.adm.cs.cmu.edu (colleen a everett)
 abstract: 
 
 <paragraph>hosted by matt mason
 ---------------------------------------------------------------------------</paragraph>
 
-     complementarity formulations of multi-rigid-body contact problems
+     <sentence>complementarity formulations of multi-rigid-body contact problems
                          friday, june 16 at <stime>3:00pm</stime>
                                <location>wean hall 5409</location>
                                 jeff trinkle
-                         dept. of computer science
+                         dept.</sentence> of computer science
                             texas a&m university
                      college station, texas 77843-3112
                            email: trink@cs.tamu.edu
 
-<paragraph>i will present joint work with jong-shi pang and grace lo (johns hopkins
+<paragraph><sentence>i will present joint work with jong-shi pang and grace lo (johns hopkins
 university) and sandra sudarsky (texas a&m university) on the
 multi-rigid-body contact problem, which we state as follows:  given a set of
 bodies with multiple concurrent contacts, determine the instantaneous
-accelerations of the bodies and the contact forces (if possible).  the
-bodies are assumed to be rigid.  contacts are assumed to be distributed over
-locally planar patches (which may shrink to a point).  friction forces are
-assumed to obey the maximum work inequality.</paragraph>
+accelerations of the bodies and the contact forces (if possible).</sentence>  <sentence>the
+bodies are assumed to be rigid.</sentence>  <sentence>contacts are assumed to be distributed over
+locally planar patches (which may shrink to a point).</sentence>  <sentence>friction forces are
+assumed to obey the maximum work inequality.</sentence></paragraph>
 
-<paragraph>several natural complementary relationships exists between the unknown
-contact forces and accelerations.  for example, the product of the normal
+<paragraph><sentence>several natural complementary relationships exists between the unknown
+contact forces and accelerations.</sentence>  <sentence>for example, the product of the normal
 components of the contact force and relative acceleration at a contact must
-be zero.  we have formulated the general multi-rigid-body contact problem as
+be zero.</sentence>  <sentence>we have formulated the general multi-rigid-body contact problem as
 linear and nonlinear complementarity problems and employed tools from the
 theories of quasi-variational inequalities and complementarity problems to
-prove new existence and uniqueness results.  these new results apply as long
-as the friction model at each contact obeys the maximum work inequality.
-thus the results apply when contacts are assumed to be isolated points with
+prove new existence and uniqueness results.</sentence>  <sentence>these new results apply as long
+as the friction model at each contact obeys the maximum work inequality.</sentence>
+<sentence>thus the results apply when contacts are assumed to be isolated points with
 isotropic or anisotropic coulomb friction as well as the more general limit
-surface descriptions proposed by goyal and howe and cutkosky.</paragraph>
+surface descriptions proposed by goyal and howe and cutkosky.</sentence></paragraph>
 
 ____________________________________________________________________________
 
-<paragraph>jeffrey c. trinkle received his bachelor's degrees in physics (1979) and
+<paragraph><sentence>jeffrey c. trinkle received his bachelor's degrees in physics (1979) and
 engineering science and mechanics (1979) from ursinus college and georgia
-institute of technology, respectively.  he was a member of the fiber
+institute of technology, respectively.</sentence>  <sentence>he was a member of the fiber
 composites group at lawrence livermore national laboratory for two and one
 half years before returning to graduate school in 1982.  in 1987, he
 received his phd from the department of systems engineering at the
-university of pennsylvania.  since 1987, he has held faculty positions in
+university of pennsylvania.</sentence>  <sentence>since 1987, he has held faculty positions in
 the department mechanical engineering at the university of wollongong near
 sydney, the department of systems and industrial engineering at the
 university of arizona, and the department of computer science at texas a&m
-university where he is currently an assistant professor.  dr. trinkle's
+university where he is currently an assistant professor.</sentence>  <sentence>dr. trinkle's
 primary research interests lie in the areas of robotic manipulation
-planning, multibody dynamics, and physically-based animation.</paragraph>
+planning, multibody dynamics, and physically-based animation.</sentence></paragraph>

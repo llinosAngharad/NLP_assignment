@@ -2,7 +2,7 @@
 type:     cmu.cs.scs
 topic:    logic colloquium
 dates:    6-feb-92
-time:     3:30
+time:     <stime>3:30</stime>
 host:     stephen d. brookes
 postedby: marian+ on 30-jan-92 at 13:39 from marian.adm.cs.cmu.edu (marian d'amico)
 abstract: 
@@ -10,30 +10,30 @@ abstract:
 *************************************************************************
 			  logic colloquium
 		        thursday february 6
-			   <stime>3:30 </stime><location>wean 5409</location>
+			   <stime>3:30</stime> <location>wean 5409</location>
 *************************************************************************
        	   on the mathematics of non-monotonic reasoning
 			  menachem magidor
 		   hebrew university of jerusalem
 	          (joint work with daniel lehman)
 
-<paragraph>non-monotonic reasoning is an attempt to develop reasoning systems
+<paragraph><sentence>non-monotonic reasoning is an attempt to develop reasoning systems
 where an inference means that the conclusion holds in the "normal case",
-in "most cases", but it does not necessarily hold in all cases. it seems 
+in "most cases", but it does not necessarily hold in all cases.</sentence> <sentence>it seems 
 that this type of reasoning is needed if one wants to model everyday
-common-sense reasoning. there have been many models suggested for
+common-sense reasoning.</sentence> <sentence>there have been many models suggested for
 non-monotonic reasoning (like circumscription, default logic, autoepistemic 
-logic, etc). we study all these approaches in a more abstract fashion by 
+logic, etc).</sentence> <sentence>we study all these approaches in a more abstract fashion by 
 considering the inference relation of the reasoning system, and clarify 
 the role of different inference rules and the impact they have on the 
-model theory of the logic. we are especially interested in a particular 
+model theory of the logic.</sentence> <sentence>we are especially interested in a particular 
 rule called "rational monotony" and the connection between it and 
-probabilistic models.</paragraph>
+probabilistic models.</sentence></paragraph>
 
- note: prof. magidor will also give a math department colloquium on friday
- february 7.
+ <sentence>note: prof. magidor will also give a math department colloquium on friday
+ february 7.</sentence>
 
 -------------------------
  host:  stephen d. brookes
 
-<paragraph>appointments can be made through marian d'amico, marian@cs, x7665.</paragraph>
+<paragraph><sentence>appointments can be made through marian d'amico, marian@cs, x7665.</sentence></paragraph>

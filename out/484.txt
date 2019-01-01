@@ -8,8 +8,8 @@ abstract:
 
 ---------------- begin forwarded message ----------------
 
-<paragraph>in article <+cmu.andrew.assocs.gso+ohf3hmi00ufaa0vfnd@andrew.cmu.edu>,
-tse-sung wu  writes:</paragraph>
+<paragraph><sentence>in article <+cmu.andrew.assocs.gso+ohf3hmi00ufaa0vfnd@andrew.cmu.edu>,
+tse-sung wu  writes:</sentence></paragraph>
 
 <paragraph>the next engineering & public policy departmental seminar will take place</paragraph>
 
@@ -22,38 +22,38 @@ tse-sung wu  writes:</paragraph>
 
                         **all are invited to attend**
 
-<paragraph>this paper estimates household reaction to the implemenation of a
-volume-based pricing program for the collecion of residential garbage. 
-we gather original data on weight and volume of weekly garbage and
+<paragraph><sentence>this paper estimates household reaction to the implemenation of a
+volume-based pricing program for the collecion of residential garbage.</sentence> 
+<sentence>we gather original data on weight and volume of weekly garbage and
 recycling of 75 households in charlottesville, virgina, both before and
 after the implementation of a program which requires an eighty-cent
-sticker on each bag of garbage.  this data set is the first of its kind.
- we estimate household demands for the collection of garbage and
+sticker on each bag of garbage.</sentence>  <sentence>this data set is the first of its kind.</sentence>
+ <sentence>we estimate household demands for the collection of garbage and
 recyclable material, the effect on the density of household garbage,
-and the amount of illegal dumping conducted by housholds.  we also employ
+and the amount of illegal dumping conducted by housholds.</sentence>  <sentence>we also employ
 a basic probit model to estimate the probability that a househod chooses
-each of several methods available to reduce their garbage.</paragraph>
+each of several methods available to reduce their garbage.</sentence></paragraph>
 
-<paragraph>in response to the implementation of this volume-based pricing program,
+<paragraph><sentence>in response to the implementation of this volume-based pricing program,
 we find that households (1) reduced the weight of their garbage by
 14.0%, (2) reduced the volume of garbage by 37.0% and (3) increased the
-weight of their recyclable materials by 15.7%.  we estimate that
+weight of their recyclable materials by 15.7%.</sentence>  <sentence>we estimate that
 additional illegal -- or at least suspicious -- disposal accounts for
 0.486 pounds per week per person in charlottesville, or 32% of the total
-reduction in garbage observed at the curb.</paragraph>
+reduction in garbage observed at the curb.</sentence></paragraph>
 
 <paragraph>refreshments
 ________
 also, please note the next seminar is scheduled for </paragraph>
 
-                          thursday, february 3, 1994
+                          <sentence>thursday, february 3, 1994
                                dr. daniel reed
                           post-doctoral researcher
-                               dept. of epp 
+                               dept.</sentence> of epp 
 
                            "predicting preferences"
 
-<paragraph>upcoming...</paragraph>
+<paragraph><sentence>upcoming...</sentence></paragraph>
 
 february 10: milind kandlikar, phd candidate, epp
 february 17: <speaker>lara wolfson</speaker>, phd candidate, statistics

@@ -9,5 +9,5 @@ ken forbus of northwestern university will give a seminar on
 
  "articulate virtual laboratories for engineering education"
 
-<paragraph>tomorrow (thursday) at 3pm in wean 4625.  the abstract will be
-posted when available.</paragraph>
+<paragraph><sentence>tomorrow (thursday) at 3pm in wean 4625.  the abstract will be
+posted when available.</sentence></paragraph>

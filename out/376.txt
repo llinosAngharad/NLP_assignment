@@ -1,27 +1,27 @@
 <0.18.9.92.08.29.10.tmeadows@resumix.portal.com (tim meadows).0>
 type:     cmu.cs.scs
 who:      <speaker>dr.ted adelson</speaker>-associate professor of vision science-
-          media laboratory and the dept. of brain and cognitive
+          media laboratory and the dept. <sentence>of brain and cognitive
           science - mit
-topic:    elemental measurements in vision.
-dates:    18-sep-92
+topic:    elemental measurements in vision.</sentence>
+<sentence>dates:    18-sep-92
 time:     <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
 place:    <location>baker hall - adamson wing</location>
 postedby: tmeadows on 18-sep-92 at 08:29 from resumix.portal.com (tim meadows)
-abstract: 
+abstract:</sentence> 
 
 <paragraph>ri seminar</paragraph>
 
- when:	friday, sept. 18, 1992; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
+ <sentence>when:	friday, sept. 18, 1992; <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
 	refreshments will be served by 3:15 pm
 
  where:	<location>baker hall - adamson wing</location>
 
  speaker:	<speaker>dr.ted adelson</speaker>-associate professor of vision science-
-     	media laboratory and the dept. of brain and cognitive
+     	media laboratory and the dept.</sentence> <sentence>of brain and cognitive
  	science - mit
 
- title:	elemental measurements in vision.
+ title:	elemental measurements in vision.</sentence>
 
  abstract:	posted earlier
 

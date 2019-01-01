@@ -15,19 +15,19 @@ abstract:
 			   <speaker>teruko mitamura</speaker>
 		    center for machine translation
 
-<paragraph>			 tuesday, november 24
+<paragraph>			 <sentence>tuesday, november 24
 			   <stime>4:00 pm</stime> <location>ucc 279</location>
 large-scale knowledge-based machine translation requires significant
 amounts of lexical knowledge in order to map syntactic structures to
-conceptual structures. in my talk i will present a framework in which
+conceptual structures.</sentence> <sentence>in my talk i will present a framework in which
 lexical knowledge is separated into different levels of representation,
 arranged in a hierarchical model based on principles of knowledge
-representation and lexical semantics. the proposed methodology is
+representation and lexical semantics.</sentence> <sentence>the proposed methodology is
 language-independent, and has been used to organize lexical knowledge
-for both english and japanese.</paragraph>
+for both english and japanese.</sentence></paragraph>
 
-<paragraph>i will give a brief overview of the principles of lexical semantics
+<paragraph><sentence>i will give a brief overview of the principles of lexical semantics
 and frame-based knowledge representation as they relate to lexical
 structures for practical mt, and illustrate how the proposed framework
 will be used in the kant system to organize lexical entries and
-mapping rules for large-scale applications.</paragraph>
+mapping rules for large-scale applications.</sentence></paragraph>

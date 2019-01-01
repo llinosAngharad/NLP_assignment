@@ -24,24 +24,24 @@ abstract:
 			   <speaker>tim griffin</speaker>
       		      at&t bell laboratories</paragraph>
 
-<paragraph>	there are many examples in the literature of mathematical 
+<paragraph>	<sentence>there are many examples in the literature of mathematical 
 	logic concerning the interpretation of one logical system 
-	in another. from a perspective informed by the 
+	in another.</sentence> <sentence>from a perspective informed by the 
 	formulae-as-types correspondence, it is natural to 
 	investigate logical interpretations from a computational 
-	point of view.     of particular interest are logical 
+	point of view.</sentence>     <sentence>of particular interest are logical 
 	interpretations that can be associated with simulations 
-	of one computational system in another. </paragraph>
+	of one computational system in another.</sentence> </paragraph>
 
-<paragraph>	the talk surveys several results of this kind, including 
+<paragraph>	<sentence>the talk surveys several results of this kind, including 
 	interpretations of classical logic in constructive logic 
 	that can be associated with ``continuation passing style'' 
-	transformations. these transformations simulate a functional 
+	transformations.</sentence> <sentence>these transformations simulate a functional 
 	language extended with control operators in a purely 
-	functional language. 	</paragraph>
+	functional language.</sentence> 	</paragraph>
 
- note: <speaker>tim griffin</speaker> will be here thursday afternoon and all day friday 6 dec.
+ <sentence>note: <speaker>tim griffin</speaker> will be here thursday afternoon and all day friday 6 dec.
 
- appointments:  please contact marian d'amico (marian@cs).
+ appointments:  please contact marian d'amico (marian@cs).</sentence>
 
-furtherdetails:    please contact marian d'amico (marian@cs).
+<sentence>furtherdetails:    please contact marian d'amico (marian@cs).</sentence>

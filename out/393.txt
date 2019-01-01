@@ -8,13 +8,13 @@ abstract:
 
 <paragraph>		psc/cs seminar</paragraph>
 
-<paragraph>	the vpp 500 -- fujitsu's parallel processor
+<paragraph>	<sentence>the vpp 500 -- fujitsu's parallel processor
 			ken miura
-		fujitsu america, inc.</paragraph>
+		fujitsu america, inc.</sentence></paragraph>
 
-	4:00 p.m., 3rd floor conference room
+	<stime>4:00 p.m.</stime>, 3rd floor conference room
 		   mellon institute bldg
 
 -------
-no abstract is available at this time.  a list of future seminars will be
-posted in the near future.
+no abstract is available at this time.  <sentence>a list of future seminars will be
+posted in the near future.</sentence>

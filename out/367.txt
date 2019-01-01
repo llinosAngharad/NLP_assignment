@@ -13,22 +13,22 @@ included below are descriptions of:
 - ongoing reading/discussion group
 - documentation of teaching development program 
 
-<paragraph>the combination of activities below is designed to assist both current
+<paragraph><sentence>the combination of activities below is designed to assist both current
 tas and those preparing for future academic positions involving
-teaching.  pre-registration is required; please see the reverse side for
-registration instructions.  additional copies of this schedule are
+teaching.</sentence>  <sentence>pre-registration is required; please see the reverse side for
+registration instructions.</sentence>  <sentence>additional copies of this schedule are
 available on org.utc.teaching, assocs.gso, many department bboards, and
-also by calling x8-2896.</paragraph>
+also by calling x8-2896.</sentence></paragraph>
 
 <paragraph>seminars on teaching</paragraph>
 
-<paragraph>planning effective lectures 
+<paragraph><sentence>planning effective lectures 
   wednesday, february 1, <stime>4:15 </stime>- <etime>6:15 pm</etime>, carnegie conference room, warner hall
 even though all of us have observed hundreds of lectures as students,
 the process of preparing an effective lecture is anything but
-transparent.  how much material should be presented?  how can an
-instructor keep students' attention?  how can instructors tell if
-students understand the material?  by examining brief videotape excerpts
+transparent.</sentence>  <sentence>how much material should be presented?</sentence>  <sentence>how can an
+instructor keep students' attention?</sentence>  <sentence>how can instructors tell if
+students understand the material?</sentence>  <sentence>by examining brief videotape excerpts
 of successful cmu faculty, participants in this seminar will examine the
-numerous factors bearing on how lectures can be most effective.  this
-seminar counts toward the documentation of teaching development program.</paragraph>
+numerous factors bearing on how lectures can be most effective.</sentence>  <sentence>this
+seminar counts toward the documentation of teaching development program.</sentence></paragraph>

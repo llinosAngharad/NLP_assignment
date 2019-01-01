@@ -15,42 +15,42 @@ abstract:
                 ibm t. j. watson research center
         title:  medical robotics: a step toward computer integrated medicine
          date:  march 22, 1991
-         time:  3:30 p.m. until 4:30 p.m.
+         time:  <stime>3:30 p.m.</stime> until 4:30 p.m.
      location:  <location>baker hall, adamson wing</location>
          host:  michael erdmann, x7883
  appointments:  l.r.adkins-shellie@cs
 
-<paragraph>recent advances in medical imaging technology (ct, mri, pet, etc.), coupled
+<paragraph><sentence>recent advances in medical imaging technology (ct, mri, pet, etc.</sentence>), coupled
 with advances in computer-based image processing and modelling capabilities
 have given physicians an unprecedented ability to visualize anatomical
 structures in live patients, and to use this information in diagnosis and
-treatment planning.  the precision of image-based pre-surgical planning often
-greatly exceeds that of surgical execution.  typically, precise surgical
+treatment planning.  <sentence>the precision of image-based pre-surgical planning often
+greatly exceeds that of surgical execution.</sentence>  <sentence>typically, precise surgical
 execution has been limited to procedures (such as brain biopsies) for which a
-suitable stereotactic frame is available.  the inconvenience and restricted
+suitable stereotactic frame is available.</sentence>  <sentence>the inconvenience and restricted
 applicability of these devices has led many researchers to explore the use of
 robots to augment a surgeon's ability to perform geometrically precise tasks
-planned from computed tomography (ct) or other image data.  in many cases, the
-robot acts essentially as a replacement for a stereotactic frame.  other
-applications require active robot motion during surgery.  for example,
+planned from computed tomography (ct) or other image data.</sentence>  <sentence>in many cases, the
+robot acts essentially as a replacement for a stereotactic frame.</sentence>  <sentence>other
+applications require active robot motion during surgery.</sentence>  <sentence>for example,
 researchers at ibm and the university of california at davis have developed an
 image directed robotic system for orthopaedic bone machining applications,
-aimed initially at cementless total hip replacements.  this system provides an
+aimed initially at cementless total hip replacements.</sentence>  <sentence>this system provides an
 order-of-magnitude improvement in implant fit and placement accuracy, compared
-to standard manual preparation techniques.  a clinical trial in dogs needing
-such surgery is underway.</paragraph>
+to standard manual preparation techniques.</sentence>  <sentence>a clinical trial in dogs needing
+such surgery is underway.</sentence></paragraph>
 
-<paragraph>these applications may be viewed as first steps in the evolution of a much
+<paragraph><sentence>these applications may be viewed as first steps in the evolution of a much
 more active partnership coupling the judgement and dexterity of human
 surgeons, the image processing, modelling, and analytical computational
 capabilities of computers, and the precision and controllability of robotic
 devices to perform many surgical tasks with greater efficacy than present
-practice permits.</paragraph>
+practice permits.</sentence></paragraph>
 
-<paragraph>this talk will discuss the research issues and opportunities associated with
+<paragraph><sentence>this talk will discuss the research issues and opportunities associated with
 the development of such systems, and will illustrate important themes with
 examples drawn from our own research on precise orthopaedic surgery and from
-that of other researchers.</paragraph>
+that of other researchers.</sentence></paragraph>
 
 ----------
 refreshments will be served from 3:15-3:30.  

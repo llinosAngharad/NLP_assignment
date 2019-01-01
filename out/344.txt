@@ -2,7 +2,7 @@
 type:     cmu.cs.robotics
 topic:    theory seminar, feb. 14, 1992
 dates:    14-feb-92
-time:     3:30 pm
+time:     <stime>3:30 pm</stime>
 postedby: tmeadows on 11-feb-92 at 16:00 from frc2.frc.ri.cmu.edu (tim meadows)
 abstract: 
 
@@ -11,17 +11,17 @@ abstract:
 in many applications such as geometric modeling and data compression, 
 there arises the need to construct sparse approximations to discrete 
 or piecewise linear curves and functions.
-we consider such approximations with respect to several distance measures:
+<sentence>we consider such approximations with respect to several distance measures:
 the chebyshev distance for functions, and the hausdorff distance and
-parametric distance for curves.
-the parametric distance aims to eliminate the unintuitive consequences of
+parametric distance for curves.</sentence>
+<sentence>the parametric distance aims to eliminate the unintuitive consequences of
 the hausdorff distance arising from its treatment of a curve as a set of
-points rather than as the locus of a point.
-intuitively, the parametric distance p(a,b) between two curves a and b
+points rather than as the locus of a point.</sentence>
+<sentence>intuitively, the parametric distance p(a,b) between two curves a and b
 is the length  of the shortest leash required if you were to
-walk along curve a, and your dog walked along curve b, without backing up.
-we present efficient algorithms for several problems in this context,
-and state some open problems.
+walk along curve a, and your dog walked along curve b, without backing up.</sentence>
+<sentence>we present efficient algorithms for several problems in this context,
+and state some open problems.</sentence>
 
-<paragraph>joint work with j. ruppert of the university of california, berkeley.
+<paragraph><sentence>joint work with j. ruppert of the university of california, berkeley.</sentence>
 ***********************************************************************</paragraph>

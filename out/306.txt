@@ -24,19 +24,19 @@ abstract:
                         <speaker>jerome feldman</speaker>
          international computer science institute and uc berkeley
 
-<paragraph>psather is a set of parallel and distributed extensions to the
-object-oriented serial language sather. after some years of internal
+<paragraph><sentence>psather is a set of parallel and distributed extensions to the
+object-oriented serial language sather.</sentence> <sentence>after some years of internal
 experience with implementations and applications, the psather 1.0 system is
-being developed for portability and general distribution.  psather addresses
+being developed for portability and general distribution.</sentence>  <sentence>psather addresses
 numa architectures such as networks of workstations, but provides a relaxed
-consistency shared-memory model to the programmer. a goal of the language is
+consistency shared-memory model to the programmer.</sentence> <sentence>a goal of the language is
 to suport the construction of efficient reusable classes in which the
-parallelism is implicit to the user.  explicit language support is provided
+parallelism is implicit to the user.</sentence>  <sentence>explicit language support is provided
 for objects spread over nodes at the same local address and for parallel and
-distributed control regimes.  a distinguished class gate generalizes
+distributed control regimes.</sentence>  <sentence>a distinguished class gate generalizes
 previous low-level synchronization mechanisms such as locks, futures and
-conditions.  the object-orientation of psather allows users to define other
+conditions.</sentence>  <sentence>the object-orientation of psather allows users to define other
 synchronization classes which are easy to use, safe, fair, and difficult to
-deadlock.  object-orientation also facilitates the construction of efficient
+deadlock.</sentence>  <sentence>object-orientation also facilitates the construction of efficient
 scalable data structures by allowing reuse of serial code distributed over
-the system without an implicit synchronization penalty.</paragraph>
+the system without an implicit synchronization penalty.</sentence></paragraph>

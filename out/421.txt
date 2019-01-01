@@ -2,7 +2,7 @@
 type:     cmu.cs.scs
 topic:    mse end-of-semester presentation
 dates:    3-dec-93
-time:     <stime>11:00 am</stime> - <etime>12:00 </etime>pm
+time:     <stime>11:00 am</stime> - <etime><etime>12:00 </etime>pm</etime>
 postedby: marcos on 1-dec-93 at 00:02 from gs100.sp.cs.cmu.edu (marco j schumacher)
 abstract: 
 
@@ -16,23 +16,23 @@ abstract:
 			    sei auditorium
 		december 3 from <stime>11:00 am</stime> to <etime>12:00 </etime>noon
 the mse 92-93 studio team will present a final review of its t2 project,
-the development of software for the tessellator robot. the tessellator 
+the development of software for the tessellator robot. <sentence>the tessellator 
 is designed by the field robotics center to service the tiles of nasa's
-space shuttles. the t2 team contributes the positioning system for the
-robot's manipulator and part of the high-level controller. 
+space shuttles.</sentence> <sentence>the t2 team contributes the positioning system for the
+robot's manipulator and part of the high-level controller.</sentence> 
 
 the presentation will cover two topics:
 
 1. project summary
 
-<paragraph>   this part will describe the tessellator project and highlight the 
-   t2 team's contributions.</paragraph>
+<paragraph>   <sentence>this part will describe the tessellator project and highlight the 
+   t2 team's contributions.</sentence></paragraph>
 
 <paragraph>2. requirements engineering</paragraph>
 
-<paragraph>   this part will focus on an area the t2 team considers to be crucial
-   in software development: requirements engineering. the presentation
+<paragraph>   <sentence>this part will focus on an area the t2 team considers to be crucial
+   in software development: requirements engineering.</sentence> <sentence>the presentation
    will discuss the challenges faced by the team and the methods (such
-   as formal specification and peer reviews) used to tackle the problems. </paragraph>
+   as formal specification and peer reviews) used to tackle the problems.</sentence> </paragraph>
 
 -----

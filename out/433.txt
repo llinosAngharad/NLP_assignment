@@ -9,7 +9,7 @@ abstract:
            computer systems/pgh supercomputing center seminars
                             spring '94 list
 
-<paragraph>these seminars will be posted separately as the date approaches.</paragraph>
+<paragraph><sentence>these seminars will be posted separately as the date approaches.</sentence></paragraph>
 
 <paragraph>march 25</paragraph>
 

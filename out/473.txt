@@ -2,11 +2,11 @@
 type:     cmu.cs.scs
 topic:    networks class/dqdb talk
 dates:    16-mar-92
-time:     1:30
+time:     <stime>1:30</stime>
 postedby: alf+ on 13-mar-92 at 08:21 from n3.sp.cs.cmu.edu (allan fisher)
 abstract: 
 
-monday the 16th, <stime>1:30 </stime>in 5409:
+monday the 16th, <stime><stime>1:30</stime> </stime>in 5409:
 	bandwidth balancing and priority mechanism
 	in a dqdb man --- problems and solutions
 

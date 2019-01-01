@@ -19,31 +19,31 @@ abstract:
                               monday, november 18
                               <stime>4:00 pm</stime>,  wean 4605
 reconfigurable learning machines are embodiments of the evolving transformation
-systems (ets), a new mathematical model proposed resently by the speaker. the
+systems (ets), a new mathematical model proposed resently by the speaker. <sentence>the
 development of the ets was motivated by the unification of the two basic
 analytical paradigms, continuous and discrete: one, in which the objects are
 represented as elements of a finite-dimensional vector space, and the other,
-in which the objects are represented as strings, trees,etc. within the first
+in which the objects are represented as strings, trees,etc.</sentence> <sentence>within the first
 paradigm, very efficient learning algorithms have been developed, mainly due
-to the presence of the classical continuous structure (on the vector space).
-the second paradigm offers in some sense a more satisfactory object description
+to the presence of the classical continuous structure (on the vector space).</sentence>
+<sentence>the second paradigm offers in some sense a more satisfactory object description
 that can be linked more naturally to various propositional object (class)
-descriptions.  neural nets and other classical pattern recognition systems
+descriptions.</sentence>  <sentence>neural nets and other classical pattern recognition systems
 belong to the first paradigm, while examples of the systems that belong to the
 second paradigm are syntactic (based on the generative grammars) learning
-systems as well as the version space based systems.
+systems as well as the version space based systems.</sentence>
 
-<paragraph>ets represents a fundamentally new learning model, in which in the classical
+<paragraph><sentence>ets represents a fundamentally new learning model, in which in the classical
 production system (transformation system, ts) a very natural competing family
 of distance functions is introduced: a nonnegative weight is assigned to each
 production and the distance between two objects is defined as the length of
 the shortest weighted sequence of productions necessary to transform one object
-into the other. during learning, which is an optimization process, one or
-several of these distances (i.e. the corresponding weight vectors) inducing
-appropriate metric structures in the set of all objects is selected. however,
+into the other.</sentence> <sentence>during learning, which is an optimization process, one or
+several of these distances (i.e.</sentence> <sentence>the corresponding weight vectors) inducing
+appropriate metric structures in the set of all objects is selected.</sentence> <sentence>however,
 the critical feature of the ets is the possibility of efficient modification
 of the current set of productions in the ts during learning, thus generating
 an evolving sequence of ts, each providing more accurate means for both the
-learning class recognition and description.</paragraph>
+learning class recognition and description.</sentence></paragraph>
 
  host: <speaker>tom mitchell</speaker>                 appointments: jean harpley, x3802, jean@cs

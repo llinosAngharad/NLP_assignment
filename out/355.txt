@@ -23,4 +23,4 @@ abstract:
  place:   <location>wean hall 4625</location>
  title:   radargrammetric processing of magellan images of the planet venus
 
-<paragraph>see previous post for full abstract.</paragraph>
+<paragraph><sentence>see previous post for full abstract.</sentence></paragraph>

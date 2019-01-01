@@ -2,7 +2,7 @@
 type:     cmu.cs.robotics.students
 topic:    financial aid seminar this thursday
 dates:    6-apr-95
-time:     <stime>4:30 </stime>- <etime>6:30 pm</etime>
+time:     <stime>4:30</stime> - <etime>6:30 pm</etime>
 place:    <location>adamson wing, baker hall</location>
 postedby: os22+ on 6-apr-95 at 20:03 from andrew.cmu.edu (<paragraph>oliver</paragraph> schulte)
 abstract: 
@@ -10,18 +10,18 @@ abstract:
 
 student aid: what there is and how to get it
 
-<paragraph>as part of national graduate awareness week, gso presents an information
-seminar on graduate student loans.</paragraph>
+<paragraph><sentence>as part of national graduate awareness week, gso presents an information
+seminar on graduate student loans.</sentence></paragraph>
 
-<paragraph>dave gould from the financial aid office will give an overview of
+<paragraph><sentence>dave gould from the financial aid office will give an overview of
 federal loan programs, explain eligibility criteria and application
-procedures, and answer any questions you may have.</paragraph>
+procedures, and answer any questions you may have.</sentence></paragraph>
 
- time: thursday, april 6, 4:30-<etime>6:30 p.m.</etime>
+ <sentence>time: thursday, april 6, <stime>4:30</stime>-<etime>6:30 p.m.</etime>
 
  place: <location>adamson wing, baker hall</location>
 
-gso reps: please distribute this announcement in your department.
+gso reps: please distribute this announcement in your department.</sentence>
 
 <paragraph>oliver</paragraph>
 

@@ -17,40 +17,40 @@ abstract:
            the university of tokyo
  title:    dexterity and intelligence in robotic systems
  date:     april 5, 1991
- time:     3:30 p.m. until 4:30 p.m.
+ time:     <stime>3:30 p.m.</stime> until 4:30 p.m.
  location: <location>baker hall, adamson wing</location>
  host:     michael erdmann, x7883
 
-<paragraph>there are many kinds of dexterous tasks which can be done easily by skilled
-persons, but which cannot be clearly expressed by algorithms.  when
+<paragraph><sentence>there are many kinds of dexterous tasks which can be done easily by skilled
+persons, but which cannot be clearly expressed by algorithms.</sentence>  <sentence>when
 attempting to apply robots to these kinds of tasks, one finds that it is
-very difficult to write control programs for robots.</paragraph>
+very difficult to write control programs for robots.</sentence></paragraph>
 
-<paragraph>i will discuss the dynamics and control of intelligent robots, for such
-dexterous tasks, which have been developed in our laboratory. these robots
- include: </paragraph>
+<paragraph><sentence>i will discuss the dynamics and control of intelligent robots, for such
+dexterous tasks, which have been developed in our laboratory.</sentence> <sentence>these robots
+ include:</sentence> </paragraph>
 
-<paragraph> 	a cup and ball game playing robot(kendama robot),
+<paragraph> 	<sentence>a cup and ball game playing robot(kendama robot),
  	a top-spinning robot(komamawashi robot),
  	a stilts-type biped robot(takeuma robot),
  	a quadruped robot,
- 	and learning control of inverted pendulum.</paragraph>
+ 	and learning control of inverted pendulum.</sentence></paragraph>
 
-<paragraph>through these systems, we try to demonstrate how one can write control
-programs for intelligent robots.</paragraph>
+<paragraph><sentence>through these systems, we try to demonstrate how one can write control
+programs for intelligent robots.</sentence></paragraph>
 
-<paragraph>an example of intelligent control for dexterous robots is our top-spinning
-robot system.  i am able to spin a top, yet i can not explain "how" i can
-spin a top. my brother showed me how to spin a top, and i learned the ropes
-(kotsu in japanese) of top-spinning by myself.  [my brother simply told me
+<paragraph><sentence>an example of intelligent control for dexterous robots is our top-spinning
+robot system.</sentence>  <sentence>i am able to spin a top, yet i can not explain "how" i can
+spin a top.</sentence> <sentence>my brother showed me how to spin a top, and i learned the ropes
+(kotsu in japanese) of top-spinning by myself.</sentence>  [my brother simply told me
 "wind a string on a top, hold one end of a string, throw a top and draw back 
-a string at a good timing".]  our robot system learns the ropes of 
+a string at a good timing".]  <sentence>our robot system learns the ropes of 
 top-spinning by obvserving a human performing the action through video camera 
-and creates the control program to spin the top based on the observation.  
-our robot is able to spin a top successfully. </paragraph>
+and creates the control program to spin the top based on the observation.</sentence>  
+<sentence>our robot is able to spin a top successfully.</sentence> </paragraph>
 
-<paragraph>in the talk, video demonstrations of several of our robot systems will be
-presented.</paragraph>
+<paragraph><sentence>in the talk, video demonstrations of several of our robot systems will be
+presented.</sentence></paragraph>
 
 ----------
 refreshments will be served from 3:15-3:30.  

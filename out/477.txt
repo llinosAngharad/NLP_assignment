@@ -5,8 +5,8 @@ topic:    special ps seminar 4/26
 dates:    16-apr-92
 time:     <stime>2:00 pm</stime>
 place:    <location>weh 4623</location>
-host:     peter lee.  if you would like an appointment with the speaker,
-          please contact michelle@cs.
+host:     peter lee.  <sentence>if you would like an appointment with the speaker,
+          please contact michelle@cs.</sentence>
 postedby: petel+ on 14-apr-92 at 15:06 from sticky.mess.cs.cmu.edu (peter lee)
 abstract: 
 
@@ -23,36 +23,36 @@ abstract:
                       amherst, massachusetts  01003
                             moss@cs.umass.edu
 
-<paragraph>in the course of implementing two languages simultaneously, we recently faced
-the prospect of building two garbage collectors. we turned laziness into a
+<paragraph><sentence>in the course of implementing two languages simultaneously, we recently faced
+the prospect of building two garbage collectors.</sentence> <sentence>we turned laziness into a
 virtue and considered the problem of designing a framework and garbage
 collector components that could be used in more than one language
-implementation. this resulted in the language independent garbage collector
+implementation.</sentence> <sentence>this resulted in the language independent garbage collector
 toolkit, which offers very flexible generation scavenging with a variety of
-write barrier (store check) implementations. this talk will present the design
+write barrier (store check) implementations.</sentence> <sentence>this talk will present the design
 of the toolkit, explain its sources of flexibility, and indicate where and how
 the toolkit relies on the language implementation for language specific
-support. the toolkit does not impose any particular format on heap allocated
+support.</sentence> <sentence>the toolkit does not impose any particular format on heap allocated
 objects, pointers, or stacks; nor does it mandate any specific approach to
-implementing the write barrier. we have implemented the toolkit, and use it in
-our smalltalk implementation. we are currently building implementations of
-modula-3 and standard ml using the toolkit.</paragraph>
+implementing the write barrier.</sentence> <sentence>we have implemented the toolkit, and use it in
+our smalltalk implementation.</sentence> <sentence>we are currently building implementations of
+modula-3 and standard ml using the toolkit.</sentence></paragraph>
 
-<paragraph>our approach requires accurate identification of pointers (versus non-pointer
-quantities), and the ability to move objects. we have designed and implemented
+<paragraph><sentence>our approach requires accurate identification of pointers (versus non-pointer
+quantities), and the ability to move objects.</sentence> <sentence>we have designed and implemented
 the compiler extensions necessary to support accurate garbage collection in
 the face of modern compiler optimizations for statically typed imperative
-languages such as modula-3. we have also devised a new technique called mature
+languages such as modula-3.</sentence> <sentence>we have also devised a new technique called mature
 object space for insuring short collector pause times while guaranteeing
 eventual collection of large generations, i.e., generations that cannot be
-processed during one pause. finally, we have some performance measurements of
+processed during one pause.</sentence> <sentence>finally, we have some performance measurements of
 various write barrier implementations on a small suite of smalltalk
-benchmarks. beyond presenting the toolkit, we will discuss the compiler
+benchmarks.</sentence> <sentence>beyond presenting the toolkit, we will discuss the compiler
 extensions, mature object space, and the write barrier results as time
-permits.</paragraph>
+permits.</sentence></paragraph>
 
-collaborators in this work include: amer diwan, tony hosking, rick hudson, and
-darko stefanovic.
+<sentence>collaborators in this work include: amer diwan, tony hosking, rick hudson, and
+darko stefanovic.</sentence>
 
- host: peter lee.  if you would like an appointment with the speaker,
- please contact michelle@cs.
+ <sentence>host: peter lee.</sentence>  <sentence>if you would like an appointment with the speaker,
+ please contact michelle@cs.</sentence>

@@ -6,17 +6,17 @@ time:     <stime>3:00 pm</stime>
 postedby: copetas+ on 16-oct-92 at 13:51 from gandalf.cs.cmu.edu (catherine copetas)
 abstract: 
 
-<paragraph>homecoming celebrations begin today! welcome back alumni!</paragraph>
+<paragraph><sentence>homecoming celebrations begin today!</sentence> <sentence>welcome back alumni!</sentence></paragraph>
 
-<paragraph>what better way to spend a slightly rainy afternoon than with a 
-stimulating lecture. as part of the weekend programming, scs is hosting
+<paragraph><sentence>what better way to spend a slightly rainy afternoon than with a 
+stimulating lecture.</sentence> <sentence>as part of the weekend programming, scs is hosting
 a homecoming lecture today (friday) for alumni and other interested
-individuals. the featured speaker is:</paragraph>
+individuals.</sentence> <sentence>the featured speaker is:</sentence></paragraph>
 
-<paragraph>			doug tygar
+<paragraph>			<sentence>doug tygar
 		     associate professor
 	"the rise and fall of the data encryption standard"
 		   friday, 16 october 1992
  			  <stime>3:00 pm</stime>
 			<location>wean 7500</location>
-enjoy....</paragraph>
+enjoy....</sentence></paragraph>

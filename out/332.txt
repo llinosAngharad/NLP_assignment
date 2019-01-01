@@ -8,4 +8,4 @@ abstract:
 
 the time and place for the max donath talk, "scarecrow: behavioral control of
 mobile robots based on reflexive models", has been moved to <stime>1:30 </stime>to <etime>3:00 pm</etime>
-in <location>wean 4623</location>.  the date is unchanged, tomorrow, 10/10/91.
+in <location>wean 4623</location>.  <sentence>the date is unchanged, tomorrow, 10/10/91.</sentence>

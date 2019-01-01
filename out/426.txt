@@ -2,32 +2,32 @@
 type:     cmu.cs.scs
 topic:    hci seminar 1/26
 dates:    26-jan-94
-time:     <stime>3:30 </stime>- <etime>5:00</etime>
+time:     <stime>3:30</stime> - <etime>5:00</etime>
 postedby: dean rubine on 21-jan-94 at 18:58 from andrew.cmu.edu
 abstract: 
 
 <paragraph>wednesday, january 26
-3:30-5
+<stime>3:30</stime>-5
 <location>weh 5409</location>
           the role of visual fidelity in instructional simulations</paragraph>
 
                                <speaker>michael christel</speaker>
                                mac@sei.cmu.edu
 
-<paragraph>the software engineering institute made use of digital video in developing an
+<paragraph><sentence>the software engineering institute made use of digital video in developing an
 interactive course teaching code inspections, a formalized group process for
-finding defects in software code.  this course, titled "a cure for the common
+finding defects in software code.</sentence>  <sentence>this course, titled "a cure for the common
 code", is interactive in that the student not only learns about but also
-participates in code inspections.</paragraph>
+participates in code inspections.</sentence></paragraph>
 
-<paragraph>digital video systems offer a wide spectrum of interface capabilities,
+<paragraph><sentence>digital video systems offer a wide spectrum of interface capabilities,
 allowing the fidelity of "a cure for the common code" to vary from that of a
 home arcade game with simple graphics and slide show presentations to a
-visually rich display complete with full motion video.  photographic
+visually rich display complete with full motion video.</sentence>  <sentence>photographic
 images of an office setting and professional video of actors playing the
 roles of fellow workers can make the learning environment both engaging
-and realistic to the student.  however, is there any instructional
-benefit to increasing the visual fidelity of the environment?  "a cure
+and realistic to the student.</sentence>  <sentence>however, is there any instructional
+benefit to increasing the visual fidelity of the environment?</sentence>  "a cure
 for the common code" was used in a formal experiment to address this
 question, and more specifically to address the following:</paragraph>
 
@@ -38,12 +38,12 @@ question, and more specifically to address the following:</paragraph>
     point-and-click navigation interface, have any effect on student 
     recall and perception of presented material?
 
-<paragraph>this talk will briefly overview the code inspection course, and then discuss
-the results of the formal experiment concerning visual fidelity in interfaces.</paragraph>
+<paragraph><sentence>this talk will briefly overview the code inspection course, and then discuss
+the results of the formal experiment concerning visual fidelity in interfaces.</sentence></paragraph>
 
-<paragraph>this work is among the first to explore the unique interface opportunities
+<paragraph><sentence>this work is among the first to explore the unique interface opportunities
 which digital video offers, and a set of guidelines will be proposed based
-upon this research.</paragraph>
+upon this research.</sentence></paragraph>
 
                           <speaker>michael christel</speaker>
 
@@ -56,20 +56,20 @@ upon this research.</paragraph>
                                  mac@sei.cmu.edu
 
 <speaker>michael christel</speaker> has been a member of the technical staff at the software
-engineering institute for the past six years.  from 1987 to 1990 he worked on
+engineering institute for the past six years.  <sentence>from 1987 to 1990 he worked on
 the advanced learning technologies (alt) project at the sei, creating a
-digital video code inspection course.  he has since worked on projects
+digital video code inspection course.</sentence>  <sentence>he has since worked on projects
 exploring the use of multimedia for requirements elicitation, and improving
 the utility of large multimedia databases for both software engineering tools
-and training.  christel has authored numerous papers on the alt project,
+and training.</sentence>  christel has authored numerous papers on the alt project,
 multimedia, and software engineering, including articles on the use of digital
 
-<paragraph>video and rule bases for training simulations, and the implementation of
-virtual reality systems on personal computers.  he has given a number of
+<paragraph><sentence>video and rule bases for training simulations, and the implementation of
+virtual reality systems on personal computers.</sentence>  <sentence>he has given a number of
 invited talks on digital video, multimedia for software engineering
-instruction, and multimedia interface issues.  christel received his ph.d.
+instruction, and multimedia interface issues.</sentence>  <sentence>christel received his ph.d.
 from the georgia institute of technology in the area of human computer
 interaction, focusing on practical implications for the development of
-multimedia interfaces for educational applications.</paragraph>
+multimedia interfaces for educational applications.</sentence></paragraph>
 
 ----------------

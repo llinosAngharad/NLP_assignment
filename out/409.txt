@@ -6,41 +6,41 @@ time:     <stime>11:50</stime>
 postedby: garth+ on 7-sep-93 at 17:52 from niagara.nectar.cs.cmu.edu (garth gibson)
 abstract: 
 
-<paragraph>at the end of tomorrow morning's sw engineering ic session
+<paragraph><sentence>at the end of tomorrow morning's sw engineering ic session
 we will have one additional speaker, steve lucco, who is a
-recent faculty hire due to arrive full time next spring.
-steve will be presenting a brief sketch of the following
+recent faculty hire due to arrive full time next spring.</sentence>
+<sentence>steve will be presenting a brief sketch of the following
 interesting work that was not covered in his interview talk
-last spring.</paragraph>
+last spring.</sentence></paragraph>
 
-he speaks promptly at <stime>11:50</stime> until 12:00 in <location>wean 5409</location>.
+<sentence>he speaks promptly at <stime><stime>11:50</stime> </stime>until 12:00 in <location>wean 5409</location>.</sentence>
 ---------------
 
 practical data breakpoints: design and implementation
 
-<paragraph>a data breakpoint associates debugging actions with
+<paragraph><sentence>a data breakpoint associates debugging actions with
 programmer-specified conditions on the memory state of an executing
-program.  data breakpoints provide a means for discovering program
+program.</sentence>  <sentence>data breakpoints provide a means for discovering program
 bugs that are tedious or impossible to isolate using control
-breakpoints alone.  in practice, programmers rarely use data
+breakpoints alone.</sentence>  <sentence>in practice, programmers rarely use data
 breakpoints, because they are either unimplemented or prohibitively
-slow in available debugging software.  in this talk, i'll present the
-design and implementation of a practical data breakpoint facility.</paragraph>
+slow in available debugging software.</sentence>  <sentence>in this talk, i'll present the
+design and implementation of a practical data breakpoint facility.</sentence></paragraph>
 
-<paragraph>a data breakpoint facility must monitor all memory updates performed
-by the program being debugged.  we implemented and evaluated two
+<paragraph><sentence>a data breakpoint facility must monitor all memory updates performed
+by the program being debugged.</sentence>  <sentence>we implemented and evaluated two
 complementary techniques for reducing the overhead of monitoring
-memory updates.  first, we checked write instructions by inserting
-checking code directly into the program being debugged.  the checks
+memory updates.</sentence>  <sentence>first, we checked write instructions by inserting
+checking code directly into the program being debugged.</sentence>  <sentence>the checks
 use a segmented bitmap data structure that minimizes address lookup
-complexity.  second, we developed data flow algorithms that eliminate
-checks on some classes of write instructions.</paragraph>
+complexity.</sentence>  <sentence>second, we developed data flow algorithms that eliminate
+checks on some classes of write instructions.</sentence></paragraph>
 
-<paragraph>we evaluated these techniques on a sparc-2 using the spec
-benchmarks.  checking each write instruction using a segmented bitmap
-achieved an average overhead of 42%.  this overhead is 
-independent of the number of breakpoints in use.  data flow analysis
-eliminated an average of 79% of the dynamic write checks.  for
+<paragraph><sentence>we evaluated these techniques on a sparc-2 using the spec
+benchmarks.</sentence>  <sentence>checking each write instruction using a segmented bitmap
+achieved an average overhead of 42%.</sentence>  <sentence>this overhead is 
+independent of the number of breakpoints in use.</sentence>  <sentence>data flow analysis
+eliminated an average of 79% of the dynamic write checks.</sentence>  <sentence>for
 scientific programs such the nas kernels, analysis reduced write
-checks by a factor of ten or more.  on the sparc-2 these optimizations
-reduced the average overhead to 27%.</paragraph>
+checks by a factor of ten or more.</sentence>  <sentence>on the sparc-2 these optimizations
+reduced the average overhead to 27%.</sentence></paragraph>

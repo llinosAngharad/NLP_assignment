@@ -23,82 +23,82 @@ abstract:
 * gain productivity through reuse
 * reduce costs
 
-<paragraph>to gain the competitive advantage in today's rapidly
+<paragraph><sentence>to gain the competitive advantage in today's rapidly
 changing business environment, you need to respond
-quickly to the market opportunities.  through object
+quickly to the market opportunities.</sentence>  <sentence>through object
 technology you can provide the flexibility needed for
-this market.  objects enable firms to deliver proprietary
+this market.</sentence>  <sentence>objects enable firms to deliver proprietary
 software solutions rapidly as well as integrate the
-entire operation with a client/server architecture.
-hewlett-packard can offer you a clear path to
+entire operation with a client/server architecture.</sentence>
+<sentence>hewlett-packard can offer you a clear path to
 object-based computing through products, programs,
-consulting, and solutions that are available today.</paragraph>
+consulting, and solutions that are available today.</sentence></paragraph>
 
-<paragraph>learn first hand.
-hewlett-packard will broadcast through ntu (national technology
-university) a special event focusing on object-oriented technology.
-this telebroadcast will feature key speakers from hp laboratories as
+<paragraph><sentence>learn first hand.</sentence>
+<sentence>hewlett-packard will broadcast through ntu (national technology
+university) a special event focusing on object-oriented technology.</sentence>
+<sentence>this telebroadcast will feature key speakers from hp laboratories as
 well as commercial examples of how an object technology is used in
-the telecommunications and financial industries.</paragraph>
+the telecommunications and financial industries.</sentence></paragraph>
 
-<paragraph>here are highlights of what you'll be hearing from some of the
- speakers:</paragraph>
+<paragraph><sentence>here are highlights of what you'll be hearing from some of the
+ speakers:</sentence></paragraph>
 
  <speaker>joel s. birnbaum</speaker>, ph.d
  senior vice president of research and development
  director, hewlett-packard laboratories
 
-<paragraph>dr. birnbaum's talk will set the stage for the rest of the ntu
-broadcast.  he will discuss how the first beneficiaries of
+<paragraph><sentence>dr. birnbaum's talk will set the stage for the rest of the ntu
+broadcast.</sentence>  <sentence>he will discuss how the first beneficiaries of
 object technology will be software developers;  objects help
 manage complexity, encourage reuse, and lead to better, more
-maintainable code. the promise of object technology is that
+maintainable code.</sentence> <sentence>the promise of object technology is that
 software designed to match the way people think will be easier
-to use and more useful.</paragraph>
+to use and more useful.</sentence></paragraph>
 
 <paragraph>jeff eastman, ph.d.
 consulting engineer, hewlett-packard
 software engineering systems division</paragraph>
 
-<paragraph>dr. eastman is the chief architect of hp's distributed
-smalltalk.  his presentation will discuss how distributed
+<paragraph><sentence>dr. eastman is the chief architect of hp's distributed
+smalltalk.</sentence>  <sentence>his presentation will discuss how distributed
 systems are inherently object-oriented;  thus, it is natural to
-use object technology in their design and implementation.  the
+use object technology in their design and implementation.</sentence>  <sentence>the
 object management group's common object request broker
 architecture (corba) is a set of emerging industry standards for
 the construction of object-oriented distributed systems and
-applications.  this talk will assess the state-of-the-art in the
+applications.</sentence>  <sentence>this talk will assess the state-of-the-art in the
 corba arena and provide an architectural framework for
-discussing distributed computing systems.</paragraph>
+discussing distributed computing systems.</sentence></paragraph>
 
-<paragraph>mary e.s. loomis, ph.d.
+<paragraph><sentence>mary e.s.</sentence> loomis, ph.d.
 director, software technology lab
 hewlett-packard laboratories</paragraph>
 
-<paragraph>dr. loomis has over 20 years' experience in software engineering
-and data management.  her presentation will focus on object
-database management systems (odbms).  topics include: sources of
+<paragraph><sentence>dr. loomis has over 20 years' experience in software engineering
+and data management.</sentence>  <sentence>her presentation will focus on object
+database management systems (odbms).</sentence>  <sentence>topics include: sources of
 object persistence, architectures of odbms products, extended
 relational and language bound, object model support, distributed
-functionality, and standards and technical directions.</paragraph>
+functionality, and standards and technical directions.</sentence></paragraph>
 
 <paragraph>derek coleman
 manager, software reuse department
 hewlett-packard laboratories</paragraph>
 
-mr. coleman is a co-author of "object-oriented development:  the
-fusion method," published by prentice-hall.  fusion is an
+<sentence>mr. coleman is a co-author of "object-oriented development:  the
+fusion method," published by prentice-hall.</sentence>  <sentence>fusion is an
 object-oriented method that was developed to meet the needs of
-hp's large and diverse software engineering community.  the
+hp's large and diverse software engineering community.</sentence>  <sentence>the
 presentation will explain the fusion method and its underlying
-rationale.  the talk will also present hp's experiences
-introducing fusion into actual use on live projects.  his
+rationale.</sentence>  <sentence>the talk will also present hp's experiences
+introducing fusion into actual use on live projects.</sentence>  <sentence>his
 presentation will conclude with a status report on case tools
-and current research.
+and current research.</sentence>
 
-real world examples:
+<sentence>real world examples:
 
 in addition to these specialized presentations, the telecast
 will feature industrial colleagues presenting how their use of
 object technology and object-oriented development tools greatly
-enhanced their application development process.
+enhanced their application development process.</sentence>

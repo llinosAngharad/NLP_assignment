@@ -25,23 +25,23 @@ abstract:
 
  title:  dante ii and beyond: exploration robots
 
-<paragraph>in the summer of 1994, dante ii successfully descended into the crater
+<paragraph><sentence>in the summer of 1994, dante ii successfully descended into the crater
 of an active alaskan volcano using a combination of walking and
-rappelling locomotion. while linked by satellite to a very remote base
+rappelling locomotion.</sentence> <sentence>while linked by satellite to a very remote base
 station, dante relied on a suite of sensors and semi-autonomous
-operational modes to traverse the very challenging terrain. once at
+operational modes to traverse the very challenging terrain.</sentence> <sentence>once at
 the crater floor, fumarole gas data and detailed video images in
 addition to high resolution laser-built terrain reconstructions were
-viewed live by scientists in several us locations. during its ascent
+viewed live by scientists in several us locations.</sentence> <sentence>during its ascent
 out of the crater, dante tipped over while attempting to climb a steep
-side slope of muddy ash and had to be recovered.</paragraph>
+side slope of muddy ash and had to be recovered.</sentence></paragraph>
 
-<paragraph>much was learned in this fast-paced, high risk research project in
+<paragraph><sentence>much was learned in this fast-paced, high risk research project in
 areas ranging from robot configuration to telepresence control to
-field operations and logistics.  one measure of the success of the
+field operations and logistics.</sentence>  <sentence>one measure of the success of the
 dante ii research is the degree by which the lessons learned can be
 articulated, communicated and applied to future generations of
-exploration robots.</paragraph>
+exploration robots.</sentence></paragraph>
 
  host: 		yangsheng xu (xu+@cs.cmu.edu)
  appointment: 	ava cruse (avac@cs.cmu.edu)

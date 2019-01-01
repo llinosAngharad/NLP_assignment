@@ -19,38 +19,38 @@ abstract:
                      <stime>1:30 </stime>- <etime>3:00 pm</etime>
 the mse studio team will relate its spring semester experience
 with the t2 project - providing software for the field robotics
-center's tessellator robot. the tessellator is designed to service
-the space shuttles' thermal protection system. 
+center's tessellator robot. <sentence>the tessellator is designed to service
+the space shuttles' thermal protection system.</sentence> 
 
-<paragraph>the team formulated the requirements and drafted designs for
+<paragraph><sentence>the team formulated the requirements and drafted designs for
 both the high-level controller (hlc) and the end-effector
-positioning software (eeps). these activities mark the half-way
-point of the t2 project. </paragraph>
+positioning software (eeps).</sentence> <sentence>these activities mark the half-way
+point of the t2 project.</sentence> </paragraph>
 
-the presentation will include the following topics:
+<sentence>the presentation will include the following topics:
 
-- t2 past and future.
+- t2 past and future.</sentence>
 
-<paragraph>  an overview of the events of the spring and an outlook
-  on the summer semester.</paragraph>
+<paragraph>  <sentence>an overview of the events of the spring and an outlook
+  on the summer semester.</sentence></paragraph>
 
 - eeps and hlc requirements.
 
-<paragraph>  the functionality of the software and the techniques applied
-  to elicit and analyze the requirements. </paragraph>
+<paragraph>  <sentence>the functionality of the software and the techniques applied
+  to elicit and analyze the requirements.</sentence> </paragraph>
 
 - eeps and hlc software architectures.
 
-<paragraph>  the proposed high-level designs for the software and the
-  process that led to the architectures.</paragraph>
+<paragraph>  <sentence>the proposed high-level designs for the software and the
+  process that led to the architectures.</sentence></paragraph>
 
 - t2  process handbook.
 
-<paragraph>  a set of management practices adopted by the team and collected
-  for use by other software development teams.</paragraph>
+<paragraph>  <sentence>a set of management practices adopted by the team and collected
+  for use by other software development teams.</sentence></paragraph>
 
 - t2 time expenditures.
 
-<paragraph>  some statistics on how the t2 developers spent their time. </paragraph>
+<paragraph>  <sentence>some statistics on how the t2 developers spent their time.</sentence> </paragraph>
 
 ------------------------------------------------------------------

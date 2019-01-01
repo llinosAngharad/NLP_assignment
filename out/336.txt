@@ -24,17 +24,17 @@ abstract:
     reconfiguration of a space structure (e.g., a space-station or a
     space platform/manipulator system) using internal motion and
     maneuvering in mid-air by a spring-board diver, a gymnast and a
-    falling cat.  then, i will describe the nature of nonholonomic
+    falling cat.  <sentence>then, i will describe the nature of nonholonomic
     constraints or nonintegrable conservation laws associated with
     each of the above systems and the formulation of nonholonomic
-    motion planning problems.  i will show that a nmp problem is
+    motion planning problems.</sentence>  <sentence>i will show that a nmp problem is
     equivalent to the constructive nonlinear controllability problem
-    of a nonlinear control system without drift.  i will also look at
+    of a nonlinear control system without drift.</sentence>  <sentence>i will also look at
     the existence of a motion problem for a nmp problem and highlight
-    several new results we have obtained.  finally, i will present a
+    several new results we have obtained.</sentence>  <sentence>finally, i will present a
     simple but effective algorithm, called the basis algorithm, for
     computing near optimal solutions of a nmp problem, togther with
-    simulation results. a simulation package implementing the basis
-    algorithm will be discussed if time permits.
+    simulation results.</sentence> <sentence>a simulation package implementing the basis
+    algorithm will be discussed if time permits.</sentence>
 
      host: matt mason              appointments: jean harpley, jean@cs, x3802

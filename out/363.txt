@@ -18,7 +18,7 @@ abstract:
 
  when:  friday april 16, 1993
 
- time:  3:30pm - <etime>5:00pm</etime>
+ time:  <stime>3:30pm</stime> - <etime>5:00pm</etime>
 
  speaker: <speaker>ed nicolson</speaker>
           from uc at berkeley
@@ -28,28 +28,28 @@ abstract:
    compliant control of threaded fastener insertion
 ********************************************************
 
-<paragraph>according to a study by nevins and whitney [1] the insertion and tightening
+<paragraph><sentence>according to a study by nevins and whitney [1] the insertion and tightening
 of threaded fasteners is one of the most common assembly tasks, yet little
 published work has considered the type of control best suited for the
-assembly of threaded parts.  this talk will discuss a dynamic simulation and
+assembly of threaded parts.</sentence>  <sentence>this talk will discuss a dynamic simulation and
 confirmatory experiments conducted to investigate compliant control
-techniques that guarantee proper insertion under positioning uncertainty.</paragraph>
+techniques that guarantee proper insertion under positioning uncertainty.</sentence></paragraph>
 
-<paragraph>armed with an explicit function description of the parts, euler's equations,
+<paragraph><sentence>armed with an explicit function description of the parts, euler's equations,
 and assumptions about impulsive forces we have created a fully dynamic
 simulation of the insertion of threaded fasteners under stiffness, damping,
-and accomodation control.  points of contact between the parts are
-determined and tracked during the simulation.  reaction forces are computed
-based on the contact locations and velocity constraints.</paragraph>
+and accomodation control.</sentence>  <sentence>points of contact between the parts are
+determined and tracked during the simulation.</sentence>  <sentence>reaction forces are computed
+based on the contact locations and velocity constraints.</sentence></paragraph>
 
-<paragraph>to validate the simulation a high precision robot equipped with a force and
-torque sensor carried out insertions under force-feedback control.  the
-experimental results are compared to the simulation.  based on the
+<paragraph><sentence>to validate the simulation a high precision robot equipped with a force and
+torque sensor carried out insertions under force-feedback control.</sentence>  <sentence>the
+experimental results are compared to the simulation.</sentence>  <sentence>based on the
 experiments and simulation, control solutions are presented for various
-regions of uncertainty in positioning.</paragraph>
+regions of uncertainty in positioning.</sentence></paragraph>
 
-[1] j.l. nevins and d.e. whitney. assembly research. factory
-    automation, 2, 1980.
+[1] j.l. <sentence>nevins and d.e.</sentence> <sentence>whitney.</sentence> <sentence>assembly research.</sentence> <sentence>factory
+    automation, 2, 1980.</sentence>
 
 ===============================================================================
  bio:
@@ -57,8 +57,8 @@ regions of uncertainty in positioning.</paragraph>
  <speaker>ed nicolson</speaker> received his bachelor's degree in electrical engineering and
  computer science from princeton university in 1987.  after spending a year
  marketing data acquisition software at lotus development corp., he moved on
- to greener pastures at u.c. berkeley where he received his master's degree
- in electrical engineering in 1990 and expects his ph.d. in december 1993.
+ to greener pastures at u.c. <sentence>berkeley where he received his master's degree
+ in electrical engineering in 1990 and expects his ph.d. in december 1993.</sentence>
 
-<paragraph>his research interests are in dynamic simulation of part mating problems,
-tactile sensing, and real-time systems development.</paragraph>
+<paragraph><sentence>his research interests are in dynamic simulation of part mating problems,
+tactile sensing, and real-time systems development.</sentence></paragraph>

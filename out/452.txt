@@ -7,50 +7,50 @@ dates:    11-oct-94
 time:     <stime>4:30 </stime>- <etime>5:30 pm</etime>
 place:    <location>porter hall 225b</location>
 host:     dana scott (scs, x8-3881 or rebecca clark x8-6737).
-postedby: rebec+ on 11-oct-94 at 09:16 from gnome.cs.cmu.edu (rebecca clark)
-abstract: 
+<sentence>postedby: rebec+ on 11-oct-94 at 09:16 from gnome.cs.cmu.edu (rebecca clark)
+abstract:</sentence> 
 
 <paragraph>
-special multimedia seminar
+<sentence>special multimedia seminar
  date: tuesday, october 11th
  time: <stime>4:30 </stime>- <etime>5:30 pm</etime>
  place: <location>porter hall 225b</location>
- host: dana scott (scs, x8-3881 or rebecca clark x8-6737).</paragraph>
+ host: dana scott (scs, x8-3881 or rebecca clark x8-6737).</sentence></paragraph>
 
- speaker:  <speaker>robert cavalier </speaker>(cmu ethics center)
+ <sentence>speaker:  <speaker>robert cavalier </speaker>(cmu ethics center)
  topic: redesigning the classroom: teaching and technology
  	in higher education
 
  abstract: not since the introduction of chalkboards in the 1800s has
  the classroom been so challenged in regard to its basic design and
- pedagogical setting.  neither overhead transparencies nor tv monitors
+ pedagogical setting.</sentence>  <sentence>neither overhead transparencies nor tv monitors
  provide the kind of dynamic, interactive capabilities seen on today's
- high resolution monitors.  indeed, it is precisely the evolutionary
+ high resolution monitors.</sentence>  <sentence>indeed, it is precisely the evolutionary
  symbiosis of powerful computers and good software that today provides
- the first real challenge to the traditional classroom setting.  the
+ the first real challenge to the traditional classroom setting.</sentence>  <sentence>the
  presentation will discuss all aspects of educational computing as it
 is currently evolving: its history and context, issues of
 instructional design and evaluation, technical support and
 administrative advocacy, and the "computational turn" that is
-affecting every academic discipline.  concrete examples from dr.
-cavalier's classes at carnegie mellon will conclude the presentation.
-these examples include the use of interactive multimedia, a hypertext
+affecting every academic discipline.</sentence>  <sentence>concrete examples from dr.
+cavalier's classes at carnegie mellon will conclude the presentation.</sentence>
+<sentence>these examples include the use of interactive multimedia, a hypertext
 syllabus to display and disseminate classroom materials, a
 class-specific electronic bulletin board, and the potential
-utilization of "tele-profs" via network-based video mail.
+utilization of "tele-profs" via network-based video mail.</sentence>
 
-speaker profile: <speaker>robert cavalier </speaker>received his ba from new york
-university and a ph.d. in philosophy from duquesne university.  he has
+<sentence>speaker profile: <speaker>robert cavalier </speaker>received his ba from new york
+university and a ph.d. in philosophy from duquesne university.</sentence>  <sentence>he has
 taught philosophy at a number of colleges and universities and has
-co-authored cai programs for logic.  in 1987 he joined the staff at
+co-authored cai programs for logic.</sentence>  <sentence>in 1987 he joined the staff at
 carnegie mellon's center for design of educational computing (cdec),
 where he became executive director in 1991.  while at cdec, he was
 also co-principal in the 1989 educom award winner for best humanities
-software ("a right to die? the case of dax cowart").  dr. cavalier is
+software ("a right to die?</sentence> <sentence>the case of dax cowart").</sentence>  <sentence>dr. cavalier is
 currently affiliated with cmu's center for the advancement of applied
-ethics.  he is also a member of carnegie mellon's philosophy
-department where he teaches courses in ethics.  his coursework forms
+ethics.</sentence>  <sentence>he is also a member of carnegie mellon's philosophy
+department where he teaches courses in ethics.</sentence>  <sentence>his coursework forms
 an r & d vehicle that is used to explore many aspects of educational
-computing.
+computing.</sentence>
 
 ------- end of forwarded message

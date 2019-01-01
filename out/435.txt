@@ -3,7 +3,7 @@ type:     ai seminar
 who:      <speaker>eugene charniak</speaker>
 topic:    improved statistical language models from syntactic parsing
 dates:    22-feb-94
-time:     3:30 pm
+time:     <stime>3:30 pm</stime>
 place:    <location>5409 wean hall</location>
 host:     danny sleator
 postedby: plp+ on 18-feb-94 at 16:54 from phyllis.adm.cs.cmu.edu (phyllis pomerantz)
@@ -22,28 +22,28 @@ abstract:
 <speaker>eugene charniak</speaker>
 brown university</paragraph>
 
-<paragraph>a statistical language model assigns a probability to every sequence of
+<paragraph><sentence>a statistical language model assigns a probability to every sequence of
 words such that common sequences in the language ("i have a headache") have
-high probability and uncommon ones ("headache a have i") have low.  such
+high probability and uncommon ones ("headache a have i") have low.</sentence>  <sentence>such
 models are of most obvious use in speech recognition, but they have many
-other uses as well.  the current ``gold standard'' in statistical language
+other uses as well.</sentence>  <sentence>the current ``gold standard'' in statistical language
 models is the trigram model, which estimates the probability of each
 successive word using statistics gathered on the probability of the word
-given the last two words.  this is very dumb, but remarkably successful.  we
-hope to create better models using more standard nlu techniques.  we hope to
+given the last two words.</sentence>  <sentence>this is very dumb, but remarkably successful.</sentence>  <sentence>we
+hope to create better models using more standard nlu techniques.</sentence>  <sentence>we hope to
 model the language by first parsing the sentence, then collecting statistics
-based upon the parse (not just the last few words).</paragraph>
+based upon the parse (not just the last few words).</sentence></paragraph>
 
-<paragraph>in this talk we concentrate on the first of these steps and look in
-particular at probabilistic context-free grammar learning.  our scheme
+<paragraph><sentence>in this talk we concentrate on the first of these steps and look in
+particular at probabilistic context-free grammar learning.</sentence>  <sentence>our scheme
 starts with a restricted form of context-free grammar such that only a
-finite number of rules apply to any given sentence.  starting with these
-rules, we then remove excess rules using the ``inside-outside'' algorithm.
-we concentrate on two interesting modifications of this scheme.  in the
+finite number of rules apply to any given sentence.</sentence>  <sentence>starting with these
+rules, we then remove excess rules using the ``inside-outside'' algorithm.</sentence>
+<sentence>we concentrate on two interesting modifications of this scheme.</sentence>  <sentence>in the
 first we create several different grammars for the language using different
-subsets of our training data and then merge them.  interestingly, this
-significantly improves the quality of the learned grammar.  in the second we
+subsets of our training data and then merge them.</sentence>  <sentence>interestingly, this
+significantly improves the quality of the learned grammar.</sentence>  <sentence>in the second we
 learn a ``pseudo-context-sensitive'' grammar by collecting extra statistics
 on rule application (``pseudo'' because the resulting formalism could be put
 back into context-free form by multiplying out the non-terminals of the
-language).  this too leads to significant improvements.</paragraph>
+language).</sentence>  <sentence>this too leads to significant improvements.</sentence></paragraph>

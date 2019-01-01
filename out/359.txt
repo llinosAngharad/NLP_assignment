@@ -25,29 +25,29 @@ abstract:
           an appointment with phyliss pomerantz, by calling 7897 or sending
           e-mail to plp@cs
 
-<paragraph>dexterity is an important feature for robots that 
-operate intelligently and independently in their environment.
-while planning dexterous manipulation can be viewed as a general 
-motion planning problem, this leads to intractable algorithms.
-instead, we develop efficient geometric algorithms for the class
-of parts orientations problems. for a given set of cooperating agents
+<paragraph><sentence>dexterity is an important feature for robots that 
+operate intelligently and independently in their environment.</sentence>
+<sentence>while planning dexterous manipulation can be viewed as a general 
+motion planning problem, this leads to intractable algorithms.</sentence>
+<sentence>instead, we develop efficient geometric algorithms for the class
+of parts orientations problems.</sentence> <sentence>for a given set of cooperating agents
 (which can be robot fingers, robot arms, mobile robots, or fixtures in
 the environment), an object, and a desired reorientation, we wish to
 synthesize a  robust plan for the agents that accomplishes the desired
-reorientation.  we present an efficient and exact $o(n\log n)$
+reorientation.</sentence>  <sentence>we present an efficient and exact $o(n\log n)$
 algorithm for the reorientation of polygonal objects of size $n$ and
-show its extension to polyhedra. this algorithm exploits 
+show its extension to polyhedra.</sentence> <sentence>this algorithm exploits 
 the geometric structure of the problem and the task mechanics and
-is near-sensorless, in that it requires only sparse sensing.  </paragraph>
+is near-sensorless, in that it requires only sparse sensing.</sentence>  </paragraph>
 
-<paragraph>we are currently implementing the planar reorientation problem in the
-context of a team of cooperating autonomous mobile robots.
-the team will reorient boxes with polyhedral cross sections.
-since the reorientation plan requires a model, we describe an
+<paragraph><sentence>we are currently implementing the planar reorientation problem in the
+context of a team of cooperating autonomous mobile robots.</sentence>
+<sentence>the team will reorient boxes with polyhedral cross sections.</sentence>
+<sentence>since the reorientation plan requires a model, we describe an
 algorithm for the robust acquisition of geometric models by mobile robots
-with error bounds and demonstrate its performance with a video.
-this work (joint with jim jennings) is an
+with error bounds and demonstrate its performance with a video.</sentence>
+<sentence>this work (joint with jim jennings) is an
 exploration of how, even with sparse and noisy sensors typically found
 on mobile robots, we can build adequate accounts and detailed models
 of manipulable objects, while satisfying the modeling and information
-requests of near-sensorless manipulation planners. </paragraph>
+requests of near-sensorless manipulation planners.</sentence> </paragraph>

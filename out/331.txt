@@ -3,7 +3,7 @@ type:     cmu.cs.robotics
 who:      <speaker>milind tambe</speaker>
 topic:    cimds seminar
 dates:    4-oct-91
-time:     12:00 pm - <etime>1:00 pm</etime>
+time:     <stime>12:00 pm</stime> - <etime>1:00 pm</etime>
 place:    <location>3313 doherty (large conf room)</location>
 postedby: maa+ on 02-oct-91 at 11:44 from isl1.ri.cmu.edu (michelle agie)
 abstract: 
@@ -23,18 +23,18 @@ abstract:
 
                                    abstract
 
-<paragraph>eliminating combinatorics from the match in production systems  (or  rule-based
+<paragraph><sentence>eliminating combinatorics from the match in production systems  (or  rule-based
 systems)  is  important  for  various  reasons  like real-time performance, the
 utility issue in machine learning, parallel implementations and modeling  human
-cognition.    the goal of this work is to eliminate match combinatorics without
-sacrificing production system functionality.</paragraph>
+cognition.</sentence>    <sentence>the goal of this work is to eliminate match combinatorics without
+sacrificing production system functionality.</sentence></paragraph>
 
-<paragraph>  combinatorics arise in production match due to the ambiguity about which data
-items (or working memory elements) can actually match a production's condition.
-in a production with multiple conditions, a cascading effect of such  ambiguity
-may  lead  to  an  exponential  match effort. we have investigated a variety of
+<paragraph>  <sentence>combinatorics arise in production match due to the ambiguity about which data
+items (or working memory elements) can actually match a production's condition.</sentence>
+<sentence>in a production with multiple conditions, a cascading effect of such  ambiguity
+may  lead  to  an  exponential  match effort.</sentence> <sentence>we have investigated a variety of
 approaches to eliminate match combinatorics, and have focused on the  following
-two that appear quite promising:</paragraph>
+two that appear quite promising:</sentence></paragraph>
 
    - the  unique-attribute  approach:  this approach restricts the working
      memory representation and completely eliminates the ambiguity.
@@ -43,6 +43,6 @@ two that appear quite promising:</paragraph>
      so  as to allow some local ambiguity, but avoids the cascading effect
      that leads to combinatorics.
 
-<paragraph>  i  will  present  detailed  theoretical  and  experimental  analyses  of  the
+<paragraph>  <sentence>i  will  present  detailed  theoretical  and  experimental  analyses  of  the
 performance    improvements    possible   with   these   approaches   and   the
-representational tradeoffs involved in them.</paragraph>
+representational tradeoffs involved in them.</sentence></paragraph>

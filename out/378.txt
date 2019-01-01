@@ -6,25 +6,25 @@ time:     <stime>3:30 </stime>- <etime>5:00</etime>
 postedby: garlan+ on 29-aug-91 at 22:10 from rila.able.cs.cmu.edu (<paragraph>david garlan</paragraph>)
 abstract: 
 
-<paragraph>as has been the case for many years, the programming systems seminar will
+<paragraph><sentence>as has been the case for many years, the programming systems seminar will
 take place mondays from <stime>3:30 </stime>to <etime>5:00</etime> in <location>weh 5409</location>, starting september 30.
 for those new to cmu, the seminar features research presentations in the
-general area of programming systems.  speakers include both invited guests
-from outside cmu as well as faculty and students within cmu. it is an
+general area of programming systems.</sentence>  <sentence>speakers include both invited guests
+from outside cmu as well as faculty and students within cmu.</sentence> <sentence>it is an
 excellent forum for faculty to discuss their research ideas, for students
 to get some practice at delivering technical talks, and for everyone to
-find out what others are doing.</paragraph>
+find out what others are doing.</sentence></paragraph>
 
-<paragraph>i'd like to encourage you to attend the seminar. i would also like to
-solicit your recommendations for speakers or topics. in particular, if you
+<paragraph><sentence>i'd like to encourage you to attend the seminar.</sentence> <sentence>i would also like to
+solicit your recommendations for speakers or topics.</sentence> <sentence>in particular, if you
 have a talk you would like to give, or know of someone that i should
-consider inviting, please let me know.</paragraph>
+consider inviting, please let me know.</sentence></paragraph>
 
-<paragraph>seminars will usually be announced on the scs bboard and cboard a few
-days before the talk. i also keep a mailing list of people to notify by
-e-mail. programming systems faculty are automatically on the list.
-if you'd like to be included on the mailing list, too, let me know.</paragraph>
+<paragraph><sentence>seminars will usually be announced on the scs bboard and cboard a few
+days before the talk.</sentence> <sentence>i also keep a mailing list of people to notify by
+e-mail.</sentence> <sentence>programming systems faculty are automatically on the list.</sentence>
+<sentence>if you'd like to be included on the mailing list, too, let me know.</sentence></paragraph>
 
-<paragraph>thanks and mark your calendar!</paragraph>
+<paragraph><sentence>thanks and mark your calendar!</sentence></paragraph>
 
 <paragraph>david garlan</paragraph>

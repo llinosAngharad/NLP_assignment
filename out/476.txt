@@ -19,20 +19,20 @@ abstract:
 
 current  programming  languages  are  monoliths: they generally
 cannot be composed with one another and each presumes it is the
-only  language  to  be  used for solving problems.  in order to
+only  language  to  be  used for solving problems.  <sentence>in order to
 specify problem solutions in the way most suited to the problem
 domain,   i   have  previously  advocated  the  use  of  `local
 formalisms' --- languages designed by the  user  for  just  the
-problem  at  hand.  in this talk, i describe tools which enable
+problem  at  hand.</sentence>  <sentence>in this talk, i describe tools which enable
 monolithic  languages  to  be  broken  up  into   parameterized
 component   sublanguages   and   recombined   with   a   user's
-idiosyncratic language  to  solve  his  problem.    hence,  the
+idiosyncratic language  to  solve  his  problem.</sentence>    <sentence>hence,  the
 creative activity can be localized to concerns with the problem
 domain rather than the  supporting  language  fabric,  such  as
-expressions, statements, and procedures.
+expressions, statements, and procedures.</sentence>
 ---------------------------------------------------------------
  host: david garlan
 
-<paragraph>if  you  are interested in speaking with david wile while he is
+<paragraph><sentence>if  you  are interested in speaking with david wile while he is
 here on thursday april 16th, please send e-mail to cary lund at
-cary@cs.</paragraph>
+cary@cs.</sentence></paragraph>

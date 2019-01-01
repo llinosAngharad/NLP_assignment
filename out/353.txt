@@ -25,21 +25,21 @@ abstract:
  title:		techniques for task-directed sensor data 
  		fusion and sensor planning
 
-<paragraph>the growing popularity of flexible, high-bandwidth sensing in robotic systems has posed many new problems for the control of sensors and sensor information processing.  my approach to these problems assumes that the objective of sensing is to minimize effort while maximizing the likelihood of a good or correct decision.  in general, any further quantification of the latter depends heavily on the specifics of a given robot task, so i refer to this approach as ``task-directed'' sensing.</paragraph>
+<paragraph><sentence>the growing popularity of flexible, high-bandwidth sensing in robotic systems has posed many new problems for the control of sensors and sensor information processing.</sentence>  <sentence>my approach to these problems assumes that the objective of sensing is to minimize effort while maximizing the likelihood of a good or correct decision.</sentence>  <sentence>in general, any further quantification of the latter depends heavily on the specifics of a given robot task, so i refer to this approach as ``task-directed'' sensing.</sentence></paragraph>
 
-<paragraph>this talk describes and compares two complementary approaches to solving task-directed sensing problems.  the first approach employs decision-theoretic methods for quantifying the value of sensor information, and relies on a novel, grid-based approximation to bayes' theorem for combining information and representing uncertainty.  i describe the application of these methods to a tracking-based vision system with controllable focus of attention and briefly present some experimental results.</paragraph>
+<paragraph><sentence>this talk describes and compares two complementary approaches to solving task-directed sensing problems.</sentence>  <sentence>the first approach employs decision-theoretic methods for quantifying the value of sensor information, and relies on a novel, grid-based approximation to bayes' theorem for combining information and representing uncertainty.</sentence>  <sentence>i describe the application of these methods to a tracking-based vision system with controllable focus of attention and briefly present some experimental results.</sentence></paragraph>
 
-<paragraph>the second approach employs a set-based representation of uncertainty. rather than optimizing a statistical criterion, the goal of this method is to satisfy a system of inequality constraints that represent both sensor information and task-specific decision criteria.  while doing so, the system adapts its data processing and data representation to the available sensor data and decision criteria.  i show several examples, taken from the manipulation domain, where adding task constraints to the sensing probl</paragraph>
+<paragraph><sentence>the second approach employs a set-based representation of uncertainty.</sentence> <sentence>rather than optimizing a statistical criterion, the goal of this method is to satisfy a system of inequality constraints that represent both sensor information and task-specific decision criteria.</sentence>  <sentence>while doing so, the system adapts its data processing and data representation to the available sensor data and decision criteria.</sentence>  i show several examples, taken from the manipulation domain, where adding task constraints to the sensing probl</paragraph>
 
-<paragraph>em significantly improves processing performance.  in situations where multiple objects are present, this adaptation leads to a natural, task-directed, focus-of-attention mechanism.</paragraph>
+<paragraph><sentence>em significantly improves processing performance.</sentence>  <sentence>in situations where multiple objects are present, this adaptation leads to a natural, task-directed, focus-of-attention mechanism.</sentence></paragraph>
 
-<paragraph>finally, depending on time and interest, i will briefly discuss work on generalizing set-based methods to unstructured environments, and also outline recent work in sensor planning for controlling actions.</paragraph>
+<paragraph><sentence>finally, depending on time and interest, i will briefly discuss work on generalizing set-based methods to unstructured environments, and also outline recent work in sensor planning for controlling actions.</sentence></paragraph>
 
-hosted by:  hagen schempf,  x6884
+<sentence>hosted by:  hagen schempf,  x6884
 
 ****************|**************************|**************************
 *               |                          |                         *
-*tim meadows    |  field robotics center   | carnegie mellon univ.   *
+*tim meadows    |  field robotics center   | carnegie mellon univ.</sentence>   *
 *               |                          |                         *
 *412-268-7085   |  fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
 *               |                          |                         *

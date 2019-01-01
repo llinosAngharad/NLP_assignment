@@ -16,10 +16,10 @@ abstract:
                                 <location>wean 4623</location>
 assembly problems arise when a robot with relatively few degrees of actuated
 freedom is assigned to manipulate an environment with relatively  many
-degrees of unactuated freedom. this talk reviews our progress in the
+degrees of unactuated freedom. <sentence>this talk reviews our progress in the
 effort to pose and solve classes of such problems within a framework of
 "autonomous machine design" that emphasizes the dynamical nature of
-robot tasks and environments.
+robot tasks and environments.</sentence>
 
 -----------------------------------------------------------------------
 if you'd like to meet with dan, please send me mail at ssingh@cs.

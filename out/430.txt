@@ -3,7 +3,7 @@ type:     cmu.cs.scs
 who:      <speaker>wayne snyder</speaker>
 topic:    basic paramodulation and basic strict superposition
 dates:    7-nov-91
-time:     3:30 pm
+time:     <stime>3:30 pm</stime>
 place:    <location>weh 5409</location>
 host:     stephen d. brookes
 postedby: marian+ on 29-oct-91 at 10:59 from marian.adm.cs.cmu.edu (marian d'amico)
@@ -29,32 +29,32 @@ abstract:
                <speaker>wayne snyder</speaker>
             boston university
 
-<paragraph>paramodulation is a refutational theorem proving method
+<paragraph><sentence>paramodulation is a refutational theorem proving method
 which generalizes the resolution principle to first-order 
-languages with equality. an important area of research
+languages with equality.</sentence> <sentence>an important area of research
 has been investigating complete restrictions on the
 locations in clauses where this prolific rule is
-applied. for example, the calculus is complete if
+applied.</sentence> <sentence>for example, the calculus is complete if
 paramodulation into variables is forbidden and if
-various restrictions involving term orderings are applied.
-in this project we show that by extending the principles
+various restrictions involving term orderings are applied.</sentence>
+<sentence>in this project we show that by extending the principles
 of basic narrowing, we may obtain a strong refinement of
 the paramodulation calculus in which paramodulation
 inferences are forbidden at any term introduced by 
-substitution at some earlier inference step. this
+substitution at some earlier inference step.</sentence> <sentence>this
 strategy is complete in conjunction with ordering-based
 refinements, and may be strengthened in various ways
-if the ordering restrictions are relaxed. we present
+if the ordering restrictions are relaxed.</sentence> <sentence>we present
 two calculi strictly improving the ordered paramodulation
 and strict superposition calculi, and discuss the
 role of deletion rules such as simplification and
 subsumption and of blocking rules for avoiding redundant
-inferences. benchmarks with our prototype implementation
-will also be discussed. </paragraph>
+inferences.</sentence> <sentence>benchmarks with our prototype implementation
+will also be discussed.</sentence> </paragraph>
 
 <paragraph>joint work with l. bachmair, h. ganzinger, and c. lynch</paragraph>
 
 ---------------
  host:  stephen d. brookes
 
-<paragraph>appts. through marian d'amico, marian@spice, x7665</paragraph>
+<paragraph><sentence>appts.</sentence> through marian d'amico, marian@spice, x7665</paragraph>

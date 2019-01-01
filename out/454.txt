@@ -15,39 +15,39 @@ abstract:
 
                          friday, december 2, 1994
 
-                    weh <location>8220</location>      3:00 p.m. - <etime>4:30 p.m.</etime>
+                    <location>weh 8220</location>      <stime>3:00 p.m.</stime> - <etime>4:30 p.m.</etime>
      modern shared-memory multiprocessors are inherently asynchronous:
      processes can be halted or delayed without warning by interrupts,
-     pre-emption,  or  cache  misses.    in  such  environments, it is
+     pre-emption,  or  cache  misses.    <sentence>in  such  environments, it is
      desirable to design protocols that  are  wait-free:  any  process
      that continues to run will complete its work in a fixed number of
-     steps, regardless of delays or failures by other processes.
+     steps, regardless of delays or failures by other processes.</sentence>
 
-     in the past  few  years,  considerable  progress  has  been  made
+     <sentence>in the past  few  years,  considerable  progress  has  been  made
      understanding   wait-free   protocols   for   systems   in  which
      asynchronous processes communicate by reading and writing  shared
-     variables.    nevertheless, relatively little is known about such
+     variables.</sentence>    <sentence>nevertheless, relatively little is known about such
      protocols in systems in which processes communicate with  certain
      more powerful synchronization primitives such as test-and-set, or
-     fetch-and-add.  this question has some practical interest,  since
+     fetch-and-add.</sentence>  <sentence>this question has some practical interest,  since
      many  modern  multiprocessor architectures provide these kinds of
-     built-in primitives.
+     built-in primitives.</sentence>
 
-     some recent partial progress on this question is reviewed.    set
+     <sentence>some recent partial progress on this question is reviewed.</sentence>    <sentence>set
      consensus,  a  simple  generalization of the well-known consensus
-     problem  is  considered.    any  synchronization  problem  has  a
+     problem  is  considered.</sentence>    <sentence>any  synchronization  problem  has  a
      characteristic  geometric structure, called a simplicial complex,
      whose topological properties determine  the  circumstances  under
-     which  it  has  a  wait-free protocol.  it is first shown that no
+     which  it  has  a  wait-free protocol.</sentence>  <sentence>it is first shown that no
      synchronization primitive can  implement  set  consensus  if  the
      primitive's  associated  complex  lacks ``holes'' of sufficiently
-     small dimension.  then it is shown that  any  protocol  employing
+     small dimension.</sentence>  <sentence>then it is shown that  any  protocol  employing
      set  consensus  as  a  primitive  has itself no ``holes'' below a
      certain dimension, partially characterizing the problems  it  can
-     solve.  some suggestive connections between consensus numbers and
-     homology closes this discussion.
+     solve.</sentence>  <sentence>some suggestive connections between consensus numbers and
+     homology closes this discussion.</sentence>
 
-      note: joint work with sergio rajsbaum, mit.
+      <sentence>note: joint work with sergio rajsbaum, mit.</sentence>
 
-     if you would like to talk with professor herlihy, please  contact
-     marge at 85025 or mp3r@cs for available times.
+     <sentence>if you would like to talk with professor herlihy, please  contact
+     marge at 85025 or mp3r@cs for available times.</sentence>

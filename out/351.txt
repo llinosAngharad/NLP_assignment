@@ -21,23 +21,23 @@ abstract:
 
  title:		antarctic exploration robotics
 
-<paragraph>cmu's dante robot will soon explore an active volcano in antarctica. 
-dante is a remote geologist and a harbinger of polar and planetary robots. 
-the exploration objective of the project is to study the gas from the lava 
-lake. the robotics objectives of this program are to navigate the extreme 
-terrain of the crater walls, and to operate in harsh conditions. the 
+<paragraph><sentence>cmu's dante robot will soon explore an active volcano in antarctica.</sentence> 
+<sentence>dante is a remote geologist and a harbinger of polar and planetary robots.</sentence> 
+<sentence>the exploration objective of the project is to study the gas from the lava 
+lake.</sentence> <sentence>the robotics objectives of this program are to navigate the extreme 
+terrain of the crater walls, and to operate in harsh conditions.</sentence> <sentence>the 
 technical challenges include perception, locomotion and mission 
-performance in planet-like conditions. the system envisioned for 
+performance in planet-like conditions.</sentence> <sentence>the system envisioned for 
 this exploration includes a novel walking robot, camera and scanner 
 vision, scientific sampling devices, remote interfaces and a satellite 
-data link for live feedback to the us.</paragraph>
+data link for live feedback to the us.</sentence></paragraph>
 
-<paragraph>this seminar profiles the technical challenges with progress and 
-approaches that address them. examples include a new laser range 
+<paragraph><sentence>this seminar profiles the technical challenges with progress and 
+approaches that address them.</sentence> <sentence>examples include a new laser range 
 scanner for terrain modeling, non-contact foot sensing and mechanics 
 for combining the tension of a climbing rope with the motions of a 
-walking robot. a lab visit following the presentation provides the 
-opportunity to view results to date.</paragraph>
+walking robot.</sentence> <sentence>a lab visit following the presentation provides the 
+opportunity to view results to date.</sentence></paragraph>
 
  host: hagen schempf, x6884
 *************************************************

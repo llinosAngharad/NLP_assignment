@@ -6,19 +6,19 @@ time:     <stime>7:00 pm</stime> - <etime>8:30 pm</etime>
 postedby: garth+ on 9-feb-93 at 14:31 from niagara.nectar.cs.cmu.edu (garth gibson)
 abstract: 
 
-<paragraph>this talk is the next in a series of live, interactive video conferences
+<paragraph><sentence>this talk is the next in a series of live, interactive video conferences
 that will be held every wednesday 7 pm - <etime>8:30 pm</etime> between january 20 and
 may 5 1993.  these conferences are being organized by a few west coast
-schools, hence the name, the west coast colloquium.  this will be something
-of a multiple university distinguished speakers series.  the participants,
+schools, hence the name, the west coast colloquium.</sentence>  <sentence>this will be something
+of a multiple university distinguished speakers series.</sentence>  <sentence>the participants,
 so far, are berkeley, stanford, washington, ucla, uc san diego, uc santa
-barbara, and us.
-the technology is picturetel based with conference bridging by at&t.  there
+barbara, and us.</sentence>
+<sentence>the technology is picturetel based with conference bridging by at&t.</sentence>  <sentence>there
 will be multiple monitors at each site;  cameras at every site are voice
 activated to force the display to show that site, so that the distributed
-audience can have camera time to ask questions.</paragraph>
+audience can have camera time to ask questions.</sentence></paragraph>
 
-<paragraph>wednesday's seminars are still experiemental.  many sites have yet to
-get all the equipment working for such an ambitious conference call.
-even if everything is working well, there will be a noticeable lag
-between your speech and its broadcast to your and others' monitors.</paragraph>
+<paragraph><sentence>wednesday's seminars are still experiemental.</sentence>  <sentence>many sites have yet to
+get all the equipment working for such an ambitious conference call.</sentence>
+<sentence>even if everything is working well, there will be a noticeable lag
+between your speech and its broadcast to your and others' monitors.</sentence></paragraph>

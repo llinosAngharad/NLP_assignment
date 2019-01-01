@@ -15,4 +15,4 @@ dennis gannon, university of indiana
 
  where: <location>sei auditorium</location>
  date: friday, september 30
- time: 4:00 p.m.
+ time: <stime>4:00 p.m.</stime>

@@ -2,7 +2,7 @@
 type:     cmu.cs.scs
 topic:    distinguished lecture--today
 dates:    8-apr-92
-time:     3:30 pm
+time:     <stime>3:30 pm</stime>
 postedby: stankus+ on 08-apr-92 at 07:27 from stankus.adm.cs.cmu.edu (terri stankus)
 abstract: 
 
@@ -18,36 +18,36 @@ abstract:
                                 <location>wean hall 7500</location>
    it  has been five years since i stopped working on andrew, so the freedom
    of information act -- along with the passing from power of several people
-   --  allows  me  to  tell  some  candid stories about it. in 1983, the itc
-   started and grew to about 30 people. eight were ibmers, ten  or  so  were
-   newly  minted  ph.d.s  from  our  very  own  department. we built andrew,
-   partially in the model of spice and the alto  system.  it  achieved  some
-   real  successes  but  didn't accomplish all that we'd hoped.  much of the
+   --  allows  me  to  tell  some  candid stories about it. <sentence>in 1983, the itc
+   started and grew to about 30 people.</sentence> <sentence>eight were ibmers, ten  or  so  were
+   newly  minted  ph.d.s  from  our  very  own  department.</sentence> <sentence>we built andrew,
+   partially in the model of spice and the alto  system.</sentence>  <sentence>it  achieved  some
+   real  successes  but  didn't accomplish all that we'd hoped.</sentence>  <sentence>much of the
    problem was intrinsic to the way the world is, compared to how we thought
-   it   was.   i   often  meet  people  who  still  have  some  of  my  1982
-   misperceptions.
+   it   was.</sentence>   <sentence>i   often  meet  people  who  still  have  some  of  my  1982
+   misperceptions.</sentence>
 
-<paragraph>   i will reconsider some of the early,  crucial  decisions  of  the  andrew
+<paragraph>   <sentence>i will reconsider some of the early,  crucial  decisions  of  the  andrew
    project  related  to  wiring,  protocols, workstations, file systems, and
-   software. i'll assess the impact of andrew on education and discuss  what
-   ibm  and  cmu  ultimately  got  out  of  it.  i will argue that unix, the
-   macintosh, and electronic mail will not survive to the next century.</paragraph>
+   software.</sentence> <sentence>i'll assess the impact of andrew on education and discuss  what
+   ibm  and  cmu  ultimately  got  out  of  it.</sentence>  <sentence>i will argue that unix, the
+   macintosh, and electronic mail will not survive to the next century.</sentence></paragraph>
 
-<paragraph>   finally, i'll offer eight opinions that computer scientists  who  venture
-   into the real world should consider:</paragraph>
+<paragraph>   <sentence>finally, i'll offer eight opinions that computer scientists  who  venture
+   into the real world should consider:</sentence></paragraph>
 
-      1. slowness kills.
+      <sentence>1. slowness kills.</sentence>
 
-      2. big, integrated systems lose.
+      <sentence>2. big, integrated systems lose.</sentence>
 
-      3. virtual << real.
+      <sentence>3. virtual << real.</sentence>
 
-      4. programmer productivity is not so important.
+      <sentence>4. programmer productivity is not so important.</sentence>
 
-      5. technology transfer rarely works.
+      <sentence>5. technology transfer rarely works.</sentence>
 
-      6. engineers don't buy; they log roll.
+      <sentence>6. engineers don't buy; they log roll.</sentence>
 
-      7. industrial funding is difficult.
+      <sentence>7. industrial funding is difficult.</sentence>
 
-      8. 2nd system < 1st system < 3rd system.
+      8. <sentence>2nd system < 1st system < 3rd system.</sentence>

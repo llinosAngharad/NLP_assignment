@@ -2,7 +2,7 @@
 type:     cmu.cs.scs
 topic:    march 23 hci seminar
 dates:    23-mar-94
-time:     <stime>3:30 </stime>- <etime>5:00 pm</etime>
+time:     <stime>3:30</stime> - <etime>5:00 pm</etime>
 host:     phil miller
 postedby: kathleen p. kowalski on 22-mar-94 at 08:58 from andrew.cmu.edu
 abstract: 
@@ -14,30 +14,30 @@ just a reminder that tomorrow's hci seminar will be as follows:
 department of computer science and institute of cognitive science
 university of colorado, boulder</paragraph>
 
-<paragraph>wednesday, march 23
+<paragraph><sentence>wednesday, march 23
 <location>wean hall 5409</location>
-3:30-5pm 
+<stime>3:30</stime>-5pm 
 programmable applications are software systems that combine the
 learnability and accessibility of direct manipulation interfaces with
-the expressive range of "domain-enriched" programming environments.
-while -- broadly speaking -- the notions of direct manipulation and
+the expressive range of "domain-enriched" programming environments.</sentence>
+<sentence>while -- broadly speaking -- the notions of direct manipulation and
 programming have historically been viewed as existing in opposition,
 programmable applications seek to blend language and direct
-manipulation constructs in mutually supportive ways. this talk will
+manipulation constructs in mutually supportive ways.</sentence> <sentence>this talk will
 describe some of the issues that arise in the design of programmable
 applications, and will present two prototype applications (based on
 the scheme programming language) for the domains of graphic design and
-computational physics.</paragraph>
+computational physics.</sentence></paragraph>
 
 -------
 
  host:  phil miller
 
-<paragraph>to schedule an appointment with mike eisenberg please contact rebecca
-clark at x8-6737.</paragraph>
+<paragraph><sentence>to schedule an appointment with mike eisenberg please contact rebecca
+clark at x8-6737.</sentence></paragraph>
 
-<paragraph>please see /afs/cs/user/dandb/hciseminar.txt for a list of upcoming hci
-seminar speakers.</paragraph>
+<paragraph><sentence>please see /afs/cs/user/dandb/hciseminar.txt for a list of upcoming hci
+seminar speakers.</sentence></paragraph>
 
-<paragraph>please contact cmu-hci-request@andrew.cmu.edu to receive
-announcements of human-computer interaction talks and news. </paragraph>
+<paragraph><sentence>please contact cmu-hci-request@andrew.cmu.edu to receive
+announcements of human-computer interaction talks and news.</sentence> </paragraph>

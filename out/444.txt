@@ -6,12 +6,12 @@ time:     <stime>4:00 pm</stime>
 postedby: prs+ on 16-sep-94 at 14:14 from n2.sp.cs.cmu.edu (peter steenkiste)
 abstract: 
 
-<paragraph>appended is the calendar for fall joint cs-psc seminar series.  
-i will post weekly reminders with an abstract.</paragraph>
+<paragraph><sentence>appended is the calendar for fall joint cs-psc seminar series.</sentence>  
+<sentence>i will post weekly reminders with an abstract.</sentence></paragraph>
 
-<paragraph>all seminars are on friday at 4, unless otherwise noted.  most 
+<paragraph><sentence>all seminars are on friday at 4, unless otherwise noted.</sentence>  <sentence>most 
 speakers spend some time in pittsburgh to find out about ongoing 
-research.  please contact barbara sandling if you want to talk to 
+research.</sentence>  please contact barbara sandling if you want to talk to 
 the speaker,</paragraph>
 
 <paragraph>peter
@@ -20,4 +20,4 @@ the speaker,</paragraph>
 <paragraph>sep 23	
 "tempest: user-level shared memory"
 david wood, university of wisconsin-madison
-cmu, <location>wean hall 5409</location>, 4:00 p.m.</paragraph>
+cmu, <location>wean hall 5409</location>, <stime>4:00 p.m.</stime></paragraph>

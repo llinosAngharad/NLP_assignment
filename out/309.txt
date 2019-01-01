@@ -13,27 +13,27 @@ abstract:
  speaker:  <speaker>reid simmons</speaker>, school of computer science, cmu
  title:    an autonomous walking robot for planetary exploration
  date:     friday, february 8, 1991
- time:     3:30 p.m. until 4:30 p.m.
+ time:     <stime>3:30 p.m.</stime> until 4:30 p.m.
  location: <location>baker hall, adamson wing</location>
  host:     michael erdmann, x7883
 
-<paragraph>in the coming decades, man will probably send robots to explore the solar
-system.  in particular, we envision the need for mobile robots that can
-navigate, map, and acquire samples on another planet, such as mars.  to
+<paragraph><sentence>in the coming decades, man will probably send robots to explore the solar
+system.</sentence>  <sentence>in particular, we envision the need for mobile robots that can
+navigate, map, and acquire samples on another planet, such as mars.</sentence>  <sentence>to
 perform these tasks in such isolated and uncertain environments, the robots
-must be highly reliable and fairly autonomous.</paragraph>
+must be highly reliable and fairly autonomous.</sentence></paragraph>
 
-<paragraph>the cmu planetary rover project has built the ambler, a highly mobile and
-energy efficient six-legged walking robot.  integrating the component
+<paragraph><sentence>the cmu planetary rover project has built the ambler, a highly mobile and
+energy efficient six-legged walking robot.</sentence>  <sentence>integrating the component
 technologies of planning, perception and real-time control, we have
-developed a system that autonomously walks the ambler over rugged terrain.
-the talk will describe research results in real-time control of many degrees
+developed a system that autonomously walks the ambler over rugged terrain.</sentence>
+<sentence>the talk will describe research results in real-time control of many degrees
 of freedom, perception of rugged terrain using a laser range-finder, and
-gait, footfall, and leg-recovery planning.  the components are integrated
+gait, footfall, and leg-recovery planning.</sentence>  <sentence>the components are integrated
 using the distributed task control architecture (tca), which supports
-concurrent planning, execution, monitoring, and error recovery.  the talk
+concurrent planning, execution, monitoring, and error recovery.</sentence>  <sentence>the talk
 will describe our integration efforts and the strategies employed for
-ensuring reliable and competent performance of the ambler.</paragraph>
+ensuring reliable and competent performance of the ambler.</sentence></paragraph>
 
 ----------
 refreshments will be served from 3:15-3:30.  

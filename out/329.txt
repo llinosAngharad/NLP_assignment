@@ -1,15 +1,15 @@
 <0.18.9.91.12.12.32.maa+@isl1.ri.cmu.edu (michelle agie).0>
 type:     cmu.cs.robotics
-who:      <speaker>d. navinchandra</speaker>
+who:      <speaker>d. <sentence>navinchandra</speaker>
 topic:    product design for environmental compatibility
 dates:    20-sep-91
-time:     2:00 pm - <etime>3:00 pm</etime>
+time:     <stime>2:00 pm</stime> - <etime>3:00 pm</etime>
 place:    <location>3313 doherty hall</location>
 postedby: maa+ on 18-sep-91 at 12:12 from isl1.ri.cmu.edu (michelle agie)
 abstract: 
 
 
- speaker:  <speaker>d. navinchandra</speaker>
+ speaker:  <speaker>d.</sentence> navinchandra</speaker>
 
  date:  friday september 20, 1991
 
@@ -19,19 +19,19 @@ abstract:
 
  title:  product design for environmental compatibility
 
-<paragraph>there is a growing interest in making products environmentally more
-compatible.  while there is a need to make products and processes less toxic,
+<paragraph><sentence>there is a growing interest in making products environmentally more
+compatible.</sentence>  <sentence>while there is a need to make products and processes less toxic,
 to increase recyclability, and to reduce waste; we have to try to achieve
-environmental friendliness without compromising product quality.  this
-approach to design has come to be called @i(green engineering design).  the
+environmental friendliness without compromising product quality.</sentence>  <sentence>this
+approach to design has come to be called @i(green engineering design).</sentence>  <sentence>the
 aim is to identify, develop, and exploit new technologies that can bolster
-productivity without costing the environment.  the idea is to inject concerns
+productivity without costing the environment.</sentence>  <sentence>the idea is to inject concerns
 about environmental friendliness into the design process, where the assessment
-of environmental friendliness is based on a life-cycle view of the product.
-this includes the product's manufacturing process, distribution, use, and
-final disposal.</paragraph>
+of environmental friendliness is based on a life-cycle view of the product.</sentence>
+<sentence>this includes the product's manufacturing process, distribution, use, and
+final disposal.</sentence></paragraph>
 
-we will examine a two part approach to green engineering: (1) the development
+<sentence>we will examine a two part approach to green engineering: (1) the development
 of special @i(green indicators) - measures of environmental
 compatibility, and (2) tools that use the green indicators to help designers
-assess, compare, and make design decisions.
+assess, compare, and make design decisions.</sentence>

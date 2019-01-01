@@ -21,10 +21,10 @@ abstract:
 
  place:    <location>wean hall 4605</location>
 
-<paragraph>this talk describes an environment to derive efficient parallel
+<paragraph><sentence>this talk describes an environment to derive efficient parallel
 implementations from program specifications using stepwise 
-refinement.  the environment is built around a data parallel
-notation called uc.  novel aspects of uc include:</paragraph>
+refinement.</sentence>  <sentence>the environment is built around a data parallel
+notation called uc.</sentence>  <sentence>novel aspects of uc include:</sentence></paragraph>
 
 * support for the design of rapid prototypes 
 * incremental refinements for efficiency via dynamic data 
@@ -34,10 +34,10 @@ notation called uc.  novel aspects of uc include:</paragraph>
   proofs are no more complicated than for equivalent 
   sequential programs.
 
-<paragraph>a uc compiler is available for the cm-2; a sequential emulator 
+<paragraph><sentence>a uc compiler is available for the cm-2; a sequential emulator 
 for uc is also available and a multicomputer implementation 
-is in progress.  measurements of the uc compiler on selected 
-numerical and graph applications will be presented.</paragraph>
+is in progress.</sentence>  <sentence>measurements of the uc compiler on selected 
+numerical and graph applications will be presented.</sentence></paragraph>
 
 ------
 if you want to talk to the speaker, please send a message to barbara

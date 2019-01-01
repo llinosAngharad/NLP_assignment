@@ -22,18 +22,18 @@ abstract:
  place:    <location>wean hall 4623</location>
  topic:    the temporal logic of actions
 
-<paragraph>traditional verification employs a programming language for writing the 
-program, and a logic for expressing its properties.  when verifying 
+<paragraph><sentence>traditional verification employs a programming language for writing the 
+program, and a logic for expressing its properties.</sentence>  <sentence>when verifying 
 concurrent programs, we reason about an abstract program that is not meant 
 to be directly compiled and executed, so we don't have to use a programming 
-language.  contrary to what one might conclude from the literature, logic 
-can be simpler than programming languages.  with the right logic, it is 
-easy to express a program as a logical formula.  the distinction between 
+language.</sentence>  <sentence>contrary to what one might conclude from the literature, logic 
+can be simpler than programming languages.</sentence>  <sentence>with the right logic, it is 
+easy to express a program as a logical formula.</sentence>  <sentence>the distinction between 
 properties and programs then vanishes, and specifications can be written 
-as simple programs.  proving that one program implements another is no 
-different from proving that a program satisfies a property.</paragraph>
+as simple programs.</sentence>  <sentence>proving that one program implements another is no 
+different from proving that a program satisfies a property.</sentence></paragraph>
 
-<paragraph>the temporal logic of actions is the right logic.  it provides a tool that 
-can help us cope with the complexity of verifying real concurrent algorithms.</paragraph>
+<paragraph><sentence>the temporal logic of actions is the right logic.</sentence>  <sentence>it provides a tool that 
+can help us cope with the complexity of verifying real concurrent algorithms.</sentence></paragraph>
 
-<paragraph>no previous fondess for logic is assumed.</paragraph>
+<paragraph><sentence>no previous fondess for logic is assumed.</sentence></paragraph>

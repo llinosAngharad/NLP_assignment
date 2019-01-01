@@ -2,14 +2,14 @@
 type:     cmu.cs.scs
 topic:    special ece seminar may 19
 dates:    19-may-95
-time:     11:00 am
+time:     <stime>11:00 am</stime>
 place:    <location>hh 1112</location>
 postedby: mary anne cowden on 15-may-95 at 09:40 from andrew.cmu.edu
 abstract: 
 
 <paragraph>
-there will be a special seminar this friday, may 19, given by j. eric bracken, 
-an ece faculty candidate.  please see the announcement below.</paragraph>
+<sentence>there will be a special seminar this friday, may 19, given by j. eric bracken, 
+an ece faculty candidate.</sentence>  <sentence>please see the announcement below.</sentence></paragraph>
 
 *******************************************************************************
 
@@ -18,37 +18,37 @@ an ece faculty candidate.  please see the announcement below.</paragraph>
                                                     j. eric bracken
                                         carnegie mellon university
 
-<paragraph>	recently, there has been a great deal of interest in the creation of
+<paragraph>	<sentence>recently, there has been a great deal of interest in the creation of
 low-order models to represent the behavior of linear interconnect
-circuits. through approaches such as asymptotic waveform evaluation
+circuits.</sentence> <sentence>through approaches such as asymptotic waveform evaluation
 (awe) and pade' approximation, it is possible to efficiently compute a
-simple macromodel of a complicated interconnect. this macromodel can be
+simple macromodel of a complicated interconnect.</sentence> <sentence>this macromodel can be
 combined with nonlinear driver and receiver models to accelerate the
-analysis of the circuit's responses.</paragraph>
+analysis of the circuit's responses.</sentence></paragraph>
 
-<paragraph>	one problem with pade' approximation is that it may generate unstable
-results. these instabilities arise because the macromodel actually
-represents an active, energy-producing network. it would be better for
+<paragraph>	<sentence>one problem with pade' approximation is that it may generate unstable
+results.</sentence> <sentence>these instabilities arise because the macromodel actually
+represents an active, energy-producing network.</sentence> <sentence>it would be better for
 an interconnect model to be totally passive, never generating energy on
-its own. in this talk, we discuss the instability problem by appealing
-to certain classical techniques of passive circuit synthesis. it is
+its own.</sentence> <sentence>in this talk, we discuss the instability problem by appealing
+to certain classical techniques of passive circuit synthesis.</sentence> it is
 shown that awe is mathematically equivalent to the development of a
 ladder circuit that realizes the pade' approximation in virtual
-"hardware." for certain classes of circuits and certain pairs of
+"hardware." <sentence>for certain classes of circuits and certain pairs of
 input/output responses, the ladder realization consists entirely of
 positive-valued circuit elements; as a consequence, it is guaranteed to
-be passive and stable.</paragraph>
+be passive and stable.</sentence></paragraph>
 
-<paragraph>	the conditions under which pade' approximation can be expected to
-produce stable results will be discussed. also, the limitations of pade'
+<paragraph>	<sentence>the conditions under which pade' approximation can be expected to
+produce stable results will be discussed.</sentence> <sentence>also, the limitations of pade'
 approximation will be described: for certain types of circuits and
 responses, there is simply no guarantee that stable results can be
-found. to overcome these problems, it is necessary to replace pade'
+found.</sentence> <sentence>to overcome these problems, it is necessary to replace pade'
 approximation by other efficient algorithms for finding low-order
-models. fortunately, the notion of synthesizing a passive model can be
-extended to more general classes of circuits. we will conclude the talk
+models.</sentence> <sentence>fortunately, the notion of synthesizing a passive model can be
+extended to more general classes of circuits.</sentence> <sentence>we will conclude the talk
 by describing some promising new approaches to interconnect analysis
-based upon this idea.</paragraph>
+based upon this idea.</sentence></paragraph>
 
                                      date:  friday, may 19, 1995
 

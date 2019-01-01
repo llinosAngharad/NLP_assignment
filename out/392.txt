@@ -11,7 +11,7 @@ abstract:
                                    pop seminar
                               friday, dec 15, 1992
                                 <stime>3:00 </stime>- <etime>4:00 p.m.</etime>
-                                    weh <location>8220</location>
+                                    <location>weh 8220</location>
               similix --- a partial evaluator for a scheme subset:
                             overview and applications
 
@@ -19,30 +19,30 @@ abstract:
                                 diku, copenhagen
 
         in   this   talk  we  present  similix,  a  publically  available
-        self-applicable partial evaluator for a subset of  scheme.  after
+        self-applicable partial evaluator for a subset of  scheme.  <sentence>after
         giving   a   short   review   of   partial   evaluation  (program
         specialization), we discuss one of the core problems  in  partial
-         evaluation:  finding  a good unfolding strategy. on the one hand,
+         evaluation:  finding  a good unfolding strategy.</sentence> <sentence>on the one hand,
          unfolding improves the programs resulting by partial  evaluation;
-         on the other hand, unfolding gives a risk of non-termination. the
-         strategy currently used in similix is described.
+         on the other hand, unfolding gives a risk of non-termination.</sentence> <sentence>the
+         strategy currently used in similix is described.</sentence>
 
-        the talk proceeds with an overview of the similix system. partial
+        <sentence>the talk proceeds with an overview of the similix system.</sentence> <sentence>partial
         evaluation   is   done   as   a   multi-phase   process:   before
         specialization,  several  analyses  are  applied  to  the  source
-        program  to  collect different kinds of information.  notably, in
+        program  to  collect different kinds of information.</sentence>  <sentence>notably, in
         addition to the binding time analysis, a flow analysis is used to
-        trace flow of structured and functional values.
+        trace flow of structured and functional values.</sentence>
 
-        finally,  we  discuss  applications  of  similix.  we use partial
-        evaluation to compile a small lazy functional language "lazy".  a
+        <sentence>finally,  we  discuss  applications  of  similix.</sentence>  <sentence>we use partial
+        evaluation to compile a small lazy functional language "lazy".</sentence>  <sentence>a
         major   application   of   similix   has   been   based   on  the
         "lazy"-experiment: automatic generation of an efficient  compiler
         from  a denotational semantics for a rather large lazy functional
-        language "bawl" (similar to "orwell").
+        language "bawl" (similar to "orwell").</sentence>
 
-        professor bondorf will be here thursday and friday.  if you would
+        <sentence>professor bondorf will be here thursday and friday.</sentence>  <sentence>if you would
         like an appointment to speak with him, please call marge at x5025
-        or email profeta@cs.
+        or email profeta@cs.</sentence>
 
         *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -

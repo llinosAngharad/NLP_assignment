@@ -2,7 +2,7 @@
 type:     cmu.cs.robotics
 topic:    vision seminar today
 dates:    15-nov-91
-time:     2:00 pm - <etime>3:00 pm</etime>
+time:     <stime>2:00 pm</stime> - <etime>3:00 pm</etime>
 host:     dave mckeown,  dmm@cs.cmu.edu
 postedby: dmm+ on 15-nov-91 at 09:50 from maps.cs.cmu.edu (dave mckeown)
 abstract: 
@@ -18,16 +18,16 @@ special computer vision seminar           not so friendly reminder :-)
 
 <paragraph>	photogrammetry and image understanding are complementary fields; 
 image understanding is concerned with "what", while photogrammetry is 
-concerned with "where."  while there has been some productive cross-
+concerned with "where."  <sentence>while there has been some productive cross-
 fertilization, there are many further possibilities for useful 
-interactions.  this talk will outline some areas of image understanding 
+interactions.</sentence>  <sentence>this talk will outline some areas of image understanding 
 where photogrammetric techniques could be useful, such as multiple image 
 solutions and stochastic modeling, and similarly, some topics in 
-photogrammetry where image understanding concepts could be applied. the 
+photogrammetry where image understanding concepts could be applied.</sentence> <sentence>the 
 eventual goal should be the tighter integration of both fields, looking 
 beyond automating individual operator's tasks and emulating paper maps to 
-new ways of obtaining, processing, and exploiting image information.  as 
+new ways of obtaining, processing, and exploiting image information.</sentence>  <sentence>as 
 an example of the integration of image understanding and photogrammetry, 
-the use of snakes for automated image-map registration will be discussed.</paragraph>
+the use of snakes for automated image-map registration will be discussed.</sentence></paragraph>
 
  host:  dave mckeown,  dmm@cs.cmu.edu

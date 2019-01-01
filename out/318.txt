@@ -1,18 +1,18 @@
 <0.13.4.95.03.24.17.me@h.gp.cs.cmu.edu (michael erdmann).0>
 type:     cmu.cs.robotics
 topic:    upcoming robotics seminars: apr 14 none; apr 21 shree nayar.
-dates:    21-apr-95
-time:     <stime>3:30 </stime>- <etime>5:00</etime>
+<sentence>dates:    21-apr-95
+time:     <stime>3:30</stime> - <etime>5:00</etime>
 host:     katsushi ikeuchi, x8-6349
 postedby: me on 13-apr-95 at 03:24 from h.gp.cs.cmu.edu (michael erdmann)
 abstract: 
-there is no robotics seminar this friday.
+there is no robotics seminar this friday.</sentence>
 next friday's seminar will be:
 
 ------------------------------------------------------------------------------
 			   robotics seminar
 
-friday april 21, 3:30-<etime>5:00</etime>
+friday april 21, <stime>3:30</stime>-<etime>5:00</etime>
 refreshments 3:15
 <location>adamson wing</location>, baker hall
 	           real-time focus range sensor
@@ -24,22 +24,22 @@ refreshments 3:15
 			columbia university
 			new york, ny 10027
 
-<paragraph>structures of dynamic scenes can only be recovered using a real-time
-range sensor. depth from defocus  offers an elegant solution to fast
-and dense range estimation. it is computational efficient as it
+<paragraph><sentence>structures of dynamic scenes can only be recovered using a real-time
+range sensor.</sentence> <sentence>depth from defocus  offers an elegant solution to fast
+and dense range estimation.</sentence> <sentence>it is computational efficient as it
 circumvents the correspondence problem faced by stereo and the feature
-tracking problem involved in structure from motion. however, accurate
+tracking problem involved in structure from motion.</sentence> <sentence>however, accurate
 depth estimation requires theoretical and practical solutions to a
 variety of problems including  recovery of textureless surfaces,
-blur estimation, and magnification variations caused by defocusing. 
-both textured and textureless surfaces are recovered using an
+blur estimation, and magnification variations caused by defocusing.</sentence> 
+<sentence>both textured and textureless surfaces are recovered using an
 optimized illumination pattern that is projected via the same optical
-path used to acquire images. a prototype focus range sensor has been
+path used to acquire images.</sentence> <sentence>a prototype focus range sensor has been
 developed that produces up to 512x480 depth estimates at 30 hz with
-an accuracy of 0.3%.</paragraph>
+an accuracy of 0.3%.</sentence></paragraph>
 
-<paragraph>in addition to the above topic, i'll briefly summarize recent results
-on diffuse reflectance and visual learning.</paragraph>
+<paragraph><sentence>in addition to the above topic, i'll briefly summarize recent results
+on diffuse reflectance and visual learning.</sentence></paragraph>
 
  host: katsushi ikeuchi, x8-6349
 ------------------------------------------------------------------------------

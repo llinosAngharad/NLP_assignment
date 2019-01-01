@@ -1,6 +1,6 @@
 <0.06.4.92.23.10.54.trg+@n3.sp.cs.cmu.edu (thomas gross).0>
 type:     cmu.cs.scs
-topic:    cs seminar 4/10: leiserson of mit/tmc @ 4:00 p.m., <location>weh 5403</location>
+topic:    cs seminar 4/10: leiserson of mit/tmc @ <stime>4:00 p.m.</stime>, <location>weh 5403</location>
 dates:    10-apr-92
 time:     <stime>4:00 pm</stime>
 postedby: trg+ on 06-apr-92 at 23:10 from n3.sp.cs.cmu.edu (thomas gross)
@@ -17,22 +17,22 @@ abstract:
 		    thinking machines corporation
 		       cambridge, massachusetts</paragraph>
 
-		friday, apr 10, 4:00 p.m., <location>weh 5403</location>
+		friday, apr 10, <stime>4:00 p.m.</stime>, <location>weh 5403</location>
 
-<paragraph>the connection machine model cm-5 supercomputer is a massively
+<paragraph><sentence>the connection machine model cm-5 supercomputer is a massively
 parallel computer system designed to offer performance in the range of
-1 teraflops ($10^{12}$ floating-point operations per second).  the
+1 teraflops ($10^{12}$ floating-point operations per second).</sentence>  <sentence>the
 cm-5 obtains its high performance while offering ease of programming,
-flexibility, and reliability.  the machine contains three
+flexibility, and reliability.</sentence>  <sentence>the machine contains three
 communication networks: a data network, a control network, and a
-diagnostic network.  this talk will describe the organization of these
+diagnostic network.</sentence>  <sentence>this talk will describe the organization of these
 three networks and how they contribute to the design goals of the
-cm-5.</paragraph>
+cm-5.</sentence></paragraph>
 
-<paragraph>this work was done jointly with zahi s. abuhamdeh, david c.  douglas,
+<paragraph><sentence>this work was done jointly with zahi s. abuhamdeh, david c.  douglas,
 carl r. feynman, mahesh n. ganmukhi, jeffrey v. hill, w. daniel
 hillis, bradley c. kuszmaul, margaret a. st.~pierre, david s. wells,
-monica c. wong, shaw-wen yang, robert zak, and about 500 others.</paragraph>
+monica c. wong, shaw-wen yang, robert zak, and about 500 others.</sentence></paragraph>
 
 ---
 if you want to talk to charles leiserson, please send mail to marian d'amico.

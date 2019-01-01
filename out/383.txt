@@ -23,20 +23,20 @@ abstract:
         mutation & selection  parametric design  tiny pix  x-ray views  
     			marbled paper  digital lighting</paragraph>
 
-	    as an alternative to complex and fattening topics in
+	    <sentence>as an alternative to complex and fattening topics in
 	    computer graphics i'll show and talk about several 
 	    little projects i've been exploring over the last few 
-	    years.  we'll look at techniques for making hidden 
-	    line drawings of geometric objects.  i'll talk about
+	    years.</sentence>  <sentence>we'll look at techniques for making hidden 
+	    line drawings of geometric objects.</sentence>  <sentence>i'll talk about
 	    making and using reflection maps, a simple paint 
 	    program for typeface design, and various image warping 
-	    and image enhancement hacks.  i'll also show how simple 
+	    and image enhancement hacks.</sentence>  <sentence>i'll also show how simple 
 	    filtering of mouse positions can help make the mouse 
 	    more useable and fun as an input device, techniques for 
 	    creating pictures with 6 point perspective, and a bunch 
-	    of other half-baked stuff.
+	    of other half-baked stuff.</sentence>
 
  host: paul heckbert, ph@cs.cmu.edu, 268-7899
 
-<paragraph>for appointments with the speaker on thursday nov. 12, email
-phyllis.pomerantz@cs.cmu.edu or call her at 268-7897.</paragraph>
+<paragraph><sentence>for appointments with the speaker on thursday nov. 12, email
+phyllis.pomerantz@cs.cmu.edu or call her at 268-7897.</sentence></paragraph>

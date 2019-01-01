@@ -2,7 +2,7 @@
 type:     cmu.cs.robotics
 topic:    reminder: elisha sacks talk today
 dates:    12-nov-92
-time:     3:00
+time:     <stime>3:00</stime>
 host:     andy witkin
           to schedule a meeting, email
           phyllis.pomerantz@cs.cmu.edu or call her at 268-7897.
@@ -11,7 +11,7 @@ abstract:
 
 			   graphics seminar
 			 thursday, 12 nov 92
-		    <stime>3:00 </stime>reception, 3:30-4:30 talk
+		    <stime>3:00</stime> reception, 3:30-4:30 talk
 			      <location>wean 4623</location>
 	     model-based kinematic analysis of mechanisms
 
@@ -25,27 +25,27 @@ abstract:
 			    leo joskowicz
 		       ibm tj watson laboratory
 
-<paragraph>i will describe our research in automating the kinematic analysis of
+<paragraph><sentence>i will describe our research in automating the kinematic analysis of
 rigid part mechanisms, such as gears, cylinder locks, clutches, and
-transmissions.  kinematic analysis determines the constraints on the
+transmissions.</sentence>  <sentence>kinematic analysis determines the constraints on the
 behavior of a mechanism imposed by the shapes of its parts and by the
-contacts among them.  automating the analysis is an important step
-toward automating the overall design and analysis of mechanisms.  the
+contacts among them.</sentence>  <sentence>automating the analysis is an important step
+toward automating the overall design and analysis of mechanisms.</sentence>  <sentence>the
 computational complexity of kinematic analysis depends on the shapes
 and motion types of the parts of the mechanism, and is in general
-intractable.  we have identified engineering restrictions on part
-shapes and interactions that make kinematic analysis feasible.  most
+intractable.</sentence>  <sentence>we have identified engineering restrictions on part
+shapes and interactions that make kinematic analysis feasible.</sentence>  <sentence>most
 mechanisms belong to the feasible class according to a survey of 2500
-mechanisms in a standard mechanical engineering encyclopedia.  we have
+mechanisms in a standard mechanical engineering encyclopedia.</sentence>  <sentence>we have
 developed an efficient kinematic analysis program for feasible
-mechanisms.  the program derives the motion of the parts for given
-input motions and internal forces, such as gravity and friction.  it
+mechanisms.</sentence>  <sentence>the program derives the motion of the parts for given
+input motions and internal forces, such as gravity and friction.</sentence>  <sentence>it
 uses a simple model of dynamics that captures the steady-state effect
 of forces without the conceptual and computational cost of traditional
-dynamical simulation.  it generates a compact, symbolic behavioral
-description and a realistic, three-dimensional animation.  it can also
-generate the space of behaviors for all possible input motions.</paragraph>
+dynamical simulation.</sentence>  <sentence>it generates a compact, symbolic behavioral
+description and a realistic, three-dimensional animation.</sentence>  <sentence>it can also
+generate the space of behaviors for all possible input motions.</sentence></paragraph>
 
- host: andy witkin
+ <sentence>host: andy witkin
  to schedule a meeting, email
- phyllis.pomerantz@cs.cmu.edu or call her at 268-7897.
+ phyllis.pomerantz@cs.cmu.edu or call her at 268-7897.</sentence>

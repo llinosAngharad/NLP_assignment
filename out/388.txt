@@ -13,7 +13,7 @@ abstract:
 
 <paragraph>ri seminar</paragraph>
 
- when:		friday, 20 november 1992, <stime>3:30 </stime>- <etime>5:00 pm</etime>
+ <sentence>when:		friday, 20 november 1992, <stime>3:30 </stime>- <etime>5:00 pm</etime>
 		refreshments to be served by 3:15 pm
 
  where:		<location>baker hall - adamson wing</location>
@@ -31,7 +31,7 @@ abstract:
 ---
 ****************|**************************|**************************
 *               |                          |                         *
-*tim meadows    |  field robotics center   | carnegie mellon univ.   *
+*tim meadows    |  field robotics center   | carnegie mellon univ.</sentence>   *
 *               |                          |                         *
 *412-268-7085   |  fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
 *               |                          |                         *

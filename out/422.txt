@@ -1,6 +1,6 @@
 <0.3.12.93.07.59.44.trg+@n3.sp.cs.cmu.edu (thomas gross).0>
 type:     cmu.cs.scs
-topic:    cs/psc seminar 12/3 4:00pm kai li <location>weh 5409</location>
+topic:    cs/psc seminar 12/3 <stime>4:00pm</stime> kai li <location>weh 5409</location>
 dates:    3-dec-93
 time:     <stime>4:00 pm</stime>
 postedby: trg+ on 3-dec-93 at 07:59 from n3.sp.cs.cmu.edu (thomas gross)
@@ -13,4 +13,4 @@ abstract:
 	    			kai li
 			princeton university
 
-	friday, dec 3rd, 1993 at 4:00 p.m. in <location>weh 5409</location>
+	friday, dec 3rd, 1993 at <stime>4:00 p.m.</stime> in <location>weh 5409</location>

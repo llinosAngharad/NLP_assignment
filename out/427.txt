@@ -25,38 +25,38 @@ abstract:
 
  title:   systems design of an off road autonomous navigator
 
-<paragraph>this talk will overview the results to date for my phd thesis in the area
-of autonomous cross country navigation. the work investigates aspects of 
+<paragraph><sentence>this talk will overview the results to date for my phd thesis in the area
+of autonomous cross country navigation.</sentence> <sentence>the work investigates aspects of 
 perception, planning, localization and control using the tools of complexity 
-and dimensional analysis, experimentation, and simulation. ideas that emerge
-are implemented on the hmmwv at cmu on a proof of principle basis. 
-the prototype has achieved unprecedented speeds of 15 km/hr and excursions of 
-15 km on a local off-road test site.</paragraph>
+and dimensional analysis, experimentation, and simulation.</sentence> <sentence>ideas that emerge
+are implemented on the hmmwv at cmu on a proof of principle basis.</sentence> 
+<sentence>the prototype has achieved unprecedented speeds of 15 km/hr and excursions of 
+15 km on a local off-road test site.</sentence></paragraph>
 
- perception:
+ <sentence>perception:
 
  complexity analysis leads to the conclusion that while the raw throughput
  requirement for the maintenance of safety is manageable, the traditional 
  non-adaptive range image processing approach wastes tremendous computational
- bandwidth. a simple active perception algorithm is introduced which 
- computationally stabilizes the sensor vertical field of view. it makes 20 mph 
+ bandwidth.</sentence> <sentence>a simple active perception algorithm is introduced which 
+ computationally stabilizes the sensor vertical field of view.</sentence> <sentence>it makes 20 mph 
  off road autonomy feasible and points to techniques that may permit real time 
- stereo perception on serial hardware.
+ stereo perception on serial hardware.</sentence>
 
- planning:
+ <sentence>planning:
 
  investigation of the impact of latencies and limits on actuator response leads
  to a reformulation of planning in configuration space as feedforward 
- satisficingcontrol in actuation space. the traditional hierarchical 
+ satisficingcontrol in actuation space.</sentence> <sentence>the traditional hierarchical 
  planner-controller architecture collapses into a multi-input, 
  multi-output feedforward controller which employs both somatic and 
  environmental feedback and which closes this loop at relatively high 
- update bandwidth. steering feedforward, in particular, has been shown 
- to be crucial to reliable navigation above 5 mph on rough terrain.
+ update bandwidth.</sentence> <sentence>steering feedforward, in particular, has been shown 
+ to be crucial to reliable navigation above 5 mph on rough terrain.</sentence>
 
-<paragraph>the talk will overview the subsystems of typical cross country navigators 
+<paragraph><sentence>the talk will overview the subsystems of typical cross country navigators 
 and point to the impact of high speed robust navigation on subsystem 
-requirements.</paragraph>
+requirements.</sentence></paragraph>
 
  host: 		yangsheng xu (xu@cs.cmu.edu)
  appointment: 	lalit katragadda (lalit@cs.cmu.edu)

@@ -1,10 +1,16 @@
 import re
 import os
+from nltk import ne_chunk, pos_tag, word_tokenize, sent_tokenize
 
 speaker_set = set()
 location_set = set()
 
 def clean_speaker(speaker):
+    """
+    Remove punctuation and symbols from speaker name
+    :param speaker: name of speaker
+    :return: clean speaker name
+    """
     speaker = re.sub(", .*", "", speaker)
     speaker = re.sub(" / .*", "", speaker)
     speaker = re.sub("-.*", "", speaker)
@@ -12,6 +18,11 @@ def clean_speaker(speaker):
     return speaker
 
 def extract_time(header):
+    """
+    Finds and extracts a start time and end time (if it exists) from a text
+    :param header: header of the text
+    :return: start time and end time
+    """
     time_pattern = r"(?:time:)\s*((?:\d{1,2}:\d{2})\s?(?:am|pm|AM|PM|a\.m\.|p\.m\.)?)\s?-?\s?((?:\d{1,2}:\d{2})\s?(?:am|pm|AM|PM|a\.m\.|p\.m\.)?)?"
     time = re.search(time_pattern, header, flags=re.DOTALL)
     if time:
@@ -21,6 +32,12 @@ def extract_time(header):
     else: return None, None
 
 def extract_location(header_array, body):
+    """
+    Finds and extracts location from a text
+    :param header_array: array of each line in the text header
+    :param body: body of the text
+    :return: location
+    """
     location = None
     body_array = body.splitlines()
     loc_pattern = r"(?:place:|location:|where:)\s*(.*)"
@@ -40,9 +57,24 @@ def extract_location(header_array, body):
         for loc in location_set:
             if loc in body:
                 location = loc
+    # otherwise use NER to find
+    if location is None:
+        for line in body_array:
+            for sent in sent_tokenize(line):
+                for chunk in ne_chunk(pos_tag(word_tokenize(sent))):
+                    if hasattr(chunk, 'label'):
+                        if chunk.label() == "GPE":
+                            loc = ' '.join(c[0] for c in chunk)
+                            location = loc
     return location
 
 def extract_speaker(header_array, body):
+    """
+    Finds and extracts a speaker from a text
+    :param header_array: array of each line in the text header
+    :param body: body of the text
+    :return: speaker
+    """
     speaker = None
     body_array = body.splitlines()
     speaker_pattern = r"(?:who:|speaker:)\s*(.*)"
@@ -69,10 +101,22 @@ def extract_speaker(header_array, body):
                 if sp:
                     speaker = sp.group(1)
                     speaker = clean_speaker(speaker)
+    if speaker is None:
+        for line in body_array:
+            for sent in sent_tokenize(line):
+                for chunk in ne_chunk(pos_tag(word_tokenize(sent))):
+                    if hasattr(chunk, 'label'):
+                        if chunk.label() == "PERSON":
+                            sp = ' '.join(c[0] for c in chunk)
+                            speaker = clean_speaker(sp)
     return speaker
 
-# Creates a set of 'known' speakers that appear in the tagged emails
 def find_known_speakers(text):
+    """
+    Creates a set of 'known' speakers that appear in the tagged emails
+    :param text: text to extract speakers from
+    :return: set of speakers
+    """
     speaker_pattern = r"<speaker>(?:Dr|Mr|Ms|Mrs|Prof|Sir|Professor)?\.?\s?([a-zA-Z ]+),?\s?(?:PhD)?<\/speaker>"
     speaker = re.findall(speaker_pattern, text, flags=re.DOTALL)
     for person in speaker:
@@ -80,8 +124,12 @@ def find_known_speakers(text):
             speaker_set.add(person)
     return speaker_set
 
-# Creates a set of 'known' locations that appear in the tagged emails
 def find_known_locations(text):
+    """
+    Creates a set of 'known' locations that appear in the tagged emails
+    :param text: text to extract locations from
+    :return: set of locations
+    """
     location_pattern = r"<location>([a-zA-Z0-9 ]+)</location>"
     location = re.findall(location_pattern, text, flags=re.DOTALL)
     for place in location:
@@ -89,6 +137,9 @@ def find_known_locations(text):
     return location_set
 
 def process_training():
+    """
+    Process the training data to extract known speakers and locations
+    """
     training_path = os.getcwd() + "/data/training/"
     training_directory = os.fsencode(training_path)
     for file in os.listdir(training_directory):
@@ -104,16 +155,25 @@ def process_training():
             raise e
             return "No files found here!"
 
-# Reads training data and creates a list of each .txt file's contents
 def read_data(path, file):
+    """
+    Reads data and creates a list of each .txt file's contents
+    :param path: path of the data
+    :param file: file that contains the data
+    :return: the file's content
+    """
     filename = os.fsdecode(file)
     text_file = open(path + filename, "r", encoding="utf8")
     text = text_file.read()
     text_file.close()
     return text
 
-# Splits texts into header and body
 def split_text(text):
+    """
+    Splits texts into header and body
+    :param text: text to split
+    :return: header and body of text
+    """
     if "abstract:" in text:
         i = text.index("abstract:")
         header = text[:i]

@@ -3,7 +3,7 @@ type:     ai seminar
 who:      <speaker>dan weld</speaker>, university of washington
 topic:    planning: recent results
 dates:    8-feb-94
-time:     3:30 pm
+time:     <stime>3:30 pm</stime>
 place:    <location>5409 wean hall</location>
 host:     michael erdmann
 postedby: plp+ on 28-jan-94 at 10:19 from phyllis.adm.cs.cmu.edu (phyllis pomerantz)
